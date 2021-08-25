@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "area_id": "1",
+        "title": "AREA_TITLE_MAIN1",
+        "unlock_clearstage": "0",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "2",
+        "area_id": "2",
+        "title": "AREA_TITLE_MAIN2",
+        "unlock_clearstage": "101121",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "3",
+        "area_id": "3",
+        "title": "AREA_TITLE_MAIN3",
+        "unlock_clearstage": "102161",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "4",
+        "area_id": "4",
+        "title": "AREA_TITLE_MAIN4",
+        "unlock_clearstage": "103201",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "5",
+        "area_id": "5",
+        "title": "AREA_TITLE_MAIN5",
+        "unlock_clearstage": "104201",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "6",
+        "area_id": "6",
+        "title": "AREA_TITLE_MAIN6",
+        "unlock_clearstage": "105201",
+        "unlock_date_start": "2021/8/3 1:00",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "7",
+        "area_id": "7",
+        "title": "AREA_TITLE_MAIN7",
+        "unlock_clearstage": "106201",
+        "unlock_date_start": "2021/8/19 1:00",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "8",
+        "area_id": "8",
+        "title": "AREA_TITLE_MAIN8",
+        "unlock_clearstage": "107201",
+        "unlock_date_start": "2021/9/14 1:00",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "9",
+        "area_id": "9",
+        "title": "AREA_TITLE_MAIN9",
+        "unlock_clearstage": "108201",
+        "unlock_date_start": "2021/10/14 1:00",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "10",
+        "area_id": "10",
+        "title": "AREA_TITLE_MAIN10",
+        "unlock_clearstage": "109201",
+        "unlock_date_start": "2021/11/9 1:00",
+        "unlock_date_end": "0"
+    },
+    {
+        "id": "11",
+        "area_id": "11",
+        "title": "AREA_TITLE_MAIN11",
+        "unlock_clearstage": "110201",
+        "unlock_date_start": "2021/12/14 1:00",
+        "unlock_date_end": "0"
+    }
+]

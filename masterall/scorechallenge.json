@@ -1,0 +1,302 @@
+[
+    {
+        "id": "2025",
+        "scorechallenge_id": "2025",
+        "title": "1",
+        "start_at": "2021/5/13 12:00",
+        "end_at": "2021/6/30 11:59",
+        "reward_start_at": "2021/7/1 12:00",
+        "reward_end_at": "2021/7/7 12:00",
+        "rule": "1"
+    },
+    {
+        "id": "2026",
+        "scorechallenge_id": "2026",
+        "title": "1",
+        "start_at": "2021/7/20 8:00",
+        "end_at": "2021/7/26 7:59",
+        "reward_start_at": "2021/7/27 8:00",
+        "reward_end_at": "2021/8/2 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "2027",
+        "scorechallenge_id": "2027",
+        "title": "1",
+        "start_at": "2021/7/26 8:00",
+        "end_at": "2021/8/2 7:59",
+        "reward_start_at": "2021/8/3 8:00",
+        "reward_end_at": "2021/8/9 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "2028",
+        "scorechallenge_id": "2028",
+        "title": "1",
+        "start_at": "2021/8/2 8:00",
+        "end_at": "2021/8/9 7:59",
+        "reward_start_at": "2021/8/10 8:00",
+        "reward_end_at": "2021/8/16 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "2029",
+        "scorechallenge_id": "2029",
+        "title": "1",
+        "start_at": "2021/8/9 8:00",
+        "end_at": "2021/8/16 7:59",
+        "reward_start_at": "2021/8/17 8:00",
+        "reward_end_at": "2021/8/24 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "2",
+        "scorechallenge_id": "2",
+        "title": "2",
+        "start_at": "2021/8/19 8:00",
+        "end_at": "2021/8/30 7:59",
+        "reward_start_at": "2021/8/31 8:00",
+        "reward_end_at": "2021/9/6 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "8",
+        "scorechallenge_id": "8",
+        "title": "8",
+        "start_at": "2021/8/30 8:00",
+        "end_at": "2021/9/6 7:59",
+        "reward_start_at": "2021/9/7 8:00",
+        "reward_end_at": "2021/9/13 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "11",
+        "scorechallenge_id": "11",
+        "title": "11",
+        "start_at": "2021/9/6 8:00",
+        "end_at": "2021/9/13 7:59",
+        "reward_start_at": "2021/9/14 8:00",
+        "reward_end_at": "2021/9/20 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "14",
+        "scorechallenge_id": "14",
+        "title": "14",
+        "start_at": "2021/9/13 8:00",
+        "end_at": "2021/9/20 7:59",
+        "reward_start_at": "2021/9/21 8:00",
+        "reward_end_at": "2021/9/27 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "10",
+        "scorechallenge_id": "10",
+        "title": "10",
+        "start_at": "2021/9/20 8:00",
+        "end_at": "2021/9/27 7:59",
+        "reward_start_at": "2021/9/28 8:00",
+        "reward_end_at": "2021/10/4 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "5",
+        "scorechallenge_id": "5",
+        "title": "5",
+        "start_at": "2021/9/27 8:00",
+        "end_at": "2021/10/4 7:59",
+        "reward_start_at": "2021/10/5 8:00",
+        "reward_end_at": "2021/10/11 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "6",
+        "scorechallenge_id": "6",
+        "title": "6",
+        "start_at": "2021/10/4 8:00",
+        "end_at": "2021/10/11 7:59",
+        "reward_start_at": "2021/10/12 8:00",
+        "reward_end_at": "2021/10/18 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "9",
+        "scorechallenge_id": "9",
+        "title": "9",
+        "start_at": "2021/10/11 8:00",
+        "end_at": "2021/10/18 7:59",
+        "reward_start_at": "2021/10/19 8:00",
+        "reward_end_at": "2021/10/25 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "3",
+        "scorechallenge_id": "3",
+        "title": "3",
+        "start_at": "2020/4/27 8:00",
+        "end_at": "2020/5/4 7:59",
+        "reward_start_at": "2020/5/5 8:00",
+        "reward_end_at": "2020/5/11 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "4",
+        "scorechallenge_id": "4",
+        "title": "4",
+        "start_at": "2020/5/4 8:00",
+        "end_at": "2020/5/11 7:59",
+        "reward_start_at": "2020/5/12 8:00",
+        "reward_end_at": "2020/5/18 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "12",
+        "scorechallenge_id": "12",
+        "title": "12",
+        "start_at": "2020/5/11 8:00",
+        "end_at": "2020/5/18 7:59",
+        "reward_start_at": "2020/5/19 8:00",
+        "reward_end_at": "2020/5/25 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "13",
+        "scorechallenge_id": "13",
+        "title": "13",
+        "start_at": "2020/5/18 8:00",
+        "end_at": "2020/5/25 7:59",
+        "reward_start_at": "2020/5/26 8:00",
+        "reward_end_at": "2020/6/1 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "7",
+        "scorechallenge_id": "7",
+        "title": "7",
+        "start_at": "2020/5/25 8:00",
+        "end_at": "2020/6/1 7:59",
+        "reward_start_at": "2020/6/2 8:00",
+        "reward_end_at": "2020/6/8 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "15",
+        "scorechallenge_id": "15",
+        "title": "15",
+        "start_at": "2020/6/1 8:00",
+        "end_at": "2020/6/8 7:59",
+        "reward_start_at": "2020/6/9 8:00",
+        "reward_end_at": "2020/6/15 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "16",
+        "scorechallenge_id": "16",
+        "title": "16",
+        "start_at": "2020/6/8 8:00",
+        "end_at": "2020/6/15 7:59",
+        "reward_start_at": "2020/6/16 8:00",
+        "reward_end_at": "2020/6/22 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "17",
+        "scorechallenge_id": "17",
+        "title": "17",
+        "start_at": "2020/6/15 8:00",
+        "end_at": "2020/6/22 7:59",
+        "reward_start_at": "2020/6/23 8:00",
+        "reward_end_at": "2020/6/29 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "18",
+        "scorechallenge_id": "18",
+        "title": "18",
+        "start_at": "2020/6/22 8:00",
+        "end_at": "2020/6/29 7:59",
+        "reward_start_at": "2020/6/30 8:00",
+        "reward_end_at": "2020/7/6 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "19",
+        "scorechallenge_id": "19",
+        "title": "19",
+        "start_at": "2020/6/29 8:00",
+        "end_at": "2020/7/6 7:59",
+        "reward_start_at": "2020/7/7 8:00",
+        "reward_end_at": "2020/7/13 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "20",
+        "scorechallenge_id": "20",
+        "title": "20",
+        "start_at": "2020/7/6 8:00",
+        "end_at": "2020/7/13 7:59",
+        "reward_start_at": "2020/7/14 8:00",
+        "reward_end_at": "2020/7/20 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "21",
+        "scorechallenge_id": "21",
+        "title": "21",
+        "start_at": "2020/7/13 8:00",
+        "end_at": "2020/7/20 7:59",
+        "reward_start_at": "2020/7/21 8:00",
+        "reward_end_at": "2020/7/27 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "22",
+        "scorechallenge_id": "22",
+        "title": "22",
+        "start_at": "2020/7/20 8:00",
+        "end_at": "2020/7/27 7:59",
+        "reward_start_at": "2020/7/28 8:00",
+        "reward_end_at": "2020/8/3 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "23",
+        "scorechallenge_id": "23",
+        "title": "23",
+        "start_at": "2020/7/27 8:00",
+        "end_at": "2020/8/3 7:59",
+        "reward_start_at": "2020/8/4 8:00",
+        "reward_end_at": "2020/8/10 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "24",
+        "scorechallenge_id": "24",
+        "title": "24",
+        "start_at": "2020/8/3 8:00",
+        "end_at": "2020/8/10 7:59",
+        "reward_start_at": "2020/8/11 8:00",
+        "reward_end_at": "2020/8/17 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "25",
+        "scorechallenge_id": "25",
+        "title": "25",
+        "start_at": "2020/8/10 8:00",
+        "end_at": "2020/8/17 7:59",
+        "reward_start_at": "2020/8/18 8:00",
+        "reward_end_at": "2020/8/24 7:59",
+        "rule": "1"
+    },
+    {
+        "id": "26",
+        "scorechallenge_id": "26",
+        "title": "26",
+        "start_at": "2020/8/17 8:00",
+        "end_at": "2020/8/24 7:59",
+        "reward_start_at": "2020/8/25 8:00",
+        "reward_end_at": "2020/8/31 7:59",
+        "rule": "1"
+    }
+]

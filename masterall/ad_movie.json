@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "movie": "AdMovieGacha320031,member_cut_320031",
+        "sort_order": "1",
+        "start_at": "2020/03/09 15:00:00",
+        "end_at": "2020/03/17 5:00:00"
+    },
+    {
+        "id": "2",
+        "movie": "AdMovieGacha320032,member_cut_320032",
+        "sort_order": "50",
+        "start_at": "2020/03/17 15:00:00",
+        "end_at": "2020/03/31 15:00:00"
+    },
+    {
+        "id": "3",
+        "movie": "AdMovieGacha320041,member_cut_320041",
+        "sort_order": "50",
+        "start_at": "2020/03/31 15:00:00",
+        "end_at": "2020/04/10 15:00:00"
+    },
+    {
+        "id": "4",
+        "movie": "AdMovieGacha320042,member_cut_320042",
+        "sort_order": "50",
+        "start_at": "2020/04/10 15:00:00",
+        "end_at": "2020/04/22 15:00:00"
+    },
+    {
+        "id": "5",
+        "movie": "AdMovieGacha320043,member_cut_320043",
+        "sort_order": "50",
+        "start_at": "2020/04/22 15:00:00",
+        "end_at": "2020/04/30 15:00:00"
+    },
+    {
+        "id": "6",
+        "movie": "AdMovieGacha320051,member_cut_320051",
+        "sort_order": "50",
+        "start_at": "2020/04/30 15:00:00",
+        "end_at": "2020/05/12 15:00:00"
+    },
+    {
+        "id": "7",
+        "movie": "AdMovieGacha320052,member_cut_320052",
+        "sort_order": "50",
+        "start_at": "2020/05/12 15:00:00",
+        "end_at": "2020/05/21 15:00:00"
+    },
+    {
+        "id": "8",
+        "movie": "AdMovieGacha320053,member_cut_320053",
+        "sort_order": "50",
+        "start_at": "2020/05/21 15:00:00",
+        "end_at": "2020/05/31 15:00:00"
+    },
+    {
+        "id": "9",
+        "movie": "AdMovieGacha320061,member_cut_320061",
+        "sort_order": "50",
+        "start_at": "2020/05/31 15:00:00",
+        "end_at": "2020/06/12 15:00:00"
+    },
+    {
+        "id": "10",
+        "movie": "AdMovieGacha320062,member_cut_320062",
+        "sort_order": "50",
+        "start_at": "2020/06/12 15:00:00",
+        "end_at": "2020/06/22 15:00:00"
+    },
+    {
+        "id": "11",
+        "movie": "AdMovieGacha320063,member_cut_320063",
+        "sort_order": "50",
+        "start_at": "2020/06/22 15:00:00",
+        "end_at": "2020/06/30 15:00:00"
+    },
+    {
+        "id": "12",
+        "movie": "AdMovieGacha320071,member_cut_320071",
+        "sort_order": "50",
+        "start_at": "2020/06/30 15:00:00",
+        "end_at": "2020/07/10 15:00:00"
+    },
+    {
+        "id": "13",
+        "movie": "AdMovieGacha320072,member_cut_320072",
+        "sort_order": "50",
+        "start_at": "2020/07/10 15:00:00",
+        "end_at": "2020/08/11 15:00:00"
+    },
+    {
+        "id": "14",
+        "movie": "AdMovieGacha320073,member_cut_320073",
+        "sort_order": "50",
+        "start_at": "2020/07/21 15:00:00",
+        "end_at": "2020/08/11 15:00:00"
+    },
+    {
+        "id": "15",
+        "movie": "AdMovieGacha320081,member_cut_320081",
+        "sort_order": "50",
+        "start_at": "2020/07/31 15:00:00",
+        "end_at": "2020/08/11 15:00:00"
+    },
+    {
+        "id": "16",
+        "movie": "AdMovieGacha320082,member_cut_320082",
+        "sort_order": "50",
+        "start_at": "2020/08/11 15:00:00",
+        "end_at": "2020/08/21 15:00:00"
+    }
+]

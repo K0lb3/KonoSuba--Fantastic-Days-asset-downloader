@@ -1,0 +1,1652 @@
+[
+    {
+        "skill_id": "100000000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "110000000",
+        "skill_icon": "3013001",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "101000000",
+        "skill_icon": "3013002",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100100000",
+        "skill_icon": "3013003",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100010000",
+        "skill_icon": "3013004",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100001000",
+        "skill_icon": "3013005",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000100",
+        "skill_icon": "3013006",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000010",
+        "skill_icon": "3013007",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "120000000",
+        "skill_icon": "3013001",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "102000000",
+        "skill_icon": "3013002",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100200000",
+        "skill_icon": "3013003",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100020000",
+        "skill_icon": "3013004",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100002000",
+        "skill_icon": "3013005",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000200",
+        "skill_icon": "3013006",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000020",
+        "skill_icon": "3013007",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "130000000",
+        "skill_icon": "3013001",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "103000000",
+        "skill_icon": "3013002",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100300000",
+        "skill_icon": "3013003",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100030000",
+        "skill_icon": "3013004",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100003000",
+        "skill_icon": "3013005",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000300",
+        "skill_icon": "3013006",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000030",
+        "skill_icon": "3013007",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "133333000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "144444000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "150000000",
+        "skill_icon": "3013001",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "105000000",
+        "skill_icon": "3013002",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100500000",
+        "skill_icon": "3013003",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100050000",
+        "skill_icon": "3013004",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100005000",
+        "skill_icon": "3013005",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000500",
+        "skill_icon": "3013006",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000050",
+        "skill_icon": "3013007",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "160000000",
+        "skill_icon": "3013001",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "106000000",
+        "skill_icon": "3013002",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100600000",
+        "skill_icon": "3013003",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100060000",
+        "skill_icon": "3013004",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100006000",
+        "skill_icon": "3013005",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000600",
+        "skill_icon": "3013006",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000060",
+        "skill_icon": "3013007",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "155000000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "105500000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "105050000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "105000050",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210000",
+        "skill_icon": "313000",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210101",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210102",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210103",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210104",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210201",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210202",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210203",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210204",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210301",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210302",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210303",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210304",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210401",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210402",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210403",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210404",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210501",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210502",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210503",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210504",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210601",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210602",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210603",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210604",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210701",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210702",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210703",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210704",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210121",
+        "skill_icon": "3023008",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210122",
+        "skill_icon": "3023008",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210123",
+        "skill_icon": "3023008",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210124",
+        "skill_icon": "3023008",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210131",
+        "skill_icon": "3023009",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210132",
+        "skill_icon": "3023009",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210133",
+        "skill_icon": "3023009",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210134",
+        "skill_icon": "3023009",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210141",
+        "skill_icon": "3023010",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210142",
+        "skill_icon": "3023010",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210143",
+        "skill_icon": "3023010",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210144",
+        "skill_icon": "3023010",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210151",
+        "skill_icon": "3023011",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210152",
+        "skill_icon": "3023011",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210153",
+        "skill_icon": "3023011",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210154",
+        "skill_icon": "3023011",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210161",
+        "skill_icon": "3023012",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210162",
+        "skill_icon": "3023012",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210163",
+        "skill_icon": "3023012",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210164",
+        "skill_icon": "3023012",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210171",
+        "skill_icon": "3023013",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210172",
+        "skill_icon": "3023013",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210173",
+        "skill_icon": "3023013",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210174",
+        "skill_icon": "3023013",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210231",
+        "skill_icon": "3023014",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210232",
+        "skill_icon": "3023014",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210233",
+        "skill_icon": "3023014",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210234",
+        "skill_icon": "3023014",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210241",
+        "skill_icon": "3023015",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210242",
+        "skill_icon": "3023015",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210243",
+        "skill_icon": "3023015",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210244",
+        "skill_icon": "3023015",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210251",
+        "skill_icon": "3023016",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210252",
+        "skill_icon": "3023016",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210253",
+        "skill_icon": "3023016",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210254",
+        "skill_icon": "3023016",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210261",
+        "skill_icon": "3023017",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210262",
+        "skill_icon": "3023017",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210263",
+        "skill_icon": "3023017",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210264",
+        "skill_icon": "3023017",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210271",
+        "skill_icon": "3023018",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210272",
+        "skill_icon": "3023018",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210273",
+        "skill_icon": "3023018",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210274",
+        "skill_icon": "3023018",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210341",
+        "skill_icon": "3023019",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210342",
+        "skill_icon": "3023019",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210343",
+        "skill_icon": "3023019",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210344",
+        "skill_icon": "3023019",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210351",
+        "skill_icon": "3023020",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210352",
+        "skill_icon": "3023020",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210353",
+        "skill_icon": "3023020",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210354",
+        "skill_icon": "3023020",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210361",
+        "skill_icon": "3023021",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210362",
+        "skill_icon": "3023021",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210363",
+        "skill_icon": "3023021",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210364",
+        "skill_icon": "3023021",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210371",
+        "skill_icon": "3023022",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210372",
+        "skill_icon": "3023022",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210373",
+        "skill_icon": "3023022",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210374",
+        "skill_icon": "3023022",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210451",
+        "skill_icon": "3023023",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210452",
+        "skill_icon": "3023023",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210453",
+        "skill_icon": "3023023",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210454",
+        "skill_icon": "3023023",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210461",
+        "skill_icon": "3023024",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210462",
+        "skill_icon": "3023024",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210463",
+        "skill_icon": "3023024",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210464",
+        "skill_icon": "3023024",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210471",
+        "skill_icon": "3023025",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210472",
+        "skill_icon": "3023025",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210473",
+        "skill_icon": "3023025",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210474",
+        "skill_icon": "3023025",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210561",
+        "skill_icon": "3023026",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210562",
+        "skill_icon": "3023026",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210563",
+        "skill_icon": "3023026",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210564",
+        "skill_icon": "3023026",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210571",
+        "skill_icon": "3023027",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210572",
+        "skill_icon": "3023027",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210573",
+        "skill_icon": "3023027",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210574",
+        "skill_icon": "3023027",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210671",
+        "skill_icon": "3023028",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210672",
+        "skill_icon": "3023028",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210673",
+        "skill_icon": "3023028",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "210674",
+        "skill_icon": "3023028",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "211003",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "211004",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "212003",
+        "skill_icon": "3022000",
+        "skill_type": "damage_magic_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "212004",
+        "skill_icon": "3022000",
+        "skill_type": "damage_magic_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "220001",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "220002",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "220003",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "220004",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "230002",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "230003",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "230004",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "231002",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "231003",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "231004",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "232002",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "232003",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "232004",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "233002",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "233003",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "233004",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "240003",
+        "skill_icon": "3048000",
+        "skill_type": "sp_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "241002",
+        "skill_icon": "3036400",
+        "skill_type": "heal_rule_action_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "241003",
+        "skill_icon": "3036400",
+        "skill_type": "heal_rule_action_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "241004",
+        "skill_icon": "3036400",
+        "skill_type": "heal_rule_action_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "242002",
+        "skill_icon": "3037500",
+        "skill_type": "absorption_damaged_rule_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "242003",
+        "skill_icon": "3037500",
+        "skill_type": "absorption_damaged_rule_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "242004",
+        "skill_icon": "3037500",
+        "skill_type": "absorption_damaged_rule_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "244003",
+        "skill_icon": "3011000",
+        "skill_type": "damaged_physics_down",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "244004",
+        "skill_icon": "3011000",
+        "skill_type": "damaged_physics_down",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "245003",
+        "skill_icon": "3012000",
+        "skill_type": "damaged_magic_down",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "245004",
+        "skill_icon": "3012000",
+        "skill_type": "damaged_magic_down",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410102",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410103",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410104",
+        "skill_icon": "3023001",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410202",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410203",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410204",
+        "skill_icon": "3023002",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410302",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410303",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410304",
+        "skill_icon": "3023003",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410402",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410403",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410404",
+        "skill_icon": "3023004",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410502",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410503",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410504",
+        "skill_icon": "3023005",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410602",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410603",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410604",
+        "skill_icon": "3023006",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410702",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410703",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "410704",
+        "skill_icon": "3023007",
+        "skill_type": "damage_attribute_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "430002",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "430003",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "430004",
+        "skill_icon": "3014001",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "431002",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "431003",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "431004",
+        "skill_icon": "3014002",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "432002",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "432003",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "432004",
+        "skill_icon": "3014004",
+        "skill_type": "resistance_up_silence",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "433002",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "433003",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "433004",
+        "skill_icon": "3014003",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4313100",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4313200",
+        "skill_icon": "3037500",
+        "skill_type": "absorption_damaged_rule_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4313300",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4313400",
+        "skill_icon": "3022000",
+        "skill_type": "damage_magic_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4313500",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4314100",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4314200",
+        "skill_icon": "3037500",
+        "skill_type": "absorption_damaged_rule_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4314300",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4314400",
+        "skill_icon": "3022000",
+        "skill_type": "damage_magic_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4314500",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4324100",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4324200",
+        "skill_icon": "3036400",
+        "skill_type": "heal_rule_action_probability",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4324300",
+        "skill_icon": "3021000",
+        "skill_type": "damage_physics_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4324400",
+        "skill_icon": "3022000",
+        "skill_type": "damage_magic_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "4324500",
+        "skill_icon": "3035000",
+        "skill_type": "heal_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300001",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300002",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300004",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_binding",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300010",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300020",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300021",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300024",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300034",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300200",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300212",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300221",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300224",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300234",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300244",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300334",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300400",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300402",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300404",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300422",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300441",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000070",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100000700",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "100607000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "106070000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "106070700",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "107006000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "160700000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "170000000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "170060000",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300424",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300432",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300011",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300012",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300242",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300442",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_poison",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "107006700",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300041",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300042",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300044",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    },
+    {
+        "skill_id": "300022",
+        "skill_icon": "0",
+        "skill_type": "resistance_up_blind",
+        "skill_attribute": "0"
+    }
+]

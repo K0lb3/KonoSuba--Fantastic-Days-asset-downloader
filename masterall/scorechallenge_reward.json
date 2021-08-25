@@ -1,0 +1,3746 @@
+[
+    {
+        "id": "101",
+        "scorechallenge_id": "1",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "102",
+        "scorechallenge_id": "1",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "103",
+        "scorechallenge_id": "1",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "104",
+        "scorechallenge_id": "1",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "105",
+        "scorechallenge_id": "1",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "106",
+        "scorechallenge_id": "1",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "107",
+        "scorechallenge_id": "1",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "108",
+        "scorechallenge_id": "1",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "109",
+        "scorechallenge_id": "1",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "110",
+        "scorechallenge_id": "1",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "111",
+        "scorechallenge_id": "1",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "112",
+        "scorechallenge_id": "1",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "113",
+        "scorechallenge_id": "1",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "201",
+        "scorechallenge_id": "2",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "202",
+        "scorechallenge_id": "2",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000235"
+    },
+    {
+        "id": "203",
+        "scorechallenge_id": "2",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000234"
+    },
+    {
+        "id": "204",
+        "scorechallenge_id": "2",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000233"
+    },
+    {
+        "id": "205",
+        "scorechallenge_id": "2",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000232"
+    },
+    {
+        "id": "206",
+        "scorechallenge_id": "2",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000231"
+    },
+    {
+        "id": "207",
+        "scorechallenge_id": "2",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000221"
+    },
+    {
+        "id": "208",
+        "scorechallenge_id": "2",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "209",
+        "scorechallenge_id": "2",
+        "rank_1": "20001",
+        "rank_2": "40000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "210",
+        "scorechallenge_id": "2",
+        "rank_1": "40001",
+        "rank_2": "70000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "211",
+        "scorechallenge_id": "2",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "212",
+        "scorechallenge_id": "2",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "213",
+        "scorechallenge_id": "2",
+        "rank_1": "150001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000211"
+    },
+    {
+        "id": "301",
+        "scorechallenge_id": "10",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "302",
+        "scorechallenge_id": "10",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "303",
+        "scorechallenge_id": "10",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "304",
+        "scorechallenge_id": "10",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "305",
+        "scorechallenge_id": "10",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "306",
+        "scorechallenge_id": "10",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "307",
+        "scorechallenge_id": "10",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "308",
+        "scorechallenge_id": "10",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "309",
+        "scorechallenge_id": "10",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "310",
+        "scorechallenge_id": "10",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "311",
+        "scorechallenge_id": "10",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "312",
+        "scorechallenge_id": "10",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "313",
+        "scorechallenge_id": "10",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "401",
+        "scorechallenge_id": "11",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "402",
+        "scorechallenge_id": "11",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000235"
+    },
+    {
+        "id": "403",
+        "scorechallenge_id": "11",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000234"
+    },
+    {
+        "id": "404",
+        "scorechallenge_id": "11",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000233"
+    },
+    {
+        "id": "405",
+        "scorechallenge_id": "11",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000232"
+    },
+    {
+        "id": "406",
+        "scorechallenge_id": "11",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000231"
+    },
+    {
+        "id": "407",
+        "scorechallenge_id": "11",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000221"
+    },
+    {
+        "id": "408",
+        "scorechallenge_id": "11",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "409",
+        "scorechallenge_id": "11",
+        "rank_1": "20001",
+        "rank_2": "40000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "410",
+        "scorechallenge_id": "11",
+        "rank_1": "40001",
+        "rank_2": "70000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "411",
+        "scorechallenge_id": "11",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "412",
+        "scorechallenge_id": "11",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "413",
+        "scorechallenge_id": "11",
+        "rank_1": "150001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000211"
+    },
+    {
+        "id": "501",
+        "scorechallenge_id": "5",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "502",
+        "scorechallenge_id": "5",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "503",
+        "scorechallenge_id": "5",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "504",
+        "scorechallenge_id": "5",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "505",
+        "scorechallenge_id": "5",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "506",
+        "scorechallenge_id": "5",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "507",
+        "scorechallenge_id": "5",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "508",
+        "scorechallenge_id": "5",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "509",
+        "scorechallenge_id": "5",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "510",
+        "scorechallenge_id": "5",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "511",
+        "scorechallenge_id": "5",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "512",
+        "scorechallenge_id": "5",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "513",
+        "scorechallenge_id": "5",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "601",
+        "scorechallenge_id": "6",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "602",
+        "scorechallenge_id": "6",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "603",
+        "scorechallenge_id": "6",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "604",
+        "scorechallenge_id": "6",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "605",
+        "scorechallenge_id": "6",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "606",
+        "scorechallenge_id": "6",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "607",
+        "scorechallenge_id": "6",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "608",
+        "scorechallenge_id": "6",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "609",
+        "scorechallenge_id": "6",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "610",
+        "scorechallenge_id": "6",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "611",
+        "scorechallenge_id": "6",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "612",
+        "scorechallenge_id": "6",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "613",
+        "scorechallenge_id": "6",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "701",
+        "scorechallenge_id": "14",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "702",
+        "scorechallenge_id": "14",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "703",
+        "scorechallenge_id": "14",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "704",
+        "scorechallenge_id": "14",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "705",
+        "scorechallenge_id": "14",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "706",
+        "scorechallenge_id": "14",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "707",
+        "scorechallenge_id": "14",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "708",
+        "scorechallenge_id": "14",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "709",
+        "scorechallenge_id": "14",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "710",
+        "scorechallenge_id": "14",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "711",
+        "scorechallenge_id": "14",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "712",
+        "scorechallenge_id": "14",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "713",
+        "scorechallenge_id": "14",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "801",
+        "scorechallenge_id": "8",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "802",
+        "scorechallenge_id": "8",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000235"
+    },
+    {
+        "id": "803",
+        "scorechallenge_id": "8",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000234"
+    },
+    {
+        "id": "804",
+        "scorechallenge_id": "8",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000233"
+    },
+    {
+        "id": "805",
+        "scorechallenge_id": "8",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000232"
+    },
+    {
+        "id": "806",
+        "scorechallenge_id": "8",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000231"
+    },
+    {
+        "id": "807",
+        "scorechallenge_id": "8",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000221"
+    },
+    {
+        "id": "808",
+        "scorechallenge_id": "8",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "809",
+        "scorechallenge_id": "8",
+        "rank_1": "20001",
+        "rank_2": "40000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "810",
+        "scorechallenge_id": "8",
+        "rank_1": "40001",
+        "rank_2": "70000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "811",
+        "scorechallenge_id": "8",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "812",
+        "scorechallenge_id": "8",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "813",
+        "scorechallenge_id": "8",
+        "rank_1": "150001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000211"
+    },
+    {
+        "id": "901",
+        "scorechallenge_id": "9",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "902",
+        "scorechallenge_id": "9",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "903",
+        "scorechallenge_id": "9",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "904",
+        "scorechallenge_id": "9",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "905",
+        "scorechallenge_id": "9",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "906",
+        "scorechallenge_id": "9",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "907",
+        "scorechallenge_id": "9",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "908",
+        "scorechallenge_id": "9",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "909",
+        "scorechallenge_id": "9",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "910",
+        "scorechallenge_id": "9",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "911",
+        "scorechallenge_id": "9",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "912",
+        "scorechallenge_id": "9",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "913",
+        "scorechallenge_id": "9",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1001",
+        "scorechallenge_id": "10",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1002",
+        "scorechallenge_id": "10",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1003",
+        "scorechallenge_id": "10",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1004",
+        "scorechallenge_id": "10",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1005",
+        "scorechallenge_id": "10",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1006",
+        "scorechallenge_id": "10",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1007",
+        "scorechallenge_id": "10",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1008",
+        "scorechallenge_id": "10",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1009",
+        "scorechallenge_id": "10",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1010",
+        "scorechallenge_id": "10",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1011",
+        "scorechallenge_id": "10",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1012",
+        "scorechallenge_id": "10",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1013",
+        "scorechallenge_id": "10",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1101",
+        "scorechallenge_id": "4",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1102",
+        "scorechallenge_id": "4",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1103",
+        "scorechallenge_id": "4",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1104",
+        "scorechallenge_id": "4",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1105",
+        "scorechallenge_id": "4",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1106",
+        "scorechallenge_id": "4",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1107",
+        "scorechallenge_id": "4",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1108",
+        "scorechallenge_id": "4",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1109",
+        "scorechallenge_id": "4",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1110",
+        "scorechallenge_id": "4",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1111",
+        "scorechallenge_id": "4",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1112",
+        "scorechallenge_id": "4",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1113",
+        "scorechallenge_id": "4",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1201",
+        "scorechallenge_id": "12",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1202",
+        "scorechallenge_id": "12",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1203",
+        "scorechallenge_id": "12",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1204",
+        "scorechallenge_id": "12",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1205",
+        "scorechallenge_id": "12",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1206",
+        "scorechallenge_id": "12",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1207",
+        "scorechallenge_id": "12",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1208",
+        "scorechallenge_id": "12",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1209",
+        "scorechallenge_id": "12",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1210",
+        "scorechallenge_id": "12",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1211",
+        "scorechallenge_id": "12",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1212",
+        "scorechallenge_id": "12",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1213",
+        "scorechallenge_id": "12",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1301",
+        "scorechallenge_id": "13",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1302",
+        "scorechallenge_id": "13",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1303",
+        "scorechallenge_id": "13",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1304",
+        "scorechallenge_id": "13",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1305",
+        "scorechallenge_id": "13",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1306",
+        "scorechallenge_id": "13",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1307",
+        "scorechallenge_id": "13",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1308",
+        "scorechallenge_id": "13",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1309",
+        "scorechallenge_id": "13",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1310",
+        "scorechallenge_id": "13",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1311",
+        "scorechallenge_id": "13",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1312",
+        "scorechallenge_id": "13",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1313",
+        "scorechallenge_id": "13",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1401",
+        "scorechallenge_id": "7",
+        "rank_1": "1",
+        "rank_2": "100",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1402",
+        "scorechallenge_id": "7",
+        "rank_1": "101",
+        "rank_2": "250",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000242"
+    },
+    {
+        "id": "1403",
+        "scorechallenge_id": "7",
+        "rank_1": "251",
+        "rank_2": "500",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000241"
+    },
+    {
+        "id": "1404",
+        "scorechallenge_id": "7",
+        "rank_1": "501",
+        "rank_2": "1000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000240"
+    },
+    {
+        "id": "1405",
+        "scorechallenge_id": "7",
+        "rank_1": "1001",
+        "rank_2": "2500",
+        "ranktype": "5",
+        "disclosure": "1",
+        "pack_id": "2000239"
+    },
+    {
+        "id": "1406",
+        "scorechallenge_id": "7",
+        "rank_1": "2501",
+        "rank_2": "5000",
+        "ranktype": "6",
+        "disclosure": "1",
+        "pack_id": "2000238"
+    },
+    {
+        "id": "1407",
+        "scorechallenge_id": "7",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "7",
+        "disclosure": "1",
+        "pack_id": "2000237"
+    },
+    {
+        "id": "1408",
+        "scorechallenge_id": "7",
+        "rank_1": "10001",
+        "rank_2": "30000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000222"
+    },
+    {
+        "id": "1409",
+        "scorechallenge_id": "7",
+        "rank_1": "30001",
+        "rank_2": "50000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1410",
+        "scorechallenge_id": "7",
+        "rank_1": "50001",
+        "rank_2": "100000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1411",
+        "scorechallenge_id": "7",
+        "rank_1": "100001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1412",
+        "scorechallenge_id": "7",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1413",
+        "scorechallenge_id": "7",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1501",
+        "scorechallenge_id": "15",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1502",
+        "scorechallenge_id": "15",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1503",
+        "scorechallenge_id": "15",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1504",
+        "scorechallenge_id": "15",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1505",
+        "scorechallenge_id": "15",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1506",
+        "scorechallenge_id": "15",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1507",
+        "scorechallenge_id": "15",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1508",
+        "scorechallenge_id": "15",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1509",
+        "scorechallenge_id": "15",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1510",
+        "scorechallenge_id": "15",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1511",
+        "scorechallenge_id": "15",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1512",
+        "scorechallenge_id": "15",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1513",
+        "scorechallenge_id": "15",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1601",
+        "scorechallenge_id": "16",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1602",
+        "scorechallenge_id": "16",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1603",
+        "scorechallenge_id": "16",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1604",
+        "scorechallenge_id": "16",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1605",
+        "scorechallenge_id": "16",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1606",
+        "scorechallenge_id": "16",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1607",
+        "scorechallenge_id": "16",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1608",
+        "scorechallenge_id": "16",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1609",
+        "scorechallenge_id": "16",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1610",
+        "scorechallenge_id": "16",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1611",
+        "scorechallenge_id": "16",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1612",
+        "scorechallenge_id": "16",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1613",
+        "scorechallenge_id": "16",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1701",
+        "scorechallenge_id": "17",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1702",
+        "scorechallenge_id": "17",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1703",
+        "scorechallenge_id": "17",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1704",
+        "scorechallenge_id": "17",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1705",
+        "scorechallenge_id": "17",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1706",
+        "scorechallenge_id": "17",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1707",
+        "scorechallenge_id": "17",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1708",
+        "scorechallenge_id": "17",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1709",
+        "scorechallenge_id": "17",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1710",
+        "scorechallenge_id": "17",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1711",
+        "scorechallenge_id": "17",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1712",
+        "scorechallenge_id": "17",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1713",
+        "scorechallenge_id": "17",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1801",
+        "scorechallenge_id": "18",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1802",
+        "scorechallenge_id": "18",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1803",
+        "scorechallenge_id": "18",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1804",
+        "scorechallenge_id": "18",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1805",
+        "scorechallenge_id": "18",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1806",
+        "scorechallenge_id": "18",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1807",
+        "scorechallenge_id": "18",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1808",
+        "scorechallenge_id": "18",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1809",
+        "scorechallenge_id": "18",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1810",
+        "scorechallenge_id": "18",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1811",
+        "scorechallenge_id": "18",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1812",
+        "scorechallenge_id": "18",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1813",
+        "scorechallenge_id": "18",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "1901",
+        "scorechallenge_id": "19",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "1902",
+        "scorechallenge_id": "19",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "1903",
+        "scorechallenge_id": "19",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "1904",
+        "scorechallenge_id": "19",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "1905",
+        "scorechallenge_id": "19",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "1906",
+        "scorechallenge_id": "19",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "1907",
+        "scorechallenge_id": "19",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "1908",
+        "scorechallenge_id": "19",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "1909",
+        "scorechallenge_id": "19",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "1910",
+        "scorechallenge_id": "19",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "1911",
+        "scorechallenge_id": "19",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "1912",
+        "scorechallenge_id": "19",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "1913",
+        "scorechallenge_id": "19",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2001",
+        "scorechallenge_id": "20",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2002",
+        "scorechallenge_id": "20",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2003",
+        "scorechallenge_id": "20",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2004",
+        "scorechallenge_id": "20",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2005",
+        "scorechallenge_id": "20",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2006",
+        "scorechallenge_id": "20",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2007",
+        "scorechallenge_id": "20",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2008",
+        "scorechallenge_id": "20",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2009",
+        "scorechallenge_id": "20",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2010",
+        "scorechallenge_id": "20",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2011",
+        "scorechallenge_id": "20",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2012",
+        "scorechallenge_id": "20",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2013",
+        "scorechallenge_id": "20",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2101",
+        "scorechallenge_id": "21",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2102",
+        "scorechallenge_id": "21",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2103",
+        "scorechallenge_id": "21",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2104",
+        "scorechallenge_id": "21",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2105",
+        "scorechallenge_id": "21",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2106",
+        "scorechallenge_id": "21",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2107",
+        "scorechallenge_id": "21",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2108",
+        "scorechallenge_id": "21",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2109",
+        "scorechallenge_id": "21",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2110",
+        "scorechallenge_id": "21",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2111",
+        "scorechallenge_id": "21",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2112",
+        "scorechallenge_id": "21",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2113",
+        "scorechallenge_id": "21",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2201",
+        "scorechallenge_id": "22",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2202",
+        "scorechallenge_id": "22",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2203",
+        "scorechallenge_id": "22",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2204",
+        "scorechallenge_id": "22",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2205",
+        "scorechallenge_id": "22",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2206",
+        "scorechallenge_id": "22",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2207",
+        "scorechallenge_id": "22",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2208",
+        "scorechallenge_id": "22",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2209",
+        "scorechallenge_id": "22",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2210",
+        "scorechallenge_id": "22",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2211",
+        "scorechallenge_id": "22",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2212",
+        "scorechallenge_id": "22",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2213",
+        "scorechallenge_id": "22",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2301",
+        "scorechallenge_id": "23",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2302",
+        "scorechallenge_id": "23",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2303",
+        "scorechallenge_id": "23",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2304",
+        "scorechallenge_id": "23",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2305",
+        "scorechallenge_id": "23",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2306",
+        "scorechallenge_id": "23",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2307",
+        "scorechallenge_id": "23",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2308",
+        "scorechallenge_id": "23",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2309",
+        "scorechallenge_id": "23",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2310",
+        "scorechallenge_id": "23",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2311",
+        "scorechallenge_id": "23",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2312",
+        "scorechallenge_id": "23",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2313",
+        "scorechallenge_id": "23",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2401",
+        "scorechallenge_id": "24",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2402",
+        "scorechallenge_id": "24",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2403",
+        "scorechallenge_id": "24",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2404",
+        "scorechallenge_id": "24",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2405",
+        "scorechallenge_id": "24",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2406",
+        "scorechallenge_id": "24",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2407",
+        "scorechallenge_id": "24",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2408",
+        "scorechallenge_id": "24",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2409",
+        "scorechallenge_id": "24",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2410",
+        "scorechallenge_id": "24",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2411",
+        "scorechallenge_id": "24",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2412",
+        "scorechallenge_id": "24",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2413",
+        "scorechallenge_id": "24",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2501",
+        "scorechallenge_id": "25",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2502",
+        "scorechallenge_id": "25",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2503",
+        "scorechallenge_id": "25",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2504",
+        "scorechallenge_id": "25",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2505",
+        "scorechallenge_id": "25",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2506",
+        "scorechallenge_id": "25",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2507",
+        "scorechallenge_id": "25",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2508",
+        "scorechallenge_id": "25",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2509",
+        "scorechallenge_id": "25",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2510",
+        "scorechallenge_id": "25",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2511",
+        "scorechallenge_id": "25",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2512",
+        "scorechallenge_id": "25",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2513",
+        "scorechallenge_id": "25",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "2601",
+        "scorechallenge_id": "26",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "2602",
+        "scorechallenge_id": "26",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "2603",
+        "scorechallenge_id": "26",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "2604",
+        "scorechallenge_id": "26",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "2605",
+        "scorechallenge_id": "26",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "2606",
+        "scorechallenge_id": "26",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "2607",
+        "scorechallenge_id": "26",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "2608",
+        "scorechallenge_id": "26",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "2609",
+        "scorechallenge_id": "26",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "2610",
+        "scorechallenge_id": "26",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "2611",
+        "scorechallenge_id": "26",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "2612",
+        "scorechallenge_id": "26",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "2613",
+        "scorechallenge_id": "26",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100001",
+        "scorechallenge_id": "2025",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100002",
+        "scorechallenge_id": "2025",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100003",
+        "scorechallenge_id": "2025",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100004",
+        "scorechallenge_id": "2025",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100005",
+        "scorechallenge_id": "2025",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100006",
+        "scorechallenge_id": "2025",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100007",
+        "scorechallenge_id": "2025",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100008",
+        "scorechallenge_id": "2025",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100009",
+        "scorechallenge_id": "2025",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100010",
+        "scorechallenge_id": "2025",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100011",
+        "scorechallenge_id": "2025",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100012",
+        "scorechallenge_id": "2025",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100013",
+        "scorechallenge_id": "2025",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100014",
+        "scorechallenge_id": "2026",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100015",
+        "scorechallenge_id": "2026",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100016",
+        "scorechallenge_id": "2026",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100017",
+        "scorechallenge_id": "2026",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100018",
+        "scorechallenge_id": "2026",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100019",
+        "scorechallenge_id": "2026",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100020",
+        "scorechallenge_id": "2026",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100021",
+        "scorechallenge_id": "2026",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100022",
+        "scorechallenge_id": "2026",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100023",
+        "scorechallenge_id": "2026",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100024",
+        "scorechallenge_id": "2026",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100025",
+        "scorechallenge_id": "2026",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100026",
+        "scorechallenge_id": "2026",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100027",
+        "scorechallenge_id": "2027",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100028",
+        "scorechallenge_id": "2027",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100029",
+        "scorechallenge_id": "2027",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100030",
+        "scorechallenge_id": "2027",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100031",
+        "scorechallenge_id": "2027",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100032",
+        "scorechallenge_id": "2027",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100033",
+        "scorechallenge_id": "2027",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100034",
+        "scorechallenge_id": "2027",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100035",
+        "scorechallenge_id": "2027",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100036",
+        "scorechallenge_id": "2027",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100037",
+        "scorechallenge_id": "2027",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100038",
+        "scorechallenge_id": "2027",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100039",
+        "scorechallenge_id": "2027",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100040",
+        "scorechallenge_id": "2028",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100041",
+        "scorechallenge_id": "2028",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100042",
+        "scorechallenge_id": "2028",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100043",
+        "scorechallenge_id": "2028",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100044",
+        "scorechallenge_id": "2028",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100045",
+        "scorechallenge_id": "2028",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100046",
+        "scorechallenge_id": "2028",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100047",
+        "scorechallenge_id": "2028",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100048",
+        "scorechallenge_id": "2028",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100049",
+        "scorechallenge_id": "2028",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100050",
+        "scorechallenge_id": "2028",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100051",
+        "scorechallenge_id": "2028",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100052",
+        "scorechallenge_id": "2028",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100053",
+        "scorechallenge_id": "2029",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100054",
+        "scorechallenge_id": "2029",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100055",
+        "scorechallenge_id": "2029",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100056",
+        "scorechallenge_id": "2029",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100057",
+        "scorechallenge_id": "2029",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100058",
+        "scorechallenge_id": "2029",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100059",
+        "scorechallenge_id": "2029",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100060",
+        "scorechallenge_id": "2029",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100061",
+        "scorechallenge_id": "2029",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100062",
+        "scorechallenge_id": "2029",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100063",
+        "scorechallenge_id": "2029",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100064",
+        "scorechallenge_id": "2029",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100065",
+        "scorechallenge_id": "2029",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    },
+    {
+        "id": "100066",
+        "scorechallenge_id": "2030",
+        "rank_1": "1",
+        "rank_2": "1000",
+        "ranktype": "1",
+        "disclosure": "1",
+        "pack_id": "2000236"
+    },
+    {
+        "id": "100067",
+        "scorechallenge_id": "2030",
+        "rank_1": "1001",
+        "rank_2": "5000",
+        "ranktype": "2",
+        "disclosure": "1",
+        "pack_id": "2000244"
+    },
+    {
+        "id": "100068",
+        "scorechallenge_id": "2030",
+        "rank_1": "5001",
+        "rank_2": "10000",
+        "ranktype": "3",
+        "disclosure": "1",
+        "pack_id": "2000243"
+    },
+    {
+        "id": "100069",
+        "scorechallenge_id": "2030",
+        "rank_1": "10001",
+        "rank_2": "20000",
+        "ranktype": "4",
+        "disclosure": "1",
+        "pack_id": "2000224"
+    },
+    {
+        "id": "100070",
+        "scorechallenge_id": "2030",
+        "rank_1": "20001",
+        "rank_2": "30000",
+        "ranktype": "5",
+        "disclosure": "0",
+        "pack_id": "2000223"
+    },
+    {
+        "id": "100071",
+        "scorechallenge_id": "2030",
+        "rank_1": "30001",
+        "rank_2": "40000",
+        "ranktype": "6",
+        "disclosure": "0",
+        "pack_id": "2000219"
+    },
+    {
+        "id": "100072",
+        "scorechallenge_id": "2030",
+        "rank_1": "40001",
+        "rank_2": "50000",
+        "ranktype": "7",
+        "disclosure": "0",
+        "pack_id": "2000218"
+    },
+    {
+        "id": "100073",
+        "scorechallenge_id": "2030",
+        "rank_1": "50001",
+        "rank_2": "70000",
+        "ranktype": "8",
+        "disclosure": "0",
+        "pack_id": "2000217"
+    },
+    {
+        "id": "100074",
+        "scorechallenge_id": "2030",
+        "rank_1": "70001",
+        "rank_2": "100000",
+        "ranktype": "9",
+        "disclosure": "0",
+        "pack_id": "2000216"
+    },
+    {
+        "id": "100075",
+        "scorechallenge_id": "2030",
+        "rank_1": "100001",
+        "rank_2": "150000",
+        "ranktype": "10",
+        "disclosure": "0",
+        "pack_id": "2000215"
+    },
+    {
+        "id": "100076",
+        "scorechallenge_id": "2030",
+        "rank_1": "150001",
+        "rank_2": "200000",
+        "ranktype": "11",
+        "disclosure": "0",
+        "pack_id": "2000214"
+    },
+    {
+        "id": "100077",
+        "scorechallenge_id": "2030",
+        "rank_1": "200001",
+        "rank_2": "300000",
+        "ranktype": "12",
+        "disclosure": "0",
+        "pack_id": "2000213"
+    },
+    {
+        "id": "100078",
+        "scorechallenge_id": "2030",
+        "rank_1": "300001",
+        "rank_2": "0",
+        "ranktype": "13",
+        "disclosure": "0",
+        "pack_id": "2000212"
+    }
+]

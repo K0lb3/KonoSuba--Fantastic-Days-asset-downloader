@@ -1,0 +1,2648 @@
+[
+    {
+        "skill_id": "10001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10001504",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10002300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10002402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10002404",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10552474",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002504",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002600",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002800",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14002300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14002604",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16002300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16002804",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16451734",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001300",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17552474",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001504",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001601",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21001804",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21551330",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002400",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23001301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23001401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23001501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23001601",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23551330",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24001301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24001401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24001501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24002604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24542351",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24542431",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24542451",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25002301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25002401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25002501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25002602",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26001301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26001401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26001501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26002504",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26002604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26002704",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002101",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27551330",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27552562",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27552684",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30003600",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30004100",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30004200",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30004300",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30004400",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30004800",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30005200",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40003600",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40005200",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "41003400",
+        "skill_type": "atk_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "41003600",
+        "skill_type": "atk_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "41433440",
+        "skill_type": "atk_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "42003400",
+        "skill_type": "defense_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "42005400",
+        "skill_type": "defense_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "42005600",
+        "skill_type": "defense_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "43003300",
+        "skill_type": "defense_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "43003500",
+        "skill_type": "defense_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "43003600",
+        "skill_type": "defense_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "43005400",
+        "skill_type": "defense_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "43005600",
+        "skill_type": "defense_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "44003200",
+        "skill_type": "speed_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "45002200",
+        "skill_type": "atk_physics_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "46001200",
+        "skill_type": "atk_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "47002600",
+        "skill_type": "defense_physics_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "48001300",
+        "skill_type": "defense_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "48001500",
+        "skill_type": "defense_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "48001600",
+        "skill_type": "defense_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "48002100",
+        "skill_type": "defense_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "48002300",
+        "skill_type": "defense_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "49002400",
+        "skill_type": "speed_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "53001700",
+        "skill_type": "silence",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "53002100",
+        "skill_type": "silence",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "53002600",
+        "skill_type": "silence",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "54001400",
+        "skill_type": "bind",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "54001500",
+        "skill_type": "bind",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "54001600",
+        "skill_type": "bind",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "54001700",
+        "skill_type": "bind",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55001600",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55001800",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55002500",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55002600",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "57001100",
+        "skill_type": "doom",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "57001200",
+        "skill_type": "doom",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10531331",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10531351",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10552454",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25001300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562452",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562521",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562532",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562552",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "46001400",
+        "skill_type": "atk_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "47001400",
+        "skill_type": "defense_physics_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "49002600",
+        "skill_type": "speed_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55002700",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "55002800",
+        "skill_type": "poison",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10002602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "10531311",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21002300",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26472361",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26532311",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26532411",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40003400",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13002604",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13482221",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13482321",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13482421",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23542331",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23542431",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23542510",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23551310",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40005400",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40303410",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40413220",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40413440",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12001602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002804",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12471844",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12481320",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12481420",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12481540",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551351",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551371",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551451",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551471",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551472",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551551",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551571",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551572",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12551672",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12552454",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13002201",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13002301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13002401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001702",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14002804",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562381",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562461",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001402",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001404",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16001602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17001602",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002201",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002404",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002804",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17472744",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17491712",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17491812",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17531320",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17531420",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17531520",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17552454",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002101",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002200",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002201",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22002601",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22452311",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22452411",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22452511",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462321",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462341",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462511",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462521",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462611",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22462631",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002802",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002804",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26002802",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542431",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542511",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542531",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542611",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542631",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542641",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26561311",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26561411",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26561511",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002301",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002504",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002601",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002602",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27329611",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27532331",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27532431",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27532531",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27551310",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562331",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562432",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562572",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562641",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30003300",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "30005300",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "42003600",
+        "skill_type": "defense_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "45002400",
+        "skill_type": "atk_physics_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "45002500",
+        "skill_type": "atk_physics_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "46002300",
+        "skill_type": "atk_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "46002500",
+        "skill_type": "atk_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "46002600",
+        "skill_type": "atk_magic_down",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "50003200",
+        "skill_type": "sp_plus",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "53001500",
+        "skill_type": "silence",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "16452532",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26532441",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26532511",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26532541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542311",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "26542411",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27002404",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "41003500",
+        "skill_type": "atk_magic_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13542650",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23472321",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23472341",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23472421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23472541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23541351",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23541451",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23541551",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12002502",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22492421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "22492521",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002504",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "17002604",
+        "skill_type": "atk_physics",
+        "skill_attribute": "cursed",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27472461",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27472561",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27482211",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27482311",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27482411",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27482421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27482521",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562442",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "27562542",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14002600",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14541340",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14541440",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14541560",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562141",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562241",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562341",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562351",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "14562361",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24452321",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24452341",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24452421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24452521",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24452541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "24542331",
+        "skill_type": "atk_magic",
+        "skill_attribute": "earth",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001400",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15002504",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15002604",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15002804",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15452744",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15561320",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15561420",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "15561520",
+        "skill_type": "atk_physics",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25472212",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25472312",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25472342",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25472442",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "25482421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40003200",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "40003300",
+        "skill_type": "atk_physics_up",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "12552474",
+        "skill_type": "atk_physics",
+        "skill_attribute": "water",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11001401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11001500",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11002201",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11002301",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11002401",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11002501",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11002601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11462640",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11542211",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "11542511",
+        "skill_type": "atk_physics",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13001601",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "13541330",
+        "skill_type": "atk_physics",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21002401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21002604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21002804",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21482321",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21482421",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21482441",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21482541",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "21551310",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002401",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002501",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002504",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002601",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002604",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "23002704",
+        "skill_type": "atk_magic",
+        "skill_attribute": "thunder",
+        "sp_point": "100",
+        "ac_cooltime": "0"
+    },
+    {
+        "skill_id": "56002600",
+        "skill_type": "blind",
+        "skill_attribute": "0",
+        "sp_point": "0",
+        "ac_cooltime": "0"
+    }
+]

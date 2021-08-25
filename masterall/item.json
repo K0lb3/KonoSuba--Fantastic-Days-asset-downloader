@@ -1,0 +1,2114 @@
+[
+    {
+        "type": "16",
+        "id": "111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT111"
+    },
+    {
+        "type": "16",
+        "id": "112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT112"
+    },
+    {
+        "type": "16",
+        "id": "113",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT113",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT113"
+    },
+    {
+        "type": "16",
+        "id": "114",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT114",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT114"
+    },
+    {
+        "type": "16",
+        "id": "115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT115"
+    },
+    {
+        "type": "16",
+        "id": "121",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT121",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT121"
+    },
+    {
+        "type": "16",
+        "id": "122",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT122",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT122"
+    },
+    {
+        "type": "16",
+        "id": "123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT123"
+    },
+    {
+        "type": "16",
+        "id": "124",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT124",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT124"
+    },
+    {
+        "type": "16",
+        "id": "125",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT125",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT125"
+    },
+    {
+        "type": "16",
+        "id": "131",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT131",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT131"
+    },
+    {
+        "type": "16",
+        "id": "132",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT132",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT132"
+    },
+    {
+        "type": "16",
+        "id": "133",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT133",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT133"
+    },
+    {
+        "type": "16",
+        "id": "134",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT134",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT134"
+    },
+    {
+        "type": "16",
+        "id": "135",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT135",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT135"
+    },
+    {
+        "type": "16",
+        "id": "141",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT141",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT141"
+    },
+    {
+        "type": "16",
+        "id": "142",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT142",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT142"
+    },
+    {
+        "type": "16",
+        "id": "143",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT143",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT143"
+    },
+    {
+        "type": "16",
+        "id": "144",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT144",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT144"
+    },
+    {
+        "type": "16",
+        "id": "145",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT145",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT145"
+    },
+    {
+        "type": "16",
+        "id": "151",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT151",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT151"
+    },
+    {
+        "type": "16",
+        "id": "152",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT152",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT152"
+    },
+    {
+        "type": "16",
+        "id": "153",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT153",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT153"
+    },
+    {
+        "type": "16",
+        "id": "154",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT154",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT154"
+    },
+    {
+        "type": "16",
+        "id": "155",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT155",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT155"
+    },
+    {
+        "type": "16",
+        "id": "161",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT161",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT161"
+    },
+    {
+        "type": "16",
+        "id": "162",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT162",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT162"
+    },
+    {
+        "type": "16",
+        "id": "163",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT163",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT163"
+    },
+    {
+        "type": "16",
+        "id": "164",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT164",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT164"
+    },
+    {
+        "type": "16",
+        "id": "165",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT165",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT165"
+    },
+    {
+        "type": "16",
+        "id": "201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT201"
+    },
+    {
+        "type": "16",
+        "id": "202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT202"
+    },
+    {
+        "type": "16",
+        "id": "203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT203"
+    },
+    {
+        "type": "15",
+        "id": "1100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1100"
+    },
+    {
+        "type": "15",
+        "id": "1200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1200"
+    },
+    {
+        "type": "15",
+        "id": "1300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1300"
+    },
+    {
+        "type": "15",
+        "id": "1400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1400"
+    },
+    {
+        "type": "15",
+        "id": "1500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1500"
+    },
+    {
+        "type": "15",
+        "id": "1600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1600"
+    },
+    {
+        "type": "15",
+        "id": "1601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1601"
+    },
+    {
+        "type": "15",
+        "id": "1602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1602"
+    },
+    {
+        "type": "15",
+        "id": "2100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2100"
+    },
+    {
+        "type": "15",
+        "id": "2200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2200"
+    },
+    {
+        "type": "15",
+        "id": "2300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2300"
+    },
+    {
+        "type": "15",
+        "id": "2400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2400"
+    },
+    {
+        "type": "15",
+        "id": "2500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2500"
+    },
+    {
+        "type": "15",
+        "id": "2600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2600"
+    },
+    {
+        "type": "15",
+        "id": "2601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2601"
+    },
+    {
+        "type": "15",
+        "id": "2602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2602"
+    },
+    {
+        "type": "15",
+        "id": "3100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3100"
+    },
+    {
+        "type": "15",
+        "id": "3200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3200"
+    },
+    {
+        "type": "15",
+        "id": "3300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3300"
+    },
+    {
+        "type": "15",
+        "id": "3400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3400"
+    },
+    {
+        "type": "15",
+        "id": "3500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3500"
+    },
+    {
+        "type": "15",
+        "id": "3600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3600"
+    },
+    {
+        "type": "15",
+        "id": "3601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3601"
+    },
+    {
+        "type": "15",
+        "id": "3602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3602"
+    },
+    {
+        "type": "15",
+        "id": "4100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4100"
+    },
+    {
+        "type": "15",
+        "id": "4200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4200"
+    },
+    {
+        "type": "15",
+        "id": "4300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4300"
+    },
+    {
+        "type": "15",
+        "id": "4400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4400"
+    },
+    {
+        "type": "15",
+        "id": "4500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4500"
+    },
+    {
+        "type": "15",
+        "id": "4600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4600"
+    },
+    {
+        "type": "15",
+        "id": "4601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4601"
+    },
+    {
+        "type": "15",
+        "id": "4602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4602"
+    },
+    {
+        "type": "15",
+        "id": "5001",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5001",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5001"
+    },
+    {
+        "type": "15",
+        "id": "5002",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5002",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5002"
+    },
+    {
+        "type": "15",
+        "id": "5003",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5003",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5003"
+    },
+    {
+        "type": "15",
+        "id": "5004",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5004",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5004"
+    },
+    {
+        "type": "15",
+        "id": "5005",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5005",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5005"
+    },
+    {
+        "type": "15",
+        "id": "5006",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5006",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5006"
+    },
+    {
+        "type": "15",
+        "id": "5007",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5007",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5007"
+    },
+    {
+        "type": "15",
+        "id": "5008",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5008",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5008"
+    },
+    {
+        "type": "15",
+        "id": "5009",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5009",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5009"
+    },
+    {
+        "type": "15",
+        "id": "12211",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12211",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12211"
+    },
+    {
+        "type": "15",
+        "id": "12212",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12212",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12212"
+    },
+    {
+        "type": "15",
+        "id": "12213",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12213",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12213"
+    },
+    {
+        "type": "15",
+        "id": "12214",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12214",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12214"
+    },
+    {
+        "type": "15",
+        "id": "12215",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12215",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12215"
+    },
+    {
+        "type": "15",
+        "id": "12216",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12216",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12216"
+    },
+    {
+        "type": "15",
+        "id": "12217",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12217",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12217"
+    },
+    {
+        "type": "15",
+        "id": "12221",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12221",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12221"
+    },
+    {
+        "type": "15",
+        "id": "12222",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12222",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12222"
+    },
+    {
+        "type": "15",
+        "id": "12223",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12223",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12223"
+    },
+    {
+        "type": "15",
+        "id": "12224",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12224",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12224"
+    },
+    {
+        "type": "15",
+        "id": "12225",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12225",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12225"
+    },
+    {
+        "type": "15",
+        "id": "12226",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12226",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12226"
+    },
+    {
+        "type": "15",
+        "id": "12227",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12227",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12227"
+    },
+    {
+        "type": "15",
+        "id": "12231",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12231",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12231"
+    },
+    {
+        "type": "15",
+        "id": "12232",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12232",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12232"
+    },
+    {
+        "type": "15",
+        "id": "12233",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12233",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12233"
+    },
+    {
+        "type": "15",
+        "id": "12234",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12234",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12234"
+    },
+    {
+        "type": "15",
+        "id": "12235",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12235",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12235"
+    },
+    {
+        "type": "15",
+        "id": "12236",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12236",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12236"
+    },
+    {
+        "type": "15",
+        "id": "12237",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12237",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12237"
+    },
+    {
+        "type": "15",
+        "id": "12241",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12241",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12241"
+    },
+    {
+        "type": "15",
+        "id": "12242",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12242",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12242"
+    },
+    {
+        "type": "15",
+        "id": "12243",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12243",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12243"
+    },
+    {
+        "type": "15",
+        "id": "12244",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12244",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12244"
+    },
+    {
+        "type": "15",
+        "id": "12245",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12245",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12245"
+    },
+    {
+        "type": "15",
+        "id": "12246",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12246",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12246"
+    },
+    {
+        "type": "15",
+        "id": "12247",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12247",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12247"
+    },
+    {
+        "type": "15",
+        "id": "12251",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12251",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12251"
+    },
+    {
+        "type": "15",
+        "id": "12252",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12252",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12252"
+    },
+    {
+        "type": "15",
+        "id": "12253",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12253",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12253"
+    },
+    {
+        "type": "15",
+        "id": "12254",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12254",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12254"
+    },
+    {
+        "type": "15",
+        "id": "12255",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12255",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12255"
+    },
+    {
+        "type": "15",
+        "id": "12256",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12256",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12256"
+    },
+    {
+        "type": "15",
+        "id": "12257",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12257",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12257"
+    },
+    {
+        "type": "15",
+        "id": "12311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12311"
+    },
+    {
+        "type": "15",
+        "id": "12312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12312"
+    },
+    {
+        "type": "15",
+        "id": "12313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12313"
+    },
+    {
+        "type": "15",
+        "id": "12314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12314"
+    },
+    {
+        "type": "15",
+        "id": "12315",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12315",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12315"
+    },
+    {
+        "type": "15",
+        "id": "12316",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12316",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12316"
+    },
+    {
+        "type": "15",
+        "id": "12317",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12317",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12317"
+    },
+    {
+        "type": "15",
+        "id": "12321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12321"
+    },
+    {
+        "type": "15",
+        "id": "12322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12322"
+    },
+    {
+        "type": "15",
+        "id": "12323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12323"
+    },
+    {
+        "type": "15",
+        "id": "12324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12324"
+    },
+    {
+        "type": "15",
+        "id": "12325",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12325",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12325"
+    },
+    {
+        "type": "15",
+        "id": "12326",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12326",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12326"
+    },
+    {
+        "type": "15",
+        "id": "12327",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12327",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12327"
+    },
+    {
+        "type": "15",
+        "id": "12331",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12331",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12331"
+    },
+    {
+        "type": "15",
+        "id": "12332",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12332",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12332"
+    },
+    {
+        "type": "15",
+        "id": "12333",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12333",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12333"
+    },
+    {
+        "type": "15",
+        "id": "12334",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12334",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12334"
+    },
+    {
+        "type": "15",
+        "id": "12335",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12335",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12335"
+    },
+    {
+        "type": "15",
+        "id": "12336",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12336",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12336"
+    },
+    {
+        "type": "15",
+        "id": "12337",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12337",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12337"
+    },
+    {
+        "type": "15",
+        "id": "12341",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12341",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12341"
+    },
+    {
+        "type": "15",
+        "id": "12342",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12342",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12342"
+    },
+    {
+        "type": "15",
+        "id": "12343",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12343",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12343"
+    },
+    {
+        "type": "15",
+        "id": "12344",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12344",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12344"
+    },
+    {
+        "type": "15",
+        "id": "12345",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12345",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12345"
+    },
+    {
+        "type": "15",
+        "id": "12346",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12346",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12346"
+    },
+    {
+        "type": "15",
+        "id": "12347",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12347",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12347"
+    },
+    {
+        "type": "15",
+        "id": "12351",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12351",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12351"
+    },
+    {
+        "type": "15",
+        "id": "12352",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12352",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12352"
+    },
+    {
+        "type": "15",
+        "id": "12353",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12353",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12353"
+    },
+    {
+        "type": "15",
+        "id": "12354",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12354",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12354"
+    },
+    {
+        "type": "15",
+        "id": "12355",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12355",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12355"
+    },
+    {
+        "type": "15",
+        "id": "12356",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12356",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12356"
+    },
+    {
+        "type": "15",
+        "id": "12357",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12357",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12357"
+    },
+    {
+        "type": "15",
+        "id": "12411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12411"
+    },
+    {
+        "type": "15",
+        "id": "12412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12412"
+    },
+    {
+        "type": "15",
+        "id": "12413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12413"
+    },
+    {
+        "type": "15",
+        "id": "12414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12414"
+    },
+    {
+        "type": "15",
+        "id": "12415",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12415",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12415"
+    },
+    {
+        "type": "15",
+        "id": "12416",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12416",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12416"
+    },
+    {
+        "type": "15",
+        "id": "12417",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12417",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12417"
+    },
+    {
+        "type": "15",
+        "id": "12421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12421"
+    },
+    {
+        "type": "15",
+        "id": "12422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12422"
+    },
+    {
+        "type": "15",
+        "id": "12423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12423"
+    },
+    {
+        "type": "15",
+        "id": "12424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12424"
+    },
+    {
+        "type": "15",
+        "id": "12425",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12425",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12425"
+    },
+    {
+        "type": "15",
+        "id": "12426",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12426",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12426"
+    },
+    {
+        "type": "15",
+        "id": "12427",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12427",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12427"
+    },
+    {
+        "type": "15",
+        "id": "12431",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12431",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12431"
+    },
+    {
+        "type": "15",
+        "id": "12432",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12432",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12432"
+    },
+    {
+        "type": "15",
+        "id": "12433",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12433",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12433"
+    },
+    {
+        "type": "15",
+        "id": "12434",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12434",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12434"
+    },
+    {
+        "type": "15",
+        "id": "12435",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12435",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12435"
+    },
+    {
+        "type": "15",
+        "id": "12436",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12436",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12436"
+    },
+    {
+        "type": "15",
+        "id": "12437",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12437",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12437"
+    },
+    {
+        "type": "15",
+        "id": "12441",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12441",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12441"
+    },
+    {
+        "type": "15",
+        "id": "12442",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12442",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12442"
+    },
+    {
+        "type": "15",
+        "id": "12443",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12443",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12443"
+    },
+    {
+        "type": "15",
+        "id": "12444",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12444",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12444"
+    },
+    {
+        "type": "15",
+        "id": "12445",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12445",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12445"
+    },
+    {
+        "type": "15",
+        "id": "12446",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12446",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12446"
+    },
+    {
+        "type": "15",
+        "id": "12447",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12447",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12447"
+    },
+    {
+        "type": "15",
+        "id": "12451",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12451",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12451"
+    },
+    {
+        "type": "15",
+        "id": "12452",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12452",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12452"
+    },
+    {
+        "type": "15",
+        "id": "12453",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12453",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12453"
+    },
+    {
+        "type": "15",
+        "id": "12454",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12454",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12454"
+    },
+    {
+        "type": "15",
+        "id": "12455",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12455",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12455"
+    },
+    {
+        "type": "15",
+        "id": "12456",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12456",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12456"
+    },
+    {
+        "type": "15",
+        "id": "12457",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12457",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12457"
+    },
+    {
+        "type": "15",
+        "id": "21210",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21210",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21210"
+    },
+    {
+        "type": "15",
+        "id": "21220",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21220",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21220"
+    },
+    {
+        "type": "15",
+        "id": "21310",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21310",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21310"
+    },
+    {
+        "type": "15",
+        "id": "21320",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21320",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21320"
+    },
+    {
+        "type": "15",
+        "id": "22201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22201"
+    },
+    {
+        "type": "15",
+        "id": "22202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22202"
+    },
+    {
+        "type": "15",
+        "id": "22203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22203"
+    },
+    {
+        "type": "15",
+        "id": "22204",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22204",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22204"
+    },
+    {
+        "type": "15",
+        "id": "22205",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22205",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22205"
+    },
+    {
+        "type": "15",
+        "id": "22206",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22206",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22206"
+    },
+    {
+        "type": "15",
+        "id": "22207",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22207",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22207"
+    },
+    {
+        "type": "15",
+        "id": "22311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22311"
+    },
+    {
+        "type": "15",
+        "id": "22312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22312"
+    },
+    {
+        "type": "15",
+        "id": "22313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22313"
+    },
+    {
+        "type": "15",
+        "id": "22314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22314"
+    },
+    {
+        "type": "15",
+        "id": "22315",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22315",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22315"
+    },
+    {
+        "type": "15",
+        "id": "22316",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22316",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22316"
+    },
+    {
+        "type": "15",
+        "id": "22317",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22317",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22317"
+    },
+    {
+        "type": "15",
+        "id": "22321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22321"
+    },
+    {
+        "type": "15",
+        "id": "22322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22322"
+    },
+    {
+        "type": "15",
+        "id": "22323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22323"
+    },
+    {
+        "type": "15",
+        "id": "22324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22324"
+    },
+    {
+        "type": "15",
+        "id": "22325",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22325",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22325"
+    },
+    {
+        "type": "15",
+        "id": "22326",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22326",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22326"
+    },
+    {
+        "type": "15",
+        "id": "22327",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22327",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22327"
+    },
+    {
+        "type": "15",
+        "id": "22411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22411"
+    },
+    {
+        "type": "15",
+        "id": "22412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22412"
+    },
+    {
+        "type": "15",
+        "id": "22413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22413"
+    },
+    {
+        "type": "15",
+        "id": "22414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22414"
+    },
+    {
+        "type": "15",
+        "id": "22415",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22415",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22415"
+    },
+    {
+        "type": "15",
+        "id": "22416",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22416",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22416"
+    },
+    {
+        "type": "15",
+        "id": "22417",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22417",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22417"
+    },
+    {
+        "type": "15",
+        "id": "22421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22421"
+    },
+    {
+        "type": "15",
+        "id": "22422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22422"
+    },
+    {
+        "type": "15",
+        "id": "22423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22423"
+    },
+    {
+        "type": "15",
+        "id": "22424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22424"
+    },
+    {
+        "type": "15",
+        "id": "22425",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22425",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22425"
+    },
+    {
+        "type": "15",
+        "id": "22426",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22426",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22426"
+    },
+    {
+        "type": "15",
+        "id": "22427",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22427",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22427"
+    },
+    {
+        "type": "15",
+        "id": "23201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23201"
+    },
+    {
+        "type": "15",
+        "id": "23202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23202"
+    },
+    {
+        "type": "15",
+        "id": "23203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23203"
+    },
+    {
+        "type": "15",
+        "id": "23204",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23204",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23204"
+    },
+    {
+        "type": "15",
+        "id": "23311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23311"
+    },
+    {
+        "type": "15",
+        "id": "23312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23312"
+    },
+    {
+        "type": "15",
+        "id": "23313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23313"
+    },
+    {
+        "type": "15",
+        "id": "23314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23314"
+    },
+    {
+        "type": "15",
+        "id": "23321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23321"
+    },
+    {
+        "type": "15",
+        "id": "23322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23322"
+    },
+    {
+        "type": "15",
+        "id": "23323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23323"
+    },
+    {
+        "type": "15",
+        "id": "23324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23324"
+    },
+    {
+        "type": "15",
+        "id": "23411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23411"
+    },
+    {
+        "type": "15",
+        "id": "23412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23412"
+    },
+    {
+        "type": "15",
+        "id": "23413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23413"
+    },
+    {
+        "type": "15",
+        "id": "23414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23414"
+    },
+    {
+        "type": "15",
+        "id": "23421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23421"
+    },
+    {
+        "type": "15",
+        "id": "23422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23422"
+    },
+    {
+        "type": "15",
+        "id": "23423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23423"
+    },
+    {
+        "type": "15",
+        "id": "23424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23424"
+    },
+    {
+        "type": "15",
+        "id": "31310",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31310",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31310"
+    },
+    {
+        "type": "15",
+        "id": "31320",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31320",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31320"
+    },
+    {
+        "type": "15",
+        "id": "31330",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31330",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31330"
+    },
+    {
+        "type": "15",
+        "id": "31340",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31340",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31340"
+    },
+    {
+        "type": "15",
+        "id": "31350",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31350",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31350"
+    },
+    {
+        "type": "15",
+        "id": "31410",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31410",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31410"
+    },
+    {
+        "type": "15",
+        "id": "31420",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31420",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31420"
+    },
+    {
+        "type": "15",
+        "id": "31430",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31430",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31430"
+    },
+    {
+        "type": "15",
+        "id": "31440",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31440",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31440"
+    },
+    {
+        "type": "15",
+        "id": "31450",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31450",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31450"
+    },
+    {
+        "type": "15",
+        "id": "32410",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32410",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32410"
+    },
+    {
+        "type": "15",
+        "id": "32420",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32420",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32420"
+    },
+    {
+        "type": "15",
+        "id": "32430",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32430",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32430"
+    },
+    {
+        "type": "15",
+        "id": "32440",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32440",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32440"
+    },
+    {
+        "type": "15",
+        "id": "32450",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32450",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32450"
+    },
+    {
+        "type": "15",
+        "id": "7001",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7001",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7001"
+    },
+    {
+        "type": "15",
+        "id": "7002",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7002",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7002"
+    },
+    {
+        "type": "15",
+        "id": "7003",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7003",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7003"
+    },
+    {
+        "type": "15",
+        "id": "7004",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7004",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7004"
+    },
+    {
+        "type": "18",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV1",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV1"
+    },
+    {
+        "type": "18",
+        "id": "2",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV2",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV2"
+    },
+    {
+        "type": "18",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV3"
+    },
+    {
+        "type": "17",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL3"
+    },
+    {
+        "type": "17",
+        "id": "4",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL4",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL4"
+    },
+    {
+        "type": "19",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE1",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE1"
+    },
+    {
+        "type": "19",
+        "id": "2",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE2",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE2"
+    },
+    {
+        "type": "19",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE3"
+    },
+    {
+        "type": "19",
+        "id": "4",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE4",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE4"
+    },
+    {
+        "type": "1",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MONEY1",
+        "description": "ASSET_ITEM_DESCRIPTION_MONEY1"
+    },
+    {
+        "type": "2",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_REALMONEY1",
+        "description": "ASSET_ITEM_DESCRIPTION_REALMONEY1"
+    },
+    {
+        "type": "3",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_REALMONEYFREE1",
+        "description": "ASSET_ITEM_DESCRIPTION_REALMONEYFREE1"
+    },
+    {
+        "type": "9",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_STAMINA1",
+        "description": "ASSET_ITEM_DESCRIPTION_STAMINA1"
+    },
+    {
+        "type": "8",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_TICKET1",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET1"
+    },
+    {
+        "type": "10",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_EXP1",
+        "description": "ASSET_ITEM_DESCRIPTION_EXP1"
+    },
+    {
+        "type": "20",
+        "id": "1001",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1001",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1001"
+    },
+    {
+        "type": "20",
+        "id": "1011",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1011",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1011"
+    },
+    {
+        "type": "20",
+        "id": "1012",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1012",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1012"
+    },
+    {
+        "type": "20",
+        "id": "1021",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1021",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1021"
+    },
+    {
+        "type": "29",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_STAMINA_ITEM1",
+        "description": "ASSET_ITEM_DESCRIPTION_STAMINA_ITEM1"
+    },
+    {
+        "type": "21",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA1",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA1"
+    },
+    {
+        "type": "21",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA3",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA3"
+    },
+    {
+        "type": "20",
+        "id": "1191111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1191111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1191111"
+    },
+    {
+        "type": "27",
+        "id": "200311",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200311"
+    },
+    {
+        "type": "27",
+        "id": "200321",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200321"
+    },
+    {
+        "type": "20",
+        "id": "1200311",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200311"
+    },
+    {
+        "type": "20",
+        "id": "1200321",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200321"
+    },
+    {
+        "type": "20",
+        "id": "200311",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200311"
+    },
+    {
+        "type": "20",
+        "id": "200312",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200312",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200312"
+    },
+    {
+        "type": "20",
+        "id": "200321",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200321"
+    },
+    {
+        "type": "17",
+        "id": "1023107",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1023107",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1023107"
+    },
+    {
+        "type": "17",
+        "id": "1163111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1163111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1163111"
+    },
+    {
+        "type": "27",
+        "id": "200411",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200411"
+    },
+    {
+        "type": "27",
+        "id": "200421",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200421"
+    },
+    {
+        "type": "28",
+        "id": "200431",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200431"
+    },
+    {
+        "type": "20",
+        "id": "1200411",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200411"
+    },
+    {
+        "type": "20",
+        "id": "1200421",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200421"
+    },
+    {
+        "type": "20",
+        "id": "1200431",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200431"
+    },
+    {
+        "type": "20",
+        "id": "200411",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200411"
+    },
+    {
+        "type": "20",
+        "id": "200412",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200412",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200412"
+    },
+    {
+        "type": "20",
+        "id": "200421",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200421"
+    },
+    {
+        "type": "17",
+        "id": "1033113",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1033113",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1033113"
+    },
+    {
+        "type": "17",
+        "id": "1143112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1143112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1143112"
+    },
+    {
+        "type": "17",
+        "id": "1153112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1153112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1153112"
+    },
+    {
+        "type": "20",
+        "id": "200441",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200441",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200441"
+    },
+    {
+        "type": "19",
+        "id": "20044",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE20044",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE20044"
+    },
+    {
+        "type": "27",
+        "id": "200431",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200431"
+    },
+    {
+        "type": "27",
+        "id": "200511",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200511"
+    },
+    {
+        "type": "27",
+        "id": "200521",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200521"
+    },
+    {
+        "type": "27",
+        "id": "200531",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200531"
+    },
+    {
+        "type": "28",
+        "id": "200531",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200531"
+    },
+    {
+        "type": "20",
+        "id": "1200511",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200511"
+    },
+    {
+        "type": "20",
+        "id": "1200521",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200521"
+    },
+    {
+        "type": "20",
+        "id": "1200531",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200531"
+    },
+    {
+        "type": "20",
+        "id": "200511",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200511"
+    },
+    {
+        "type": "20",
+        "id": "200512",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200512",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200512"
+    },
+    {
+        "type": "20",
+        "id": "200521",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200521"
+    },
+    {
+        "type": "17",
+        "id": "1063116",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1063116",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1063116"
+    },
+    {
+        "type": "17",
+        "id": "1133115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1133115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1133115"
+    },
+    {
+        "type": "17",
+        "id": "1053115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1053115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1053115"
+    },
+    {
+        "type": "27",
+        "id": "200611",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200611"
+    },
+    {
+        "type": "27",
+        "id": "200621",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200621"
+    },
+    {
+        "type": "27",
+        "id": "200631",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200631"
+    },
+    {
+        "type": "28",
+        "id": "200631",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200631"
+    },
+    {
+        "type": "20",
+        "id": "1200611",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200611"
+    },
+    {
+        "type": "20",
+        "id": "1200621",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200621"
+    },
+    {
+        "type": "20",
+        "id": "1200631",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200631"
+    },
+    {
+        "type": "20",
+        "id": "200611",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200611"
+    },
+    {
+        "type": "20",
+        "id": "200612",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200612",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200612"
+    },
+    {
+        "type": "20",
+        "id": "200621",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200621"
+    },
+    {
+        "type": "17",
+        "id": "1103118",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1103118",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1103118"
+    },
+    {
+        "type": "17",
+        "id": "1013120",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1013120",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1013120"
+    },
+    {
+        "type": "17",
+        "id": "1123120",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1123120",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1123120"
+    },
+    {
+        "type": "27",
+        "id": "200711",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200711"
+    },
+    {
+        "type": "27",
+        "id": "200721",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200721"
+    },
+    {
+        "type": "27",
+        "id": "200731",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200731"
+    },
+    {
+        "type": "28",
+        "id": "200731",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200731"
+    },
+    {
+        "type": "20",
+        "id": "1200711",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200711"
+    },
+    {
+        "type": "20",
+        "id": "1200721",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200721"
+    },
+    {
+        "type": "20",
+        "id": "1200731",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200731"
+    },
+    {
+        "type": "20",
+        "id": "200711",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200711"
+    },
+    {
+        "type": "20",
+        "id": "200712",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200712",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200712"
+    },
+    {
+        "type": "20",
+        "id": "200721",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200721"
+    },
+    {
+        "type": "17",
+        "id": "1113119",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1113119",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1113119"
+    },
+    {
+        "type": "17",
+        "id": "1093123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1093123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1093123"
+    },
+    {
+        "type": "17",
+        "id": "1183123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1183123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1183123"
+    },
+    {
+        "type": "27",
+        "id": "200811",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200811"
+    },
+    {
+        "type": "27",
+        "id": "200821",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200821"
+    },
+    {
+        "type": "20",
+        "id": "1200811",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200811"
+    },
+    {
+        "type": "20",
+        "id": "1200821",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200821"
+    },
+    {
+        "type": "20",
+        "id": "200811",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200811"
+    },
+    {
+        "type": "20",
+        "id": "200812",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200812",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200812"
+    },
+    {
+        "type": "20",
+        "id": "200821",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200821"
+    },
+    {
+        "type": "17",
+        "id": "1143123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1143123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1143123"
+    },
+    {
+        "type": "17",
+        "id": "1073124",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1073124",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1073124"
+    }
+]
