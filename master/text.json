@@ -28887,14 +28887,14 @@
     },
     {
         "id": "TEXT_SHOP_ITEM_31022",
-        "text_japanese": "50万突破記念パック",
-        "text_english": "50 Players Celebration Pack",
-        "text_korean": "50만 돌파 기념 팩",
-        "text_espa": "Paq. celebración 50 jugadores",
-        "text_port": "Pct. Comemoração 50 Jogadores",
-        "text_russ": "Набор в честь 50 игроков",
-        "text_fran": "Pack Célébration 50 joueurs",
-        "text_den": "Pack zur Feier von 50 Spielern"
+        "text_japanese": "異世界成長パック",
+        "text_english": "Otherworldly Growth Pack",
+        "text_korean": "이세계 성장 팩",
+        "text_espa": "Paq. de crecim. sobrenatural",
+        "text_port": "Pct. Cresc. Sobrenatural",
+        "text_russ": "Набор «Рост в ином мире»",
+        "text_fran": "Pack croissance surnaturelle",
+        "text_den": "Fremde-Welt-Wachstumspack"
     },
     {
         "id": "TEXT_SHOP_ITEM_31037",

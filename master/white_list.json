@@ -1,0 +1,219 @@
+[
+    {
+        "id": "1",
+        "api": "login",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "2",
+        "api": "firebasetoken",
+        "app": "1",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "3",
+        "api": "masterlist",
+        "app": "1",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "4",
+        "api": "masterall",
+        "app": "1",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "5",
+        "api": "clientlog",
+        "app": "1",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "6",
+        "api": "idlink_google",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "7",
+        "api": "idlink_confirm_google",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "8",
+        "api": "idlink_login_google",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "9",
+        "api": "idlink_release_google",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "10",
+        "api": "idlink_login_confirm_google",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "11",
+        "api": "idlink_apple",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "12",
+        "api": "idlink_confirm_apple",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "13",
+        "api": "idlink_login_apple",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "14",
+        "api": "idlink_release_apple",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "15",
+        "api": "idlink_login_confirm_apple",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "16",
+        "api": "newid",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "17",
+        "api": "newidcheck",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "18",
+        "api": "idlogin",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "19",
+        "api": "idconfirm",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "20",
+        "api": "capturesend",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "21",
+        "api": "capturerec",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "22",
+        "api": "battlewaveresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "23",
+        "api": "battlekill",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "24",
+        "api": "battleretire",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "25",
+        "api": "battlehuntingresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "26",
+        "api": "result",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "27",
+        "api": "scorechallengeresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "28",
+        "api": "marathonresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "29",
+        "api": "battlemarathonquestresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "30",
+        "api": "battlemarathonbossresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    },
+    {
+        "id": "31",
+        "api": "battlequestresult",
+        "app": "0",
+        "master": "1",
+        "date": "1"
+    }
+]

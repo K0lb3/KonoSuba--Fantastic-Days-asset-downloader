@@ -1313,19 +1313,6 @@
         "description": "11000 + 11000 쿼츠 팩"
     },
     {
-        "id": "114",
-        "graphic": "banner_shop_s_31022.png",
-        "platform_type": "0",
-        "sort_order": "101",
-        "day": "0",
-        "start_at": "2021-09-14 00:00",
-        "end_at": "2021-09-25 00:00",
-        "view_type": "1",
-        "destination_type": "SHOP",
-        "destination_option": "0",
-        "description": "50만 돌파 기념 팩"
-    },
-    {
         "id": "115",
         "graphic": "banner_shop_s_31024.png",
         "platform_type": "0",

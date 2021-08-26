@@ -11983,11 +11983,11 @@
         "text_japanese": "ご褒美は、クエストで\\nスキップチケットを使うことで、\\n絆Pがご褒美に変換され\\n獲得できます。",
         "text_english": "You can use Skip Tickets on\\nquests to convert gifts\\ninto Affinity Points for characters.",
         "text_korean": "퀘스트 메뉴에서\\n스킵 티켓을 사용하면\\n인연 포인트를 올릴 때 쓰이는\\n선물을 획득할 수 있습니다.",
-        "text_espa": "Puedes usar boletos para omitir en\\nmisiones para convertir puntos de afinidad\\nen regalos para los personajes.",
-        "text_port": "Você pode usar Cupons de Pulo\\ndurante as missões para trocar Pontos de Afinidade por\\npresentes para os personagens.",
-        "text_russ": "Используя билеты пропуска\\nв заданиях, можно превращать очки связи\\nв подарки для персонажей.",
-        "text_fran": "Tu peux utiliser des combats auto dans les\\nquêtes afin de convertir les points d'affinité\\nen cadeaux pour les personnages.",
-        "text_den": "Du kannst Überspringtickets für\\nQuests einsetzen, um Affinitätspunkte in\\nGeschenke für Charaktere umzuwandeln."
+        "text_espa": "Puedes usar boletos para omitir en\\nmisiones para convertir regalos\\nen puntos de afinidad para los personajes.",
+        "text_port": "Você pode usar Cupons de Pulo\\ndurante as missões para trocar presentes\\npor Pontos de Afinidade para os personagens.",
+        "text_russ": "Используя билеты пропуска\\nв заданиях, можно превращать подарки\\nв очки связи для персонажей.",
+        "text_fran": "Tu peux utiliser des combats auto dans les\\nquêtes afin de convertir les cadeaux\\nen points d'affinité pour les personnages.",
+        "text_den": "Du kannst Überspringtickets für\\nQuests einsetzen, um Geschenke in\\nAffinitätspunkte für Charaktere umzuwandeln."
     },
     {
         "id": "MATERIAL_LACK_DIALOG_EMPTY",
@@ -17620,5 +17620,27 @@
         "text_russ": "",
         "text_fran": "",
         "text_den": ""
+    },
+    {
+        "id": "TOY_COMMUNITY_ERROR_TITLE",
+        "text_japanese": "メンテナンス",
+        "text_english": "Maintenance",
+        "text_korean": "점검",
+        "text_espa": "Mantenimiento",
+        "text_port": "Manutenção",
+        "text_russ": "Техническое обновление",
+        "text_fran": "Maintenance",
+        "text_den": "Wartung"
+    },
+    {
+        "id": "TOY_COMMUNITY_ERROR_MESSAGE",
+        "text_japanese": "只今コミュニティアクセスに待機時間が発生しています。しばらく経ってから再度ご利用ください。",
+        "text_english": "We're currently experiencing latency when connecting to the community. Please try again later.",
+        "text_korean": "현재 커뮤니티 연결에 대기 시간이 발생하고 있습니다. 잠시 후 다시 이용해주세요.",
+        "text_espa": "Estamos experimentando demoras en la conexión a la comunidad. Inténtelo de nuevo más tarde.",
+        "text_port": "Estamos experimentando latência quando se conectar à comunidade. Por favor tente de novo mais tarde.",
+        "text_russ": "Подключение к социальным функциям затруднено. Пожалуйста, попробуйте позже.",
+        "text_fran": "La connexion à la communauté rencontre actuellement de la latence. Veuillez réessayer plus tard.",
+        "text_den": "Es kommt bei der Verbindung mit der Community derzeit zu Latenz. Versuche es später wieder."
     }
 ]

@@ -51,9 +51,9 @@
         "start_at": "2021/9/7 0:00",
         "end_at": "2021/9/21 0:00",
         "accept_limit": "2021/9/21 0:00:00",
-        "name": "LOGINBONUS_5",
-        "logo_img": "loginbonus_logo_40000",
-        "navi_id": "NAVI_LOGIN_BONUS_EVENT02"
+        "name": "LOGINBONUS_6",
+        "logo_img": "loginbonus_logo_40003",
+        "navi_id": "NAVI_LOGIN_BONUS_EVENT03"
     },
     {
         "id": "6",
@@ -65,9 +65,9 @@
         "start_at": "2020/4/14 0:00",
         "end_at": "2020/4/24 0:00",
         "accept_limit": "2020/04/30 0:00:00",
-        "name": "LOGINBONUS_6",
-        "logo_img": "loginbonus_logo_40003",
-        "navi_id": "NAVI_LOGIN_BONUS_EVENT03"
+        "name": "LOGINBONUS_5",
+        "logo_img": "loginbonus_logo_40002",
+        "navi_id": "NAVI_LOGIN_BONUS_EVENT02"
     },
     {
         "id": "7",

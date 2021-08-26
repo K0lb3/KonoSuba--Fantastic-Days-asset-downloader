@@ -244,8 +244,8 @@
         "graphics": "0",
         "limit_type": "BUYLIMIT",
         "limit": "1",
-        "start_at": "2021/9/14 00:00",
-        "end_at": "2021/9/24 23:59",
+        "start_at": "2021/8/25 05:30",
+        "end_at": "2021/9/5 23:59",
         "enable": "1",
         "description": "0"
     },

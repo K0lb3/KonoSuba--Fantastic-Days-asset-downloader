@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "QUEST_NAME_1",
+        "unlock_playerrank": "0",
+        "unlock_mainquest": "0",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0",
+        "limit_time": "600"
+    },
+    {
+        "id": "2",
+        "name": "QUEST_NAME_2",
+        "unlock_playerrank": "0",
+        "unlock_mainquest": "0",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0",
+        "limit_time": "600"
+    },
+    {
+        "id": "3",
+        "name": "QUEST_NAME_3",
+        "unlock_playerrank": "10",
+        "unlock_mainquest": "0",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0",
+        "limit_time": "120"
+    },
+    {
+        "id": "4",
+        "name": "QUEST_NAME_4",
+        "unlock_playerrank": "0",
+        "unlock_mainquest": "0",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0",
+        "limit_time": "0"
+    },
+    {
+        "id": "5",
+        "name": "QUEST_NAME_5",
+        "unlock_playerrank": "0",
+        "unlock_mainquest": "1-2",
+        "unlock_date_start": "0",
+        "unlock_date_end": "0",
+        "limit_time": "600"
+    }
+]
