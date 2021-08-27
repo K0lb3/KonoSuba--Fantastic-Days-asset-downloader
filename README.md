@@ -8,6 +8,7 @@ so all you have to do is execute the download_assets.py script after every updat
 ## Script Requirements
 
 - Python 3.6+
+- JRE (Java Runtime Environment) for backsmali
 
 - UnityPy 1.7.10
 - requests

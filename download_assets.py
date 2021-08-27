@@ -1,11 +1,18 @@
 import requests
 import os
+import tempfile
+import subprocess
 from AssetBatchConverter import extract_assets
 
 ROOT = os.path.dirname(os.path.realpath(__file__))
 RAW = os.path.join(ROOT, "raw")
 EXT = os.path.join(ROOT, "extracted")
 VERSIONS = os.path.join(ROOT, "versions.txt")
+BACKSMALI = os.path.join(ROOT, "baksmali-2.5.2.jar")
+
+JAVA = "java"
+if subprocess.run([JAVA, "-version"]).returncode != 0:
+    JAVA = os.path.join(os.environ["JAVA_HOME"], "bin", "java")
 
 
 def main():
@@ -15,21 +22,21 @@ def main():
     print("Fetching versions")
     if os.path.exists(VERSIONS):
         with open(VERSIONS, "rt") as f:
-            app_version, api_version = f.read().splitlines()
+            versions = f.read().splitlines()
     else:
         print("no local versions found")
-        app_version, api_version = update_apk_versions(app_id, path)
-    print(app_version, api_version)
+        versions = update_apk_versions(app_id, path)
+    print(*versions)
 
     print("Get current resource version")
     try:
-        version = get_resource_version(app_version, api_version)
+        version = get_resource_version(*versions)
     except Exception as e:
         print("error during resource version request")
         print("updating apk settings")
         update_apk_versions(app_id, path)
-        app_version, api_version = update_apk_versions(app_id, path)
-        version = get_resource_version(app_version, api_version)
+        versions = update_apk_versions(app_id, path)
+        version = get_resource_version(*versions)
 
     print(version)
 
@@ -37,7 +44,7 @@ def main():
     update_resources(version)
 
 
-def get_resource_version(app_version, api_version):
+def get_resource_version(app_version, api_version, build_number):
     req = requests.get(
         f"https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/server_config/{app_version}.json",
         headers={
@@ -69,7 +76,7 @@ def get_resource_version(app_version, api_version):
             "country": "US",
             "sdk_version": "175", # doesn't seem to matter
             "curr_build_version": res["app_version"],
-            "curr_build_number": 219, # <- important, has to be extracted from somewhere
+            "curr_build_number": int(build_number, 16), # <- important, has to be extracted from somewhere
             "curr_patch_version": 0,
         },
         headers={
@@ -159,11 +166,11 @@ def update_apk_versions(apk_id, path):
     with open(os.path.join(path, "current.apk"), "wb") as f:
         f.write(apk_data)
     print("extracing app_version and api_version")
-    app_version, api_version = extract_apk_versions(apk_data)
-    with open("versions.txt", "wt") as f:
-        f.write("\n".join([app_version, api_version]))
+    versions = extract_apk_versions(apk_data)
+    with open(VERSIONS, "wt") as f:
+        f.write("\n".join(versions))
 
-    return app_version, api_version
+    return versions
 
 
 def extract_apk_versions(apk_data):
@@ -183,11 +190,26 @@ def extract_apk_versions(apk_data):
                             app_version = ver[0].decode()
                             break
             with zip.open("classes2.dex") as f:
-                raw = f.read()
-                for match in re.finditer(b"(.)(v\d+\.\d+)\00", raw):
-                    if match[1][0] == len(match[2]):
-                        api_version = match[2].decode()
-    return app_version, api_version
+                dex_raw = f.read()
+            # could also be found in com/nexon/pub/.../q.smali
+            for match in re.finditer(b"(.)(v\d+\.\d+)\00", dex_raw):
+                if match[1][0] == len(match[2]):
+                    api_version = match[2].decode()
+            with tempfile.TemporaryDirectory() as tmpdirname:
+                dex_path = os.path.join(tmpdirname, "classes2.dex")
+                with open(dex_path, "wb") as f:
+                    f.write(dex_raw)
+                subprocess.run([JAVA, "-jar", BACKSMALI, "d", dex_path, "-o", tmpdirname])
+                with open(os.path.join(tmpdirname, "com", "nexon", "konosuba", "BuildConfig.smali"), "rt", encoding="utf8") as f:
+                    # .field public static final APPLICATION_ID:Ljava/lang/String; = "com.nexon.konosuba"
+                    # .field public static final BUILD_TYPE:Ljava/lang/String; = "release"
+                    # .field public static final DEBUG:Z = false
+                    # .field public static final FLAVOR:Ljava/lang/String; = ""
+                    # .field public static final VERSION_CODE:I = 0xd7
+                    # .field public static final VERSION_NAME:Ljava/lang/String; = "1.4.1"
+                    text = f.read()
+                    build_number = re.search(r"VERSION_CODE:I = ([xabcdef\d]+)", text)[1]
+    return app_version, api_version, build_number
 
 
 def download_QooApp_apk(apk):
