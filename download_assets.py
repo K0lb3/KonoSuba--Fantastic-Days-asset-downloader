@@ -11,12 +11,17 @@ VERSIONS = os.path.join(ROOT, "versions.txt")
 def main():
     path = ROOT
     app_id = "com.nexon.konosuba"
+
+    print("Fetching versions")
     if os.path.exists(VERSIONS):
         with open(VERSIONS, "rt") as f:
             app_version, api_version = f.read().splitlines()
     else:
+        print("no local versions found")
         app_version, api_version = update_apk_versions(app_id, path)
+    print(app_version, api_version)
 
+    print("Get current resource version")
     try:
         version = get_resource_version(app_version, api_version)
     except Exception as e:
@@ -26,6 +31,9 @@ def main():
         app_version, api_version = update_apk_versions(app_id, path)
         version = get_resource_version(app_version, api_version)
 
+    print(version)
+
+    print("Updating resources/assets")
     update_resources(version)
 
 
@@ -59,9 +67,9 @@ def get_resource_version(app_version, api_version):
             "advertising_id": "00000000-0000-0000-0000-000000000000",
             "market_code": "playstore",
             "country": "US",
-            "sdk_version": "150",
+            "sdk_version": "175", # doesn't seem to matter
             "curr_build_version": res["app_version"],
-            "curr_build_number": 215,
+            "curr_build_number": 219, # <- important, has to be extracted from somewhere
             "curr_patch_version": 0,
         },
         headers={
@@ -146,10 +154,11 @@ def update_resource(version, resource):
 
 
 def update_apk_versions(apk_id, path):
+    print("downloading latest apk from QooApp")
     apk_data = download_QooApp_apk(apk_id)
     with open(os.path.join(path, "current.apk"), "wb") as f:
         f.write(apk_data)
-
+    print("extracing app_version and api_version")
     app_version, api_version = extract_apk_versions(apk_data)
     with open("versions.txt", "wt") as f:
         f.write("\n".join([app_version, api_version]))
@@ -164,12 +173,15 @@ def extract_apk_versions(apk_data):
 
     with io.BytesIO(apk_data) as stream:
         with ZipFile(stream) as zip:
-            with zip.open("assets/bin/Data/Managed/Metadata/global-metadata.dat") as f:
-                gl_md = f.read()
-                app_version = re.search(
-                    b"https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/server_config/(.{1,64}?).json",
-                    gl_md,
-                )[1].decode()
+            # devs are dumb shit and keep moving the app version around
+            for name in zip.namelist():
+                if name.startswith("assets/bin/Data/Managed"):
+                    with zip.open(name) as f:
+                        data = f.read()
+                        ver = re.search(b"\d+.\d+.\d+_prd_\d+", data)
+                        if ver:
+                            app_version = ver[0].decode()
+                            break
             with zip.open("classes2.dex") as f:
                 raw = f.read()
                 for match in re.finditer(b"(.)(v\d+\.\d+)\00", raw):

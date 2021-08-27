@@ -17,7 +17,12 @@ pip install UnityPy==1.7.10
 pip install requests
 ```
 
+## Master
+
+The ``master`` folder contains all the master data of the game.
+This data is requests from the game api in an encrypted format, the folder in this repo contains them decrypted.
+The decryption function won't be shared for the time being.
+
 ## TODO
 
 - add japanese and chinese versions
-- fetch encrypted masterdata from the game server
