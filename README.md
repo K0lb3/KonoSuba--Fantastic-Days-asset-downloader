@@ -7,8 +7,16 @@ so all you have to do is execute the download_assets.py script after every updat
 
 ## Script Requirements
 
+The ``download_assets_old.py`` script extracts the relevant data from the latest apk found on QooApp.
+Since the resource request also return the latest configuritions this isn't strictly necessary,
+so the ``download_assets.py`` script can do without the trouble, but might run into trouble if something changes.
+
+So, only run ``download_assets_old.py`` IF ``download_assets.py`` doesnisn't able to update.
+
+### old and new
+
 - Python 3.6+
-- JRE (Java Runtime Environment) for backsmali
+- JRE (Java Runtime Environment) for backsmali [for the old version]
 
 - UnityPy 1.7.10
 - requests

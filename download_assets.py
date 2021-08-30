@@ -1,71 +1,25 @@
 import requests
 import os
-import tempfile
-import subprocess
 from AssetBatchConverter import extract_assets
 
 ROOT = os.path.dirname(os.path.realpath(__file__))
 RAW = os.path.join(ROOT, "raw")
 EXT = os.path.join(ROOT, "extracted")
-VERSIONS = os.path.join(ROOT, "versions.txt")
-BACKSMALI = os.path.join(ROOT, "baksmali-2.5.2.jar")
-
-JAVA = "java"
-if subprocess.run([JAVA, "-version"]).returncode != 0:
-    JAVA = os.path.join(os.environ["JAVA_HOME"], "bin", "java")
 
 
 def main():
     path = ROOT
-    app_id = "com.nexon.konosuba"
 
-    print("Fetching versions")
-    if os.path.exists(VERSIONS):
-        with open(VERSIONS, "rt") as f:
-            versions = f.read().splitlines()
-    else:
-        print("no local versions found")
-        versions = update_apk_versions(app_id, path)
-    print(*versions)
-
-    print("Get current resource version")
-    try:
-        version = get_resource_version(*versions)
-    except Exception as e:
-        print("error during resource version request")
-        print("updating apk settings")
-        update_apk_versions(app_id, path)
-        versions = update_apk_versions(app_id, path)
-        version = get_resource_version(*versions)
-
+    print("Fetch latest resource version")
+    check = version_check()
+    version = check["patch"]["resource_path"].split("/")[4]
     print(version)
 
     print("Updating resources/assets")
     update_resources(version)
 
 
-def get_resource_version(app_version, api_version, build_number):
-    req = requests.get(
-        f"https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/server_config/{app_version}.json",
-        headers={
-            "User-Agent": "UnityPlayer/2019.4.15f1 (UnityWebRequest/1.0, libcurl/7.52.0-DEV)",
-            "Accept": "*/*",
-            "Accept-Encoding": "deflate, gzip",
-            "X-Unity-Version": "2019.4.15f1",
-        },
-    )
-    # {
-    # 	"app_version": "1.4.1",
-    # 	"asset_version": "1",
-    # 	"api_url": "web-prod-konosuba.nexon.com/",
-    # 	"asset_url": "nexon.com/",
-    # 	"webview_url": "static-stg-konosuba.nexon.com/stg/webview/",
-    # 	"banner_url": "static-prod-konosuba.nexon.com/prd/banners/",
-    # 	"inquiry_url": "inquiry.nexon.com/",
-    # 	"enable_review": "false"
-    # }
-    res = req.json()
-
+def version_check(api_version="v1.1", build_version="1.4.1", build_number="208"):
     req = requests.post(
         f"https://api-pub.nexon.com/patch/{api_version}/version-check",
         json={
@@ -74,9 +28,9 @@ def get_resource_version(app_version, api_version, build_number):
             "advertising_id": "00000000-0000-0000-0000-000000000000",
             "market_code": "playstore",
             "country": "US",
-            "sdk_version": "175", # doesn't seem to matter
-            "curr_build_version": res["app_version"],
-            "curr_build_number": int(build_number, 16), # <- important, has to be extracted from somewhere
+            "sdk_version": "175",  # doesn't seem to matter
+            "curr_build_version": build_version,
+            "curr_build_number": build_number,
             "curr_patch_version": 0,
         },
         headers={
@@ -88,38 +42,12 @@ def get_resource_version(app_version, api_version, build_number):
         },
     )
     res = req.json()
-    # "api_version": "v1.1",
-    # "market_game_id": "com.nexon.konosuba",
-    # "latest_build_version": "1.4.1",
-    # "latest_build_number": "215",
-    # "min_build_version": "1.4.1",
-    # "min_build_number": "215",
-    # "language": "en",
-    # "patch": {
-    # 	"patch_version": 90,
-    # 	"resource_path": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/aa24096586724db2/resource-data.json",
-    # 	"bdiff_path": [{
-    # 		"89": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/b304171cdc6241d7/bdiff-data.json"
-    # 	}, {
-    # 		"88": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/4725e6c108e4452f/bdiff-data.json"
-    # 	}, {
-    # 		"87": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/c483394f9e3d44e6/bdiff-data.json"
-    # 	}, {
-    # 		"86": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/92f955fb3f9b4c58/bdiff-data.json"
-    # 	}, {
-    # 		"85": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/21d47e6e3f48462a/bdiff-data.json"
-    # 	}, {
-    # 		"84": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/d9774a7bf91f433c/bdiff-data.json"
-    # 	}, {
-    # 		"83": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/76079f9f8a9f43b6/bdiff-data.json"
-    # 	}, {
-    # 		"82": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/fbc498708ea840b2/bdiff-data.json"
-    # 	}, {
-    # 		"81": "https://konosuba.dn.nexoncdn.co.kr/com.nexon.konosuba/nxpatch/325a14b912aa48e7/bdiff-data.json"
-    # 	}]
-    # }
-    version = res["patch"]["resource_path"].split("/")[4]
-    return version
+
+    latest_build_version = res["latest_build_version"]
+    latest_build_number = res["latest_build_number"]
+    if latest_build_version != build_version or latest_build_number != build_number:
+        return version_check(api_version, latest_build_version, latest_build_number)
+    return res
 
 
 def update_resources(version, lang="en"):
@@ -158,84 +86,6 @@ def update_resource(version, resource):
         if raw_path.endswith(".bundle"):
             extract_assets(data)
             # extract with UnityPy
-
-
-def update_apk_versions(apk_id, path):
-    print("downloading latest apk from QooApp")
-    apk_data = download_QooApp_apk(apk_id)
-    with open(os.path.join(path, "current.apk"), "wb") as f:
-        f.write(apk_data)
-    print("extracing app_version and api_version")
-    versions = extract_apk_versions(apk_data)
-    with open(VERSIONS, "wt") as f:
-        f.write("\n".join(versions))
-
-    return versions
-
-
-def extract_apk_versions(apk_data):
-    from zipfile import ZipFile
-    import io
-    import re
-
-    with io.BytesIO(apk_data) as stream:
-        with ZipFile(stream) as zip:
-            # devs are dumb shit and keep moving the app version around
-            for name in zip.namelist():
-                if name.startswith("assets/bin/Data/Managed"):
-                    with zip.open(name) as f:
-                        data = f.read()
-                        ver = re.search(b"\d+.\d+.\d+_prd_\d+", data)
-                        if ver:
-                            app_version = ver[0].decode()
-                            break
-            with zip.open("classes2.dex") as f:
-                dex_raw = f.read()
-            # could also be found in com/nexon/pub/.../q.smali
-            for match in re.finditer(b"(.)(v\d+\.\d+)\00", dex_raw):
-                if match[1][0] == len(match[2]):
-                    api_version = match[2].decode()
-            with tempfile.TemporaryDirectory() as tmpdirname:
-                dex_path = os.path.join(tmpdirname, "classes2.dex")
-                with open(dex_path, "wb") as f:
-                    f.write(dex_raw)
-                subprocess.run([JAVA, "-jar", BACKSMALI, "d", dex_path, "-o", tmpdirname])
-                with open(os.path.join(tmpdirname, "com", "nexon", "konosuba", "BuildConfig.smali"), "rt", encoding="utf8") as f:
-                    # .field public static final APPLICATION_ID:Ljava/lang/String; = "com.nexon.konosuba"
-                    # .field public static final BUILD_TYPE:Ljava/lang/String; = "release"
-                    # .field public static final DEBUG:Z = false
-                    # .field public static final FLAVOR:Ljava/lang/String; = ""
-                    # .field public static final VERSION_CODE:I = 0xd7
-                    # .field public static final VERSION_NAME:Ljava/lang/String; = "1.4.1"
-                    text = f.read()
-                    build_number = re.search(r"VERSION_CODE:I = ([xabcdef\d]+)", text)[1]
-    return app_version, api_version, build_number
-
-
-def download_QooApp_apk(apk):
-    from urllib.request import urlopen, Request
-    from urllib.parse import urlencode
-
-    query = urlencode(
-        {
-            "supported_abis": "x86,armeabi-v7a,armeabi",
-            "sdk_version": "22",
-        }
-    )
-    res = urlopen(
-        Request(
-            url=f"https://api.qoo-app.com/v6/apps/{apk}/download?{query}",
-            headers={
-                "accept-encoding": "gzip",
-                "user-agent": "QooApp 8.1.7",
-                "device-id": "80e65e35094bedcc",
-            },
-            method="GET",
-        )
-    )
-    data = urlopen(res.url).read()
-    return data
-
 
 if __name__ == "__main__":
     main()
