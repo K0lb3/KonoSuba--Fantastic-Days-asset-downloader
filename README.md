@@ -28,9 +28,7 @@ pip install requests
 
 ## Master
 
-The ``master`` folder contains all the master data of the game.
-This data is requests from the game api in an encrypted format, the folder in this repo contains them decrypted.
-The decryption function won't be shared for the time being.
+The ``update_master.py`` script downloads the laster master failes from the game server and decrypts them.
 
 ## TODO
 
