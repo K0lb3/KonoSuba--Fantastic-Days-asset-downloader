@@ -10,7 +10,7 @@ game_api = "https://web-prod-konosuba.nexon.com"
 # Please don't request to often from here
 # otherwise I will have to take it down.
 # Also note, that this api doesn't support the decryption of account specific request.
-crypt_api = "http://35.194.62.150"  # might add ssl later on
+crypt_api = "http://35.209.217.137"  # might add ssl later on
 
 
 
