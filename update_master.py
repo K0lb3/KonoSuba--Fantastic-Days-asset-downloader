@@ -2,6 +2,7 @@ import requests
 import os
 import json
 from base64 import b64decode
+from typing import List
 
 # api of the game
 game_api = "https://web-prod-konosuba.nexon.com"
@@ -85,7 +86,7 @@ def get_masterlist():
 
 
 # 2. get all master files
-def get_masterall(master_keys: list[str] = []):
+def get_masterall(master_keys: List[str] = []):
     body = default_body
     body.update(
         {
