@@ -1,0 +1,3778 @@
+[
+    {
+        "type": "16",
+        "id": "111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT112",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "113",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT113",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT113",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "114",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT114",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT114",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT115",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "116",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT116",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT116",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "121",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT121",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "122",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT122",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT122",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT123",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "124",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT124",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT124",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "125",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT125",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT125",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "126",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT126",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT126",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "131",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT131",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "132",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT132",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT132",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "133",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT133",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT133",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "134",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT134",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT134",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "135",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT135",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT135",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "136",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT136",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT136",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "141",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT141",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT141",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "142",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT142",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT142",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "143",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT143",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT143",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "144",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT144",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT144",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "145",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT145",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT145",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "146",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT146",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT146",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "151",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT151",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT151",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "152",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT152",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT152",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "153",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT153",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT153",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "154",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT154",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT154",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "155",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT155",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT155",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "156",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT156",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT156",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "161",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT161",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT161",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "162",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT162",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT162",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "163",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT163",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT163",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "164",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT164",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT164",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "165",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT165",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT165",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "166",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT166",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT166",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT201",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT202",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT203",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT300",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "301",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT301",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT301",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "302",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT302",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT302",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "303",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT303",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT303",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "16",
+        "id": "304",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LIMIT304",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LIMIT304",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "15",
+        "id": "1100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1100",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1200",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1300",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1400",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1500",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1600",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1601",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "1602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA1602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA1602",
+        "sell": "250",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "2100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2100",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2200",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2300",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2400",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2500",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2600",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2601",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "2602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA2602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA2602",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "3100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3100",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3200",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3300",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3400",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3500",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3600",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3601",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "3602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA3602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA3602",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "4100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4100",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4200",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4200",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4200",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4300",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4300",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4300",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4400",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4400",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4400",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4500",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4500",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4500",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4600",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4600",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4600",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4601",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4601",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4601",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "4602",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA4602",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA4602",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "5001",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5001",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5001",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "5002",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5002",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5002",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "5003",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5003",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5003",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "5004",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5004",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5004",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "5005",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5005",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5005",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "5006",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5006",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5006",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "5007",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5007",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5007",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "5008",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5008",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5008",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "5009",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA5009",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA5009",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12211",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12211",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12211",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12212",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12212",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12212",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12213",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12213",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12213",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12214",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12214",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12214",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12215",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12215",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12215",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12216",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12216",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12216",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12217",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12217",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12217",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12221",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12221",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12221",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12222",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12222",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12222",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12223",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12223",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12223",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12224",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12224",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12224",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12225",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12225",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12225",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12226",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12226",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12226",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12227",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12227",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12227",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12231",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12231",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12231",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12232",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12232",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12232",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12233",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12233",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12233",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12234",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12234",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12234",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12235",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12235",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12235",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12236",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12236",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12236",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12237",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12237",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12237",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12241",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12241",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12241",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12242",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12242",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12242",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12243",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12243",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12243",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12244",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12244",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12244",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12245",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12245",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12245",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12246",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12246",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12246",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12247",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12247",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12247",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12251",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12251",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12251",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12252",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12252",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12252",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12253",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12253",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12253",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12254",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12254",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12254",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12255",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12255",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12255",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12256",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12256",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12256",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12257",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12257",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12257",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "12311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12311",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12312",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12313",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12314",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12315",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12315",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12315",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12316",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12316",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12316",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12317",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12317",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12317",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12321",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12322",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12323",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12324",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12325",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12325",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12325",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12326",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12326",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12326",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12327",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12327",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12327",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12331",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12331",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12331",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12332",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12332",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12332",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12333",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12333",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12333",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12334",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12334",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12334",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12335",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12335",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12335",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12336",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12336",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12336",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12337",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12337",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12337",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12341",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12341",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12341",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12342",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12342",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12342",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12343",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12343",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12343",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12344",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12344",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12344",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12345",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12345",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12345",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12346",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12346",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12346",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12347",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12347",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12347",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12351",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12351",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12351",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12352",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12352",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12352",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12353",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12353",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12353",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12354",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12354",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12354",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12355",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12355",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12355",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12356",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12356",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12356",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12357",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12357",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12357",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "12411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12411",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12412",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12413",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12414",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12415",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12415",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12415",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12416",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12416",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12416",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12417",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12417",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12417",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12421",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12422",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12423",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12424",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12425",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12425",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12425",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12426",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12426",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12426",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12427",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12427",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12427",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12431",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12431",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12431",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12432",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12432",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12432",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12433",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12433",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12433",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12434",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12434",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12434",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12435",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12435",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12435",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12436",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12436",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12436",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12437",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12437",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12437",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12441",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12441",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12441",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12442",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12442",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12442",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12443",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12443",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12443",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12444",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12444",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12444",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12445",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12445",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12445",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12446",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12446",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12446",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12447",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12447",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12447",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12451",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12451",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12451",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12452",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12452",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12452",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12453",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12453",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12453",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12454",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12454",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12454",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12455",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12455",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12455",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12456",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12456",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12456",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "12457",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA12457",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA12457",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "21210",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21210",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21210",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "21220",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21220",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21220",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "21310",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21310",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21310",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "21320",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA21320",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA21320",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22201",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22202",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22203",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22204",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22204",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22204",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22205",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22205",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22205",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22206",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22206",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22206",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22207",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22207",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22207",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "22311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22311",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22312",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22313",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22314",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22315",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22315",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22315",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22316",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22316",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22316",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22317",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22317",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22317",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22321",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22322",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22323",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22324",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22325",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22325",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22325",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22326",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22326",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22326",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22327",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22327",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22327",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "22411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22411",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22412",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22413",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22414",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22415",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22415",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22415",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22416",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22416",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22416",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22417",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22417",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22417",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22421",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22422",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22423",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22424",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22425",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22425",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22425",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22426",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22426",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22426",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "22427",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA22427",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA22427",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23201",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23201",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23201",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "23202",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23202",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23202",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "23203",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23203",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23203",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "23204",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23204",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23204",
+        "sell": "500",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "23311",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23311",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23311",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23312",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23312",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23312",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23313",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23313",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23313",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23314",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23314",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23314",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23321",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23321",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23321",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23322",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23322",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23322",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23323",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23323",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23323",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23324",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23324",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23324",
+        "sell": "1000",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "23411",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23411",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23411",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23412",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23412",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23412",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23413",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23413",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23413",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23414",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23414",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23414",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23421",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23421",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23421",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23422",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23422",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23422",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23423",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23423",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23423",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "23424",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA23424",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA23424",
+        "sell": "3000",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "31310",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31310",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31310",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "31320",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31320",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31320",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "31330",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31330",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31330",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "31340",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31340",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31340",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "31350",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31350",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31350",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "31410",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31410",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31410",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "31420",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31420",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31420",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "31430",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31430",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31430",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "31440",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31440",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31440",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "31450",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA31450",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA31450",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "32410",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32410",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32410",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "32420",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32420",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32420",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "32430",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32430",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32430",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "32440",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32440",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32440",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "32450",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA32450",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA32450",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "33420",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA33420",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA33420",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7001",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7001",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7001",
+        "sell": "0",
+        "rarity": "1"
+    },
+    {
+        "type": "15",
+        "id": "7002",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7002",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7002",
+        "sell": "0",
+        "rarity": "2"
+    },
+    {
+        "type": "15",
+        "id": "7003",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7003",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7003",
+        "sell": "0",
+        "rarity": "3"
+    },
+    {
+        "type": "15",
+        "id": "7004",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7004",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7004",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7100",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7100",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7100",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7101",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7101",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7101",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7102",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7102",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7102",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7103",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7103",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7103",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7104",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7104",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7104",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7105",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7105",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7105",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7106",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7106",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7106",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7107",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7107",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7107",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7109",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7109",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7109",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7110",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7110",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7110",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7111",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7112",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7113",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7113",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7113",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7114",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7114",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7114",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7115",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7116",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7116",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7116",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7117",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7117",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7117",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7118",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7118",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7118",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "15",
+        "id": "7119",
+        "name": "ASSET_ITEM_NAME_MATERIAL_WA7119",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_WA7119",
+        "sell": "0",
+        "rarity": "4"
+    },
+    {
+        "type": "18",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV1",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "18",
+        "id": "2",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV2",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV2",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "18",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LV3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LV3",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL3",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "4",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL4",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL4",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1003129",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1003129",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1003129",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE1",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "2",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE2",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE2",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE3",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE3",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "4",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE4",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE4",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "2102",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE2102",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE2102",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "1",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_MONEY1",
+        "description": "ASSET_ITEM_DESCRIPTION_MONEY1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "2",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_REALMONEY1",
+        "description": "ASSET_ITEM_DESCRIPTION_REALMONEY1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "3",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_REALMONEYFREE1",
+        "description": "ASSET_ITEM_DESCRIPTION_REALMONEYFREE1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "9",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_STAMINA1",
+        "description": "ASSET_ITEM_DESCRIPTION_STAMINA1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "8",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_TICKET1",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "10",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_EXP1",
+        "description": "ASSET_ITEM_DESCRIPTION_EXP1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1001",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1001",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1001",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1011",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1011",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1011",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1012",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1012",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1012",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1021",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1021",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1021",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "29",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_STAMINA_ITEM1",
+        "description": "ASSET_ITEM_DESCRIPTION_STAMINA_ITEM1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "29",
+        "id": "2",
+        "name": "ASSET_ITEM_NAME_STAMINA_ITEM2",
+        "description": "ASSET_ITEM_DESCRIPTION_STAMINA_ITEM2",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "30",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_TICKET_LOTTERY1",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_LOTTERY1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "32",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_CAMPAIGN_TICKET_GACHA1",
+        "description": "ASSET_ITEM_DESCRIPTION_CAMPAIGN_TICKET_GACHA1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "21",
+        "id": "1",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA1",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA1",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "21",
+        "id": "3",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA3",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA3",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "21",
+        "id": "4",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA4",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA4",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "21",
+        "id": "5",
+        "name": "ASSET_ITEM_NAME_TICKET_GACHA5",
+        "description": "ASSET_ITEM_DESCRIPTION_TICKET_GACHA5",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1191111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1191111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1191111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200311",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200311",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200321",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200321",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200311",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200311",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200321",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200321",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200311",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200311",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200311",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200312",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200312",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200312",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200321",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200321",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200321",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1023107",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1023107",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1023107",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1163111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1163111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1163111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1163124",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1163124",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1163124",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1173136",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1173136",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1173136",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200411",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200411",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200421",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200421",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200431",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200431",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200411",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200411",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200421",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200421",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200431",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200431",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200411",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200411",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200411",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200412",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200412",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200412",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200421",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200421",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200421",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1033113",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1033113",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1033113",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1033131",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1033131",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1033131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1033137",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1033137",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1033137",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1043138",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1043138",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1043138",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1143112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1143112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1143112",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1153112",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1153112",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1153112",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200441",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200441",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200441",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "20044",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE20044",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE20044",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "19",
+        "id": "20111",
+        "name": "ASSET_ITEM_NAME_MATERIAL_LOVE20111",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_LOVE20111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200431",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200431",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200431",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200511",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200511",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200521",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200521",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200531",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200531",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200531",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200531",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200511",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200511",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200521",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200521",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200531",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200531",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200531",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200511",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200511",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200511",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200512",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200512",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200512",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200521",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200521",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200521",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1063116",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1063116",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1063116",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1063126",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1063126",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1063126",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1133115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1133115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1133115",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1133128",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1133128",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1133128",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1133138",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1133138",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1133138",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1053115",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1053115",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1053115",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1053139",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1053139",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1053139",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200611",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200611",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200621",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200621",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200631",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200631",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200631",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200631",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200611",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200611",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200621",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200621",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200631",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200631",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200631",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200611",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200611",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200611",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200612",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200612",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200612",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200621",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200621",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200621",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1103118",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1103118",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1103118",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1103134",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1103134",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1103134",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1013120",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1013120",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1013120",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1123120",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1123120",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1123120",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1123134",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1123134",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1123134",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200711",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200711",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200721",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200721",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200731",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200731",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200731",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200731",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200831",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200831",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200831",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "200931",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA200931",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA200931",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "201031",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA201031",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA201031",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "201131",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA201131",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA201131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "201231",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA201231",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA201231",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "28",
+        "id": "210131",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_GACHA210131",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_GACHA210131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200711",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200711",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200721",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200721",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200731",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200731",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200731",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200711",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200711",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200711",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200712",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200712",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200712",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200721",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200721",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200721",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1113119",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1113119",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1113119",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1113131",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1113131",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1113131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1113140",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1113140",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1113140",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1093123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1093123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1093123",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1183123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1183123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1183123",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1183135",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1183135",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1183135",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1193128",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1193128",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1193128",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1193136",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1193136",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1193136",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1474132",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1474132",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1474132",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200811",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200811",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200821",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200821",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200831",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200831",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200831",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200911",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200911",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200911",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200921",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200921",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200921",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "200931",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS200931",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS200931",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201011",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201011",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201011",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201021",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201021",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201021",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201031",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201031",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201031",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201111",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201111",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201121",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201121",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201131",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201131",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201211",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201211",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201221",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201221",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "201231",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS201231",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS201231",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "210111",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS210111",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS210111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "210121",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS210121",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS210121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "210131",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS210131",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS210131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "210211",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS210211",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS210211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "27",
+        "id": "210221",
+        "name": "ASSET_ITEM_NAME_EVENT_TICKET_BOSS210221",
+        "description": "ASSET_ITEM_DESCRIPTION_EVENT_TICKET_BOSS210221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200811",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200811",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200821",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200821",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200831",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200831",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200831",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200911",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200911",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200911",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200921",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200921",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200921",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200931",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200931",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200931",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1200941",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1200941",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1200941",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201011",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201011",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201011",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201021",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201021",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201021",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201031",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201031",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201031",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201121",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201121",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201131",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201131",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201211",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201211",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201221",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201221",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1201231",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1201231",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1201231",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1210111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1210111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1210111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1210121",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1210121",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1210121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1210131",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1210131",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1210131",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1210211",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1210211",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1210211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "1210221",
+        "name": "ASSET_ITEM_NAME_EXCHANGE1210221",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE1210221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200811",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200811",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200811",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200812",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200812",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200812",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200821",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200821",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200821",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200841",
+        "name": "ASSET_ITEM_NAME_EXCHANGE11011",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE11011",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200911",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200911",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200911",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200912",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200912",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200912",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "200921",
+        "name": "ASSET_ITEM_NAME_EXCHANGE200921",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE200921",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201011",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201011",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201011",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201012",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201012",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201012",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201021",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201021",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201021",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201112",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201112",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201112",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201121",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201121",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201211",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201211",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201212",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201212",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201212",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "201221",
+        "name": "ASSET_ITEM_NAME_EXCHANGE201221",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE201221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210111",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210111",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210111",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210112",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210112",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210112",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210121",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210121",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210121",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210141",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210141",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210141",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210211",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210211",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210211",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210212",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210212",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210212",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "210221",
+        "name": "ASSET_ITEM_NAME_EXCHANGE210221",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE210221",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1143123",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1143123",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1143123",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "17",
+        "id": "1073124",
+        "name": "ASSET_ITEM_NAME_MATERIAL_SKILL1073124",
+        "description": "ASSET_ITEM_DESCRIPTION_MATERIAL_SKILL1073124",
+        "sell": "0",
+        "rarity": "0"
+    },
+    {
+        "type": "20",
+        "id": "4200051",
+        "name": "ASSET_ITEM_NAME_EXCHANGE4200051",
+        "description": "ASSET_ITEM_DESCRIPTION_EXCHANGE4200051",
+        "sell": "0",
+        "rarity": "0"
+    }
+]

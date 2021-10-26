@@ -1,0 +1,2378 @@
+[
+    {
+        "loginbonus_id": "20000",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20000",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "2",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "6",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "20",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "20001",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "description": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "1",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "3",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "5",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "4",
+        "item_type": "1",
+        "item_id": "1",
+        "item_num": "50000",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "5",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "6",
+        "item_type": "19",
+        "item_id": "3",
+        "item_num": "5",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "50000",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "200",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40000",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1500",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "4",
+        "item_type": "1",
+        "item_id": "1",
+        "item_num": "500000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "6",
+        "item_type": "16",
+        "item_id": "203",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40002",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "150",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "150",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "150",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "4",
+        "item_type": "15",
+        "item_id": "7001",
+        "item_num": "150",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "150",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "6",
+        "item_type": "16",
+        "item_id": "203",
+        "item_num": "15",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40003",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "2",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40004",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "30",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "30",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "30",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40006",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "1",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "3",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40007",
+        "days": "7",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40008",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40009",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40010",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_2",
+        "description": "2日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40011",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_3",
+        "description": "3日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40012",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_4",
+        "description": "4日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40013",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_5",
+        "description": "5日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40014",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_6",
+        "description": "6日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "3000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40015",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "1",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "2",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "3",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "4",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "5",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "6",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "7",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40016",
+        "days": "8",
+        "item_type": "30",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "3",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "30000",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "description": "<0>日目のカムバックログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40005",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40017",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40018",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_1",
+        "description": "1日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40019",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40021",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40022",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_1",
+        "description": "1日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40023",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_2",
+        "description": "2日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "8",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "9",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "10",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "11",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "12",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "13",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40024",
+        "days": "14",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "20",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "3",
+        "item_type": "16",
+        "item_id": "303",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "4",
+        "item_type": "16",
+        "item_id": "302",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "5",
+        "item_type": "16",
+        "item_id": "301",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "1000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40025",
+        "days": "7",
+        "item_type": "16",
+        "item_id": "304",
+        "item_num": "2",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "1",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "3",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40026",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "1",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "2",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "3",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "4",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40027",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "500",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40028",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "4",
+        "item_type": "16",
+        "item_id": "301",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "5",
+        "item_type": "16",
+        "item_id": "302",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "6",
+        "item_type": "16",
+        "item_id": "303",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "7",
+        "item_type": "16",
+        "item_id": "304",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "8",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "9",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "5",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "10",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "50",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "11",
+        "item_type": "16",
+        "item_id": "301",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "12",
+        "item_type": "16",
+        "item_id": "302",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "13",
+        "item_type": "16",
+        "item_id": "303",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40029",
+        "days": "14",
+        "item_type": "16",
+        "item_id": "304",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40030",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_1",
+        "description": "1日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40031",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_1",
+        "description": "1日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40032",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_2",
+        "description": "2日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40033",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_3",
+        "description": "3日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40034",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_4",
+        "description": "4日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40035",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_5",
+        "description": "5日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40036",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_6",
+        "description": "6日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "3000",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "4",
+        "item_type": "17",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "5",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "10",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "6",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40037",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40038",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_1",
+        "description": "1日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40039",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_2",
+        "description": "2日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40040",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_3",
+        "description": "3日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40041",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_4",
+        "description": "4日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40042",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_5",
+        "description": "5日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40043",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_6",
+        "description": "6日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40044",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_7",
+        "description": "7日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40045",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_8",
+        "description": "8日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40046",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "4",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_9",
+        "description": "9日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40047",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "2",
+        "item_type": "16",
+        "item_id": "301",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "3",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "4",
+        "item_type": "16",
+        "item_id": "302",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "5",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "100",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "6",
+        "item_type": "16",
+        "item_id": "303",
+        "item_num": "3",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40055",
+        "days": "7",
+        "item_type": "16",
+        "item_id": "304",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "6",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40056",
+        "days": "7",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "1",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "2",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "3",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "4",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "5",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "6",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "8",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "9",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "10",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "11",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "12",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "13",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "40057",
+        "days": "14",
+        "item_type": "21",
+        "item_id": "5",
+        "item_num": "1",
+        "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
+        "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "1",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "2",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "3",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "4",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "5",
+        "item_type": "3",
+        "item_id": "1",
+        "item_num": "300",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "6",
+        "item_type": "21",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90000",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "3",
+        "item_num": "1",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "1",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "20",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "2",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "2",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "3",
+        "item_type": "1",
+        "item_id": "1",
+        "item_num": "50000",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "4",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "5",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "5",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "20",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "6",
+        "item_type": "15",
+        "item_id": "7002",
+        "item_num": "10",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "7",
+        "item_type": "21",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "8",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "30",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "9",
+        "item_type": "29",
+        "item_id": "1",
+        "item_num": "2",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "10",
+        "item_type": "1",
+        "item_id": "1",
+        "item_num": "50000",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "11",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "10",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "12",
+        "item_type": "8",
+        "item_id": "1",
+        "item_num": "30",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "13",
+        "item_type": "15",
+        "item_id": "7002",
+        "item_num": "10",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    },
+    {
+        "loginbonus_id": "90001",
+        "days": "14",
+        "item_type": "21",
+        "item_id": "1",
+        "item_num": "1",
+        "present_message_id": "PRESENT_LOGINBONUS",
+        "description": "ログインボーナスで獲得したアイテムです"
+    }
+]

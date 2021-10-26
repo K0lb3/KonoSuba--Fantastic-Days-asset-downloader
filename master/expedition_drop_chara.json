@@ -1,0 +1,1199 @@
+[
+    {
+        "chara_id": "100",
+        "item_type": "15",
+        "item_id": "1100",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "15",
+        "item_id": "2100",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "15",
+        "item_id": "3100",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "15",
+        "item_id": "4100",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "100",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "15",
+        "item_id": "1200",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "15",
+        "item_id": "2200",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "15",
+        "item_id": "3200",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "15",
+        "item_id": "4200",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "101",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "102",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "15",
+        "item_id": "1100",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "15",
+        "item_id": "2100",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "15",
+        "item_id": "3100",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "15",
+        "item_id": "4100",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "103",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "15",
+        "item_id": "1400",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "15",
+        "item_id": "2400",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "15",
+        "item_id": "3400",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "15",
+        "item_id": "4400",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "104",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "105",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "106",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "15",
+        "item_id": "1100",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "15",
+        "item_id": "2100",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "15",
+        "item_id": "3100",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "15",
+        "item_id": "4100",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "107",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "15",
+        "item_id": "1200",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "15",
+        "item_id": "2200",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "15",
+        "item_id": "3200",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "15",
+        "item_id": "4200",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "109",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "110",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "15",
+        "item_id": "1100",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "15",
+        "item_id": "2100",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "15",
+        "item_id": "3100",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "15",
+        "item_id": "4100",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "111",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "15",
+        "item_id": "1500",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "15",
+        "item_id": "2500",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "15",
+        "item_id": "3500",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "15",
+        "item_id": "4500",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "112",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "113",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "15",
+        "item_id": "1500",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "15",
+        "item_id": "2500",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "15",
+        "item_id": "3500",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "15",
+        "item_id": "4500",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "114",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "15",
+        "item_id": "1200",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "15",
+        "item_id": "2200",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "15",
+        "item_id": "3200",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "15",
+        "item_id": "4200",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "115",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "15",
+        "item_id": "1400",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "15",
+        "item_id": "2400",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "15",
+        "item_id": "3400",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "15",
+        "item_id": "4400",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "116",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "15",
+        "item_id": "1300",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "15",
+        "item_id": "2300",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "15",
+        "item_id": "3300",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "15",
+        "item_id": "4300",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "117",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "15",
+        "item_id": "1400",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "15",
+        "item_id": "2400",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "15",
+        "item_id": "3400",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "15",
+        "item_id": "4400",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "118",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "15",
+        "item_id": "1500",
+        "item_num": "1",
+        "weight": "50",
+        "probability": "5.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "15",
+        "item_id": "2500",
+        "item_num": "1",
+        "weight": "30",
+        "probability": "3.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "15",
+        "item_id": "3500",
+        "item_num": "1",
+        "weight": "20",
+        "probability": "2.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "15",
+        "item_id": "4500",
+        "item_num": "1",
+        "weight": "10",
+        "probability": "1.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "18",
+        "item_id": "1",
+        "item_num": "1",
+        "weight": "500",
+        "probability": "50.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "18",
+        "item_id": "2",
+        "item_num": "1",
+        "weight": "300",
+        "probability": "30.00%",
+        "description": "0"
+    },
+    {
+        "chara_id": "119",
+        "item_type": "18",
+        "item_id": "3",
+        "item_num": "1",
+        "weight": "90",
+        "probability": "9.00%",
+        "description": "0"
+    }
+]

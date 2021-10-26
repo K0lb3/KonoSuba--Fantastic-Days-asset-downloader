@@ -1,0 +1,605 @@
+[
+    {
+        "limit_id": "100001",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_100001/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_3"
+    },
+    {
+        "limit_id": "319111",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_319111/charge.html",
+        "item_type": "20",
+        "item_id": "1191111",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_1"
+    },
+    {
+        "limit_id": "320031",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320031/charge.html",
+        "item_type": "20",
+        "item_id": "1200311",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_4"
+    },
+    {
+        "limit_id": "320032",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320032/charge.html",
+        "item_type": "20",
+        "item_id": "1200321",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_5"
+    },
+    {
+        "limit_id": "420001",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420001/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_7"
+    },
+    {
+        "limit_id": "320041",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320041/charge.html",
+        "item_type": "20",
+        "item_id": "1200411",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_8"
+    },
+    {
+        "limit_id": "420002",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420002/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_9"
+    },
+    {
+        "limit_id": "320042",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320042/charge.html",
+        "item_type": "20",
+        "item_id": "1200421",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_10"
+    },
+    {
+        "limit_id": "420003",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420003/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_11"
+    },
+    {
+        "limit_id": "320043",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320043/charge.html",
+        "item_type": "20",
+        "item_id": "1200431",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_12"
+    },
+    {
+        "limit_id": "420004",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420004/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_13"
+    },
+    {
+        "limit_id": "320051",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320051/charge.html",
+        "item_type": "20",
+        "item_id": "1200511",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_16"
+    },
+    {
+        "limit_id": "420005",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420005/charge.html",
+        "item_type": "20",
+        "item_id": "4200051",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_999"
+    },
+    {
+        "limit_id": "320052",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320052/charge.html",
+        "item_type": "20",
+        "item_id": "1200521",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_18"
+    },
+    {
+        "limit_id": "420006",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420006/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_19"
+    },
+    {
+        "limit_id": "320053",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320053/charge.html",
+        "item_type": "20",
+        "item_id": "1200531",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_21"
+    },
+    {
+        "limit_id": "420007",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420007/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_22"
+    },
+    {
+        "limit_id": "320061",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320061/charge.html",
+        "item_type": "20",
+        "item_id": "1200611",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_23"
+    },
+    {
+        "limit_id": "420008",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420008/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_7"
+    },
+    {
+        "limit_id": "320062",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320062/charge.html",
+        "item_type": "20",
+        "item_id": "1200621",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_25"
+    },
+    {
+        "limit_id": "420009",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420009/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_13"
+    },
+    {
+        "limit_id": "320063",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320063/charge.html",
+        "item_type": "20",
+        "item_id": "1200631",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_27"
+    },
+    {
+        "limit_id": "420010",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420010/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_9"
+    },
+    {
+        "limit_id": "320071",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320071/charge.html",
+        "item_type": "20",
+        "item_id": "1200711",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_28"
+    },
+    {
+        "limit_id": "420011",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420011/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_11"
+    },
+    {
+        "limit_id": "320072",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320072/charge.html",
+        "item_type": "20",
+        "item_id": "1200721",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_30"
+    },
+    {
+        "limit_id": "420012",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420012/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_22"
+    },
+    {
+        "limit_id": "320073",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320073/charge.html",
+        "item_type": "20",
+        "item_id": "1200731",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_32"
+    },
+    {
+        "limit_id": "320081",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320081/charge.html",
+        "item_type": "20",
+        "item_id": "1200811",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_33"
+    },
+    {
+        "limit_id": "420014",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420014/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_13"
+    },
+    {
+        "limit_id": "320082",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320082/charge.html",
+        "item_type": "20",
+        "item_id": "1200821",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_35"
+    },
+    {
+        "limit_id": "320083",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320083/charge.html",
+        "item_type": "20",
+        "item_id": "1200831",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_37"
+    },
+    {
+        "limit_id": "320091",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320091/charge.html",
+        "item_type": "20",
+        "item_id": "1200911",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_40"
+    },
+    {
+        "limit_id": "320092",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320092/charge.html",
+        "item_type": "20",
+        "item_id": "1200921",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_41"
+    },
+    {
+        "limit_id": "320093",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320093/charge.html",
+        "item_type": "20",
+        "item_id": "1200931",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_42"
+    },
+    {
+        "limit_id": "320101",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320101/charge.html",
+        "item_type": "20",
+        "item_id": "1201011",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_43"
+    },
+    {
+        "limit_id": "320102",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320102/charge.html",
+        "item_type": "20",
+        "item_id": "1201021",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_45"
+    },
+    {
+        "limit_id": "320103",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320103/charge.html",
+        "item_type": "20",
+        "item_id": "1201031",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_47"
+    },
+    {
+        "limit_id": "320111",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320111/charge.html",
+        "item_type": "20",
+        "item_id": "1201111",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_49"
+    },
+    {
+        "limit_id": "320112",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320112/charge.html",
+        "item_type": "20",
+        "item_id": "1201121",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_51"
+    },
+    {
+        "limit_id": "320113",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320113/charge.html",
+        "item_type": "20",
+        "item_id": "1201131",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_53"
+    },
+    {
+        "limit_id": "320121",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320121/charge.html",
+        "item_type": "20",
+        "item_id": "1201211",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_54"
+    },
+    {
+        "limit_id": "320122",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320122/charge.html",
+        "item_type": "20",
+        "item_id": "1201221",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_4"
+    },
+    {
+        "limit_id": "320123",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_320123/charge.html",
+        "item_type": "20",
+        "item_id": "1201231",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_55"
+    },
+    {
+        "limit_id": "321011",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_321011/charge.html",
+        "item_type": "20",
+        "item_id": "1210111",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_57"
+    },
+    {
+        "limit_id": "321012",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_321012/charge.html",
+        "item_type": "20",
+        "item_id": "1210121",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_55"
+    },
+    {
+        "limit_id": "321013",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_321013/charge.html",
+        "item_type": "20",
+        "item_id": "1210131",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_8"
+    },
+    {
+        "limit_id": "321021",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_321021/charge.html",
+        "item_type": "20",
+        "item_id": "1210211",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_60"
+    },
+    {
+        "limit_id": "321022",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_321022/charge.html",
+        "item_type": "20",
+        "item_id": "1210221",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_62"
+    },
+    {
+        "limit_id": "410020",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_410020/charge.html",
+        "item_type": "20",
+        "item_id": "1200941",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_38"
+    },
+    {
+        "limit_id": "420015",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420015/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_17"
+    },
+    {
+        "limit_id": "420016",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420016/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_9"
+    },
+    {
+        "limit_id": "420017",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420017/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_19"
+    },
+    {
+        "limit_id": "420018",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420018/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_7"
+    },
+    {
+        "limit_id": "420019",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420019/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_11"
+    },
+    {
+        "limit_id": "420020",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420020/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_22"
+    },
+    {
+        "limit_id": "420021",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420021/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_13"
+    },
+    {
+        "limit_id": "420022",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420022/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_19"
+    },
+    {
+        "limit_id": "420023",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420023/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_17"
+    },
+    {
+        "limit_id": "420024",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420024/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_9"
+    },
+    {
+        "limit_id": "420025",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420025/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_22"
+    },
+    {
+        "limit_id": "420026",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420026/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_19"
+    },
+    {
+        "limit_id": "420027",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420027/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_13"
+    },
+    {
+        "limit_id": "420028",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420028/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_22"
+    },
+    {
+        "limit_id": "420029",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420029/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_17"
+    },
+    {
+        "limit_id": "420030",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420030/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_7"
+    },
+    {
+        "limit_id": "420031",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_420031/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_9"
+    }
+]

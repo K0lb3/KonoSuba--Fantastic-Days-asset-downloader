@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "exp": "20",
+        "exp_special": "0",
+        "is_initial": "1",
+        "display_start_at": "0",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "2",
+        "exp": "40",
+        "exp_special": "0",
+        "is_initial": "1",
+        "display_start_at": "0",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "3",
+        "exp": "60",
+        "exp_special": "0",
+        "is_initial": "1",
+        "display_start_at": "0",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "4",
+        "exp": "300",
+        "exp_special": "0",
+        "is_initial": "0",
+        "display_start_at": "0",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "2102",
+        "exp": "300",
+        "exp_special": "0",
+        "is_initial": "0",
+        "display_start_at": "2022/02/14 0:00:00",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "20044",
+        "exp": "1",
+        "exp_special": "0",
+        "is_initial": "0",
+        "display_start_at": "0",
+        "display_end_at": "0",
+        "special_chara_id": "0"
+    },
+    {
+        "id": "20111",
+        "exp": "20",
+        "exp_special": "100",
+        "is_initial": "0",
+        "display_start_at": "2021/11/9 0:00:00",
+        "display_end_at": "0",
+        "special_chara_id": "147_150"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "item_id": "1",
+        "icon_id": "1",
+        "name": "LOTTERY_NAME_1",
+        "digit": "5",
+        "distribute_start_at": "2020/08/21 10:00:00",
+        "distribute_end_at": "2020/08/29 0:00:00",
+        "presentation_day": "2020/08/29",
+        "receive_start_at": "2020/08/31 15:00:00",
+        "receive_end_at": "2020/10/01 0:00:00",
+        "display_end_at": "2020/10/01 0:00:00",
+        "text": "LOTTERY_DESCRIPTION_1"
+    }
+]

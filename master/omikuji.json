@@ -1,0 +1,16 @@
+[
+    {
+        "omikuji_id": "1",
+        "omikuji_lot_id": "1",
+        "start_at": "2020/2/27 0:00:00",
+        "end_at": "2020/2/28 0:00:00",
+        "back_image": "Background_1020"
+    },
+    {
+        "omikuji_id": "20211",
+        "omikuji_lot_id": "101",
+        "start_at": "2021/1/1 0:00:00",
+        "end_at": "2021/1/4 0:00",
+        "back_image": "Background_1022"
+    }
+]

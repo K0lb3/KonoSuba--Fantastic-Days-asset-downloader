@@ -1,0 +1,94 @@
+[
+    {
+        "chara_id": "100",
+        "bonus_character_id": "100"
+    },
+    {
+        "chara_id": "101",
+        "bonus_character_id": "101"
+    },
+    {
+        "chara_id": "101",
+        "bonus_character_id": "147"
+    },
+    {
+        "chara_id": "102",
+        "bonus_character_id": "102"
+    },
+    {
+        "chara_id": "102",
+        "bonus_character_id": "150"
+    },
+    {
+        "chara_id": "103",
+        "bonus_character_id": "103"
+    },
+    {
+        "chara_id": "104",
+        "bonus_character_id": "104"
+    },
+    {
+        "chara_id": "105",
+        "bonus_character_id": "105"
+    },
+    {
+        "chara_id": "106",
+        "bonus_character_id": "106"
+    },
+    {
+        "chara_id": "107",
+        "bonus_character_id": "107"
+    },
+    {
+        "chara_id": "109",
+        "bonus_character_id": "109"
+    },
+    {
+        "chara_id": "110",
+        "bonus_character_id": "110"
+    },
+    {
+        "chara_id": "111",
+        "bonus_character_id": "111"
+    },
+    {
+        "chara_id": "112",
+        "bonus_character_id": "112"
+    },
+    {
+        "chara_id": "113",
+        "bonus_character_id": "113"
+    },
+    {
+        "chara_id": "114",
+        "bonus_character_id": "114"
+    },
+    {
+        "chara_id": "115",
+        "bonus_character_id": "115"
+    },
+    {
+        "chara_id": "116",
+        "bonus_character_id": "116"
+    },
+    {
+        "chara_id": "117",
+        "bonus_character_id": "117"
+    },
+    {
+        "chara_id": "118",
+        "bonus_character_id": "118"
+    },
+    {
+        "chara_id": "119",
+        "bonus_character_id": "119"
+    },
+    {
+        "chara_id": "147",
+        "bonus_character_id": "101"
+    },
+    {
+        "chara_id": "150",
+        "bonus_character_id": "102"
+    }
+]

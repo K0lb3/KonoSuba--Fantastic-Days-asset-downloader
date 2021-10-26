@@ -1,0 +1,50 @@
+[
+    {
+        "id": "2011101",
+        "group_id": "20111",
+        "count_point": "1000000",
+        "navi_play_place": "event_top_boss_2011101",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50244"
+    },
+    {
+        "id": "2011102",
+        "group_id": "20111",
+        "count_point": "2000000",
+        "navi_play_place": "event_top_boss_2011102",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50245"
+    },
+    {
+        "id": "2011103",
+        "group_id": "20111",
+        "count_point": "3000000",
+        "navi_play_place": "event_top_boss_2011103",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50246"
+    },
+    {
+        "id": "2011104",
+        "group_id": "20111",
+        "count_point": "5000000",
+        "navi_play_place": "event_top_boss_2011104",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50247"
+    },
+    {
+        "id": "2011105",
+        "group_id": "20111",
+        "count_point": "7500000",
+        "navi_play_place": "event_top_boss_2011104",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50249"
+    },
+    {
+        "id": "2011106",
+        "group_id": "20111",
+        "count_point": "10000000",
+        "navi_play_place": "event_top_boss_2011104",
+        "start_at": "2021/11/9 0:00",
+        "pack_id": "50250"
+    }
+]

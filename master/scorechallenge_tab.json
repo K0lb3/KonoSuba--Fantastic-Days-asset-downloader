@@ -1,0 +1,2116 @@
+[
+    {
+        "id": "11",
+        "scorechallenge_id": "1",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "12",
+        "scorechallenge_id": "1",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "13",
+        "scorechallenge_id": "1",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "14",
+        "scorechallenge_id": "1",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "21",
+        "scorechallenge_id": "2",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "22",
+        "scorechallenge_id": "2",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "23",
+        "scorechallenge_id": "2",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "24",
+        "scorechallenge_id": "2",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "31",
+        "scorechallenge_id": "3",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "32",
+        "scorechallenge_id": "3",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "33",
+        "scorechallenge_id": "3",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "34",
+        "scorechallenge_id": "3",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "41",
+        "scorechallenge_id": "4",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "42",
+        "scorechallenge_id": "4",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "43",
+        "scorechallenge_id": "4",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "44",
+        "scorechallenge_id": "4",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "51",
+        "scorechallenge_id": "5",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "52",
+        "scorechallenge_id": "5",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "53",
+        "scorechallenge_id": "5",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "54",
+        "scorechallenge_id": "5",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "61",
+        "scorechallenge_id": "6",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "62",
+        "scorechallenge_id": "6",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "63",
+        "scorechallenge_id": "6",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "64",
+        "scorechallenge_id": "6",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "71",
+        "scorechallenge_id": "7",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "72",
+        "scorechallenge_id": "7",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "73",
+        "scorechallenge_id": "7",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "74",
+        "scorechallenge_id": "7",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "81",
+        "scorechallenge_id": "8",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "82",
+        "scorechallenge_id": "8",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "83",
+        "scorechallenge_id": "8",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "84",
+        "scorechallenge_id": "8",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "91",
+        "scorechallenge_id": "9",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "92",
+        "scorechallenge_id": "9",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "93",
+        "scorechallenge_id": "9",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "94",
+        "scorechallenge_id": "9",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "101",
+        "scorechallenge_id": "10",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "102",
+        "scorechallenge_id": "10",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "103",
+        "scorechallenge_id": "10",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "104",
+        "scorechallenge_id": "10",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "111",
+        "scorechallenge_id": "11",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "112",
+        "scorechallenge_id": "11",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "113",
+        "scorechallenge_id": "11",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "114",
+        "scorechallenge_id": "11",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "121",
+        "scorechallenge_id": "12",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "122",
+        "scorechallenge_id": "12",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "123",
+        "scorechallenge_id": "12",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "124",
+        "scorechallenge_id": "12",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "131",
+        "scorechallenge_id": "13",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "132",
+        "scorechallenge_id": "13",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "133",
+        "scorechallenge_id": "13",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "134",
+        "scorechallenge_id": "13",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "141",
+        "scorechallenge_id": "14",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "142",
+        "scorechallenge_id": "14",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "143",
+        "scorechallenge_id": "14",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "144",
+        "scorechallenge_id": "14",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "151",
+        "scorechallenge_id": "15",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "152",
+        "scorechallenge_id": "15",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "153",
+        "scorechallenge_id": "15",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "154",
+        "scorechallenge_id": "15",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "161",
+        "scorechallenge_id": "16",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "162",
+        "scorechallenge_id": "16",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "163",
+        "scorechallenge_id": "16",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "164",
+        "scorechallenge_id": "16",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "171",
+        "scorechallenge_id": "17",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "172",
+        "scorechallenge_id": "17",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "173",
+        "scorechallenge_id": "17",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "174",
+        "scorechallenge_id": "17",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "181",
+        "scorechallenge_id": "18",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "182",
+        "scorechallenge_id": "18",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "183",
+        "scorechallenge_id": "18",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "184",
+        "scorechallenge_id": "18",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "185",
+        "scorechallenge_id": "18",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "186",
+        "scorechallenge_id": "18",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "191",
+        "scorechallenge_id": "19",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "192",
+        "scorechallenge_id": "19",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "193",
+        "scorechallenge_id": "19",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "194",
+        "scorechallenge_id": "19",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "195",
+        "scorechallenge_id": "19",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "196",
+        "scorechallenge_id": "19",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "201",
+        "scorechallenge_id": "20",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "202",
+        "scorechallenge_id": "20",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "203",
+        "scorechallenge_id": "20",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "204",
+        "scorechallenge_id": "20",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "205",
+        "scorechallenge_id": "20",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "206",
+        "scorechallenge_id": "20",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "211",
+        "scorechallenge_id": "21",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "212",
+        "scorechallenge_id": "21",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "213",
+        "scorechallenge_id": "21",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "214",
+        "scorechallenge_id": "21",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "215",
+        "scorechallenge_id": "21",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "216",
+        "scorechallenge_id": "21",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "221",
+        "scorechallenge_id": "22",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "222",
+        "scorechallenge_id": "22",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "223",
+        "scorechallenge_id": "22",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "224",
+        "scorechallenge_id": "22",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "225",
+        "scorechallenge_id": "22",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "226",
+        "scorechallenge_id": "22",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "231",
+        "scorechallenge_id": "23",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "232",
+        "scorechallenge_id": "23",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "233",
+        "scorechallenge_id": "23",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "234",
+        "scorechallenge_id": "23",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "235",
+        "scorechallenge_id": "23",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "236",
+        "scorechallenge_id": "23",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "241",
+        "scorechallenge_id": "24",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "242",
+        "scorechallenge_id": "24",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "243",
+        "scorechallenge_id": "24",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "244",
+        "scorechallenge_id": "24",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "245",
+        "scorechallenge_id": "24",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "246",
+        "scorechallenge_id": "24",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "251",
+        "scorechallenge_id": "25",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "252",
+        "scorechallenge_id": "25",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "253",
+        "scorechallenge_id": "25",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "254",
+        "scorechallenge_id": "25",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "255",
+        "scorechallenge_id": "25",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "256",
+        "scorechallenge_id": "25",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "261",
+        "scorechallenge_id": "26",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "262",
+        "scorechallenge_id": "26",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "263",
+        "scorechallenge_id": "26",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "264",
+        "scorechallenge_id": "26",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "265",
+        "scorechallenge_id": "26",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "266",
+        "scorechallenge_id": "26",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "271",
+        "scorechallenge_id": "27",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "272",
+        "scorechallenge_id": "27",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "273",
+        "scorechallenge_id": "27",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "274",
+        "scorechallenge_id": "27",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "275",
+        "scorechallenge_id": "27",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "276",
+        "scorechallenge_id": "27",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "281",
+        "scorechallenge_id": "28",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "282",
+        "scorechallenge_id": "28",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "283",
+        "scorechallenge_id": "28",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "284",
+        "scorechallenge_id": "28",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "285",
+        "scorechallenge_id": "28",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "286",
+        "scorechallenge_id": "28",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "291",
+        "scorechallenge_id": "29",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "292",
+        "scorechallenge_id": "29",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "293",
+        "scorechallenge_id": "29",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "294",
+        "scorechallenge_id": "29",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "295",
+        "scorechallenge_id": "29",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "296",
+        "scorechallenge_id": "29",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "301",
+        "scorechallenge_id": "30",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "302",
+        "scorechallenge_id": "30",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "303",
+        "scorechallenge_id": "30",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "304",
+        "scorechallenge_id": "30",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "305",
+        "scorechallenge_id": "30",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "306",
+        "scorechallenge_id": "30",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "311",
+        "scorechallenge_id": "31",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "312",
+        "scorechallenge_id": "31",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "313",
+        "scorechallenge_id": "31",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "314",
+        "scorechallenge_id": "31",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "315",
+        "scorechallenge_id": "31",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "316",
+        "scorechallenge_id": "31",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "321",
+        "scorechallenge_id": "32",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "322",
+        "scorechallenge_id": "32",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "323",
+        "scorechallenge_id": "32",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "324",
+        "scorechallenge_id": "32",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "325",
+        "scorechallenge_id": "32",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "326",
+        "scorechallenge_id": "32",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "331",
+        "scorechallenge_id": "33",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "332",
+        "scorechallenge_id": "33",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "333",
+        "scorechallenge_id": "33",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "334",
+        "scorechallenge_id": "33",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "335",
+        "scorechallenge_id": "33",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "336",
+        "scorechallenge_id": "33",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "341",
+        "scorechallenge_id": "34",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "342",
+        "scorechallenge_id": "34",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "343",
+        "scorechallenge_id": "34",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "344",
+        "scorechallenge_id": "34",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "345",
+        "scorechallenge_id": "34",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "346",
+        "scorechallenge_id": "34",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "351",
+        "scorechallenge_id": "35",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "352",
+        "scorechallenge_id": "35",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "353",
+        "scorechallenge_id": "35",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "354",
+        "scorechallenge_id": "35",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "355",
+        "scorechallenge_id": "35",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "356",
+        "scorechallenge_id": "35",
+        "tab_name": "20000",
+        "start_rank": "19951",
+        "end_rank": "20000"
+    },
+    {
+        "id": "361",
+        "scorechallenge_id": "36",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "362",
+        "scorechallenge_id": "36",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "363",
+        "scorechallenge_id": "36",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "364",
+        "scorechallenge_id": "36",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "365",
+        "scorechallenge_id": "36",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "366",
+        "scorechallenge_id": "36",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "371",
+        "scorechallenge_id": "37",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "372",
+        "scorechallenge_id": "37",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "373",
+        "scorechallenge_id": "37",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "374",
+        "scorechallenge_id": "37",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "375",
+        "scorechallenge_id": "37",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "376",
+        "scorechallenge_id": "37",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "381",
+        "scorechallenge_id": "38",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "382",
+        "scorechallenge_id": "38",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "383",
+        "scorechallenge_id": "38",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "384",
+        "scorechallenge_id": "38",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "385",
+        "scorechallenge_id": "38",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "386",
+        "scorechallenge_id": "38",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "391",
+        "scorechallenge_id": "39",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "392",
+        "scorechallenge_id": "39",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "393",
+        "scorechallenge_id": "39",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "394",
+        "scorechallenge_id": "39",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "395",
+        "scorechallenge_id": "39",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "396",
+        "scorechallenge_id": "39",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "401",
+        "scorechallenge_id": "40",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "402",
+        "scorechallenge_id": "40",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "403",
+        "scorechallenge_id": "40",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "404",
+        "scorechallenge_id": "40",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "405",
+        "scorechallenge_id": "40",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "406",
+        "scorechallenge_id": "40",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "411",
+        "scorechallenge_id": "41",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "412",
+        "scorechallenge_id": "41",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "413",
+        "scorechallenge_id": "41",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "414",
+        "scorechallenge_id": "41",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "415",
+        "scorechallenge_id": "41",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "416",
+        "scorechallenge_id": "41",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "421",
+        "scorechallenge_id": "42",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "422",
+        "scorechallenge_id": "42",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "423",
+        "scorechallenge_id": "42",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "424",
+        "scorechallenge_id": "42",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "425",
+        "scorechallenge_id": "42",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "426",
+        "scorechallenge_id": "42",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "431",
+        "scorechallenge_id": "43",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "432",
+        "scorechallenge_id": "43",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "433",
+        "scorechallenge_id": "43",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "434",
+        "scorechallenge_id": "43",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "435",
+        "scorechallenge_id": "43",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "436",
+        "scorechallenge_id": "43",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "441",
+        "scorechallenge_id": "44",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "442",
+        "scorechallenge_id": "44",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "443",
+        "scorechallenge_id": "44",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "444",
+        "scorechallenge_id": "44",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "445",
+        "scorechallenge_id": "44",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "446",
+        "scorechallenge_id": "44",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "451",
+        "scorechallenge_id": "45",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "452",
+        "scorechallenge_id": "45",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "453",
+        "scorechallenge_id": "45",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "454",
+        "scorechallenge_id": "45",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "455",
+        "scorechallenge_id": "45",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "456",
+        "scorechallenge_id": "45",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "461",
+        "scorechallenge_id": "46",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "462",
+        "scorechallenge_id": "46",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "463",
+        "scorechallenge_id": "46",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "464",
+        "scorechallenge_id": "46",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "465",
+        "scorechallenge_id": "46",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "466",
+        "scorechallenge_id": "46",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "471",
+        "scorechallenge_id": "47",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "472",
+        "scorechallenge_id": "47",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "473",
+        "scorechallenge_id": "47",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "474",
+        "scorechallenge_id": "47",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "475",
+        "scorechallenge_id": "47",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "476",
+        "scorechallenge_id": "47",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "481",
+        "scorechallenge_id": "48",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "482",
+        "scorechallenge_id": "48",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "483",
+        "scorechallenge_id": "48",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "484",
+        "scorechallenge_id": "48",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "485",
+        "scorechallenge_id": "48",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "486",
+        "scorechallenge_id": "48",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "491",
+        "scorechallenge_id": "49",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "492",
+        "scorechallenge_id": "49",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "493",
+        "scorechallenge_id": "49",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "494",
+        "scorechallenge_id": "49",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "495",
+        "scorechallenge_id": "49",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "496",
+        "scorechallenge_id": "49",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "501",
+        "scorechallenge_id": "50",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "502",
+        "scorechallenge_id": "50",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "503",
+        "scorechallenge_id": "50",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "504",
+        "scorechallenge_id": "50",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "505",
+        "scorechallenge_id": "50",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "506",
+        "scorechallenge_id": "50",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "511",
+        "scorechallenge_id": "51",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "512",
+        "scorechallenge_id": "51",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "513",
+        "scorechallenge_id": "51",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "514",
+        "scorechallenge_id": "51",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "515",
+        "scorechallenge_id": "51",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "516",
+        "scorechallenge_id": "51",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "521",
+        "scorechallenge_id": "52",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "522",
+        "scorechallenge_id": "52",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "523",
+        "scorechallenge_id": "52",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "524",
+        "scorechallenge_id": "52",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "525",
+        "scorechallenge_id": "52",
+        "tab_name": "20000",
+        "start_rank": "20000",
+        "end_rank": "20099"
+    },
+    {
+        "id": "526",
+        "scorechallenge_id": "52",
+        "tab_name": "30000",
+        "start_rank": "29951",
+        "end_rank": "30000"
+    },
+    {
+        "id": "20251",
+        "scorechallenge_id": "2025",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20252",
+        "scorechallenge_id": "2025",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20253",
+        "scorechallenge_id": "2025",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20254",
+        "scorechallenge_id": "2025",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "20261",
+        "scorechallenge_id": "2026",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20262",
+        "scorechallenge_id": "2026",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20263",
+        "scorechallenge_id": "2026",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20264",
+        "scorechallenge_id": "2026",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "20271",
+        "scorechallenge_id": "2027",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20272",
+        "scorechallenge_id": "2027",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20273",
+        "scorechallenge_id": "2027",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20274",
+        "scorechallenge_id": "2027",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "20281",
+        "scorechallenge_id": "2028",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20282",
+        "scorechallenge_id": "2028",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20283",
+        "scorechallenge_id": "2028",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20284",
+        "scorechallenge_id": "2028",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "20291",
+        "scorechallenge_id": "2029",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20292",
+        "scorechallenge_id": "2029",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20293",
+        "scorechallenge_id": "2029",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20294",
+        "scorechallenge_id": "2029",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    },
+    {
+        "id": "20301",
+        "scorechallenge_id": "2030",
+        "tab_name": "1",
+        "start_rank": "1",
+        "end_rank": "100"
+    },
+    {
+        "id": "20302",
+        "scorechallenge_id": "2030",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "20303",
+        "scorechallenge_id": "2030",
+        "tab_name": "1000",
+        "start_rank": "1000",
+        "end_rank": "1099"
+    },
+    {
+        "id": "20304",
+        "scorechallenge_id": "2030",
+        "tab_name": "20000",
+        "start_rank": "19901",
+        "end_rank": "20000"
+    }
+]

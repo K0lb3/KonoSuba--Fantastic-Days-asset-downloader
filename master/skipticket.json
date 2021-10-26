@@ -1,0 +1,56 @@
+[
+    {
+        "animation_name": "QuestSkip_1",
+        "is_default": "1",
+        "display_start_at": "0",
+        "display_end_at": "0"
+    },
+    {
+        "animation_name": "QuestSkip_2",
+        "is_default": "1",
+        "display_start_at": "0",
+        "display_end_at": "0"
+    },
+    {
+        "animation_name": "QuestSkip_3",
+        "is_default": "1",
+        "display_start_at": "0",
+        "display_end_at": "0"
+    },
+    {
+        "animation_name": "RezeroSkip_1",
+        "is_default": "0",
+        "display_start_at": "2021/11/9 0:00",
+        "display_end_at": "2021/11/23 0:00"
+    },
+    {
+        "animation_name": "RezeroSkip_2",
+        "is_default": "0",
+        "display_start_at": "2021/11/9 0:00",
+        "display_end_at": "2021/11/23 0:00"
+    },
+    {
+        "animation_name": "RezeroSkip_3",
+        "is_default": "0",
+        "display_start_at": "2021/11/9 0:00",
+        "display_end_at": "2021/11/23 0:00"
+    },
+    {
+        "animation_name": "NewYearSkip_1",
+        "is_default": "0",
+        "display_start_at": "2021/1/1 0:00",
+        "display_end_at": "2021/1/11 22:00"
+    },
+    {
+        "animation_name": "NewYearSkip_2",
+        "is_default": "0",
+        "display_start_at": "2021/1/1 0:00",
+        "display_end_at": "2021/1/11 22:00"
+    },
+    {
+        "animation_name": "NewYearSkip_3",
+        "is_default": "0",
+        "display_start_at": "2021/1/1 0:00",
+        "display_end_at": "2021/1/11 22:00"
+    }
+]

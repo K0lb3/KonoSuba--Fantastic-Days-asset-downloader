@@ -1,0 +1,37 @@
+[
+    {
+        "num": "1",
+        "penalty_type": "1",
+        "penalty_time": "0"
+    },
+    {
+        "num": "51",
+        "penalty_type": "2",
+        "penalty_time": "5"
+    },
+    {
+        "num": "52",
+        "penalty_type": "2",
+        "penalty_time": "10"
+    },
+    {
+        "num": "53",
+        "penalty_type": "2",
+        "penalty_time": "15"
+    },
+    {
+        "num": "54",
+        "penalty_type": "2",
+        "penalty_time": "30"
+    },
+    {
+        "num": "55",
+        "penalty_type": "2",
+        "penalty_time": "60"
+    },
+    {
+        "num": "56",
+        "penalty_type": "2",
+        "penalty_time": "1440"
+    }
+]

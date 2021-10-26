@@ -1,0 +1,110 @@
+[
+    {
+        "omikuji_lot_id": "1",
+        "fortune_id": "1",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_1",
+        "fortune_image": "text_axys_kichi",
+        "stamp": "stamp_aqua",
+        "weight": "1250",
+        "pack_id": "601010101",
+        "present_message_id": "PRESENT_OMIKUJI_1_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_1",
+        "text_id": "TEXT_OMIKUJI_SNS_1"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "1",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_1",
+        "fortune_image": "text_axys_kichi",
+        "stamp": "stamp_aqua",
+        "weight": "1250",
+        "pack_id": "26025",
+        "present_message_id": "PRESENT_OMIKUJI_1_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_4",
+        "text_id": "TEXT_OMIKUJI_SNS_1"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "2",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_2",
+        "fortune_image": "text_megami_kichi",
+        "stamp": "stamp_aqua",
+        "weight": "1250",
+        "pack_id": "26026",
+        "present_message_id": "PRESENT_OMIKUJI_2_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_3",
+        "text_id": "TEXT_OMIKUJI_SNS_2"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "3",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_3",
+        "fortune_image": "text_chuuni_kichi",
+        "stamp": "stamp_megumin",
+        "weight": "1250",
+        "pack_id": "26027",
+        "present_message_id": "PRESENT_OMIKUJI_3_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_6",
+        "text_id": "TEXT_OMIKUJI_SNS_3"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "4",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_4",
+        "fortune_image": "text_haze_kichi",
+        "stamp": "stamp_megumin",
+        "weight": "1250",
+        "pack_id": "26028",
+        "present_message_id": "PRESENT_OMIKUJI_4_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_5",
+        "text_id": "TEXT_OMIKUJI_SNS_4"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "5",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_5",
+        "fortune_image": "text_m_kichi",
+        "stamp": "stamp_darkness",
+        "weight": "1250",
+        "pack_id": "26029",
+        "present_message_id": "PRESENT_OMIKUJI_5_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_7",
+        "text_id": "TEXT_OMIKUJI_SNS_5"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "6",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_6",
+        "fortune_image": "text_kishi_kichi",
+        "stamp": "stamp_darkness",
+        "weight": "1250",
+        "pack_id": "26030",
+        "present_message_id": "PRESENT_OMIKUJI_6_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_8",
+        "text_id": "TEXT_OMIKUJI_SNS_6"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "7",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_7",
+        "fortune_image": "text_ellis_kichi",
+        "stamp": "stamp_ellis",
+        "weight": "1250",
+        "pack_id": "26031",
+        "present_message_id": "PRESENT_OMIKUJI_7_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_1",
+        "text_id": "TEXT_OMIKUJI_SNS_7"
+    },
+    {
+        "omikuji_lot_id": "101",
+        "fortune_id": "8",
+        "message_id": "TEXT_OMIKUJI_DESCRIPTION_8",
+        "fortune_image": "text_pantsu_kichi",
+        "stamp": "stamp_chris",
+        "weight": "1250",
+        "pack_id": "26032",
+        "present_message_id": "PRESENT_OMIKUJI_8_N",
+        "navi_id": "NAVI_OMIKUJI_DESCRIPTION_2",
+        "text_id": "TEXT_OMIKUJI_SNS_8"
+    }
+]

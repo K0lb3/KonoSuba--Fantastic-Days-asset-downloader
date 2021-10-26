@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "shop_item_id": "13100",
+        "package_text": "TEXT_PACK_LEVEL"
+    },
+    {
+        "id": "2",
+        "shop_item_id": "13200",
+        "package_text": "TEXT_PACK_CHAPTER"
+    },
+    {
+        "id": "3",
+        "shop_item_id": "13300",
+        "package_text": "TEXT_PACK_CHAPTER8"
+    },
+    {
+        "id": "4",
+        "shop_item_id": "13400",
+        "package_text": "TEXT_PACK_CHAPTER9"
+    },
+    {
+        "id": "5",
+        "shop_item_id": "13110",
+        "package_text": "TEXT_PACK_LEVEL2"
+    }
+]

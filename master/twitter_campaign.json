@@ -1,0 +1,16 @@
+[
+    {
+        "campaign_id": "1",
+        "start_at": "2020/5/15 9:00:00",
+        "end_at": "2020/5/24 23:59:59",
+        "exchange_limit_at": "2020/6/5 23:59:59",
+        "description": "5/19Twitter キャンペーン"
+    },
+    {
+        "campaign_id": "2",
+        "start_at": "2020/10/27 10:00:00",
+        "end_at": "2020/11/14 21:59:59",
+        "exchange_limit_at": "2020/11/26 23:59:59",
+        "description": "10/31Twitter キャンペーン"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "start": "0",
+        "survivor_num": "0",
+        "coefficient": "1"
+    },
+    {
+        "id": "2",
+        "start": "30",
+        "survivor_num": "0",
+        "coefficient": "1.5"
+    },
+    {
+        "id": "3",
+        "start": "45",
+        "survivor_num": "0",
+        "coefficient": "2"
+    },
+    {
+        "id": "4",
+        "start": "60",
+        "survivor_num": "0",
+        "coefficient": "2"
+    },
+    {
+        "id": "5",
+        "start": "60",
+        "survivor_num": "1",
+        "coefficient": "2.5"
+    },
+    {
+        "id": "6",
+        "start": "60",
+        "survivor_num": "2",
+        "coefficient": "3"
+    },
+    {
+        "id": "7",
+        "start": "60",
+        "survivor_num": "3",
+        "coefficient": "3.5"
+    },
+    {
+        "id": "8",
+        "start": "60",
+        "survivor_num": "4",
+        "coefficient": "4"
+    },
+    {
+        "id": "9",
+        "start": "60",
+        "survivor_num": "5",
+        "coefficient": "4"
+    }
+]

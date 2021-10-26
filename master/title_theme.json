@@ -1,0 +1,16 @@
+[
+    {
+        "movie": "OPMovieShort，op_short",
+        "logo": "title_logo",
+        "copyright_notation": "TITLE_TEXT_COPYRIGHT_NOTATION_1",
+        "display_start_at": "2020/02/26 15:00",
+        "display_end_at": "2020/02/27 15:00"
+    },
+    {
+        "movie": "OPMovieShortRezero，op_short_rezero",
+        "logo": "title_logo_rezero",
+        "copyright_notation": "TITLE_TEXT_COPYRIGHT_NOTATION_2",
+        "display_start_at": "2020/10/31 15:00",
+        "display_end_at": "2020/11/14 22:00"
+    }
+]

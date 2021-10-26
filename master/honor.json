@@ -1,0 +1,653 @@
+[
+    {
+        "id": "60000000",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_60000000"
+    },
+    {
+        "id": "61000000",
+        "start_at": "2022/1/12 15:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_61000000"
+    },
+    {
+        "id": "61100000",
+        "start_at": "2022/1/12 15:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_61100000"
+    },
+    {
+        "id": "62010010",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "100",
+        "name": "HONOR_RULE_62010010"
+    },
+    {
+        "id": "62010110",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "101",
+        "name": "HONOR_RULE_62010110"
+    },
+    {
+        "id": "62010210",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "102",
+        "name": "HONOR_RULE_62010210"
+    },
+    {
+        "id": "62010310",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "103",
+        "name": "HONOR_RULE_62010310"
+    },
+    {
+        "id": "62010410",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "104",
+        "name": "HONOR_RULE_62010410"
+    },
+    {
+        "id": "62010510",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "105",
+        "name": "HONOR_RULE_62010510"
+    },
+    {
+        "id": "62010610",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "106",
+        "name": "HONOR_RULE_62010610"
+    },
+    {
+        "id": "62010710",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "107",
+        "name": "HONOR_RULE_62010710"
+    },
+    {
+        "id": "62010910",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "109",
+        "name": "HONOR_RULE_62010910"
+    },
+    {
+        "id": "62011010",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "110",
+        "name": "HONOR_RULE_62011010"
+    },
+    {
+        "id": "62011110",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "111",
+        "name": "HONOR_RULE_62011110"
+    },
+    {
+        "id": "62011210",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "112",
+        "name": "HONOR_RULE_62011210"
+    },
+    {
+        "id": "62011310",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "113",
+        "name": "HONOR_RULE_62011310"
+    },
+    {
+        "id": "62011410",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "114",
+        "name": "HONOR_RULE_62011410"
+    },
+    {
+        "id": "62011510",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "115",
+        "name": "HONOR_RULE_62011510"
+    },
+    {
+        "id": "62011610",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "116",
+        "name": "HONOR_RULE_62011610"
+    },
+    {
+        "id": "62011710",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "117",
+        "name": "HONOR_RULE_62011710"
+    },
+    {
+        "id": "62011810",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "118",
+        "name": "HONOR_RULE_62011810"
+    },
+    {
+        "id": "62011910",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "119",
+        "name": "HONOR_RULE_62011910"
+    },
+    {
+        "id": "62015010",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "150",
+        "name": "HONOR_RULE_62015010"
+    },
+    {
+        "id": "62014710",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "147",
+        "name": "HONOR_RULE_62014710"
+    },
+    {
+        "id": "62010020",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "100",
+        "name": "HONOR_RULE_62010020"
+    },
+    {
+        "id": "62010120",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "101",
+        "name": "HONOR_RULE_62010120"
+    },
+    {
+        "id": "62010220",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "102",
+        "name": "HONOR_RULE_62010220"
+    },
+    {
+        "id": "62010320",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "103",
+        "name": "HONOR_RULE_62010320"
+    },
+    {
+        "id": "62010420",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "104",
+        "name": "HONOR_RULE_62010420"
+    },
+    {
+        "id": "62010520",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "105",
+        "name": "HONOR_RULE_62010520"
+    },
+    {
+        "id": "62010620",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "106",
+        "name": "HONOR_RULE_62010620"
+    },
+    {
+        "id": "62010720",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "107",
+        "name": "HONOR_RULE_62010720"
+    },
+    {
+        "id": "62010920",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "109",
+        "name": "HONOR_RULE_62010920"
+    },
+    {
+        "id": "62011020",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "110",
+        "name": "HONOR_RULE_62011020"
+    },
+    {
+        "id": "62011120",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "111",
+        "name": "HONOR_RULE_62011120"
+    },
+    {
+        "id": "62011220",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "112",
+        "name": "HONOR_RULE_62011220"
+    },
+    {
+        "id": "62011320",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "113",
+        "name": "HONOR_RULE_62011320"
+    },
+    {
+        "id": "62011420",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "114",
+        "name": "HONOR_RULE_62011420"
+    },
+    {
+        "id": "62011520",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "115",
+        "name": "HONOR_RULE_62011520"
+    },
+    {
+        "id": "62011620",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "116",
+        "name": "HONOR_RULE_62011620"
+    },
+    {
+        "id": "62011720",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "117",
+        "name": "HONOR_RULE_62011720"
+    },
+    {
+        "id": "62011820",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "118",
+        "name": "HONOR_RULE_62011820"
+    },
+    {
+        "id": "62011920",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "119",
+        "name": "HONOR_RULE_62011920"
+    },
+    {
+        "id": "62015020",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "150",
+        "name": "HONOR_RULE_62015020"
+    },
+    {
+        "id": "62014720",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "147",
+        "name": "HONOR_RULE_62014720"
+    },
+    {
+        "id": "62010030",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "100",
+        "name": "HONOR_RULE_62010030"
+    },
+    {
+        "id": "62010130",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "101",
+        "name": "HONOR_RULE_62010130"
+    },
+    {
+        "id": "62010230",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "102",
+        "name": "HONOR_RULE_62010230"
+    },
+    {
+        "id": "62010330",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "103",
+        "name": "HONOR_RULE_62010330"
+    },
+    {
+        "id": "62010430",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "104",
+        "name": "HONOR_RULE_62010430"
+    },
+    {
+        "id": "62010530",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "105",
+        "name": "HONOR_RULE_62010530"
+    },
+    {
+        "id": "62010630",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "106",
+        "name": "HONOR_RULE_62010630"
+    },
+    {
+        "id": "62010730",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "107",
+        "name": "HONOR_RULE_62010730"
+    },
+    {
+        "id": "62010930",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "109",
+        "name": "HONOR_RULE_62010930"
+    },
+    {
+        "id": "62011030",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "110",
+        "name": "HONOR_RULE_62011030"
+    },
+    {
+        "id": "62011130",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "111",
+        "name": "HONOR_RULE_62011130"
+    },
+    {
+        "id": "62011230",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "112",
+        "name": "HONOR_RULE_62011230"
+    },
+    {
+        "id": "62011330",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "113",
+        "name": "HONOR_RULE_62011330"
+    },
+    {
+        "id": "62011430",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "114",
+        "name": "HONOR_RULE_62011430"
+    },
+    {
+        "id": "62011530",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "115",
+        "name": "HONOR_RULE_62011530"
+    },
+    {
+        "id": "62011630",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "116",
+        "name": "HONOR_RULE_62011630"
+    },
+    {
+        "id": "62011730",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "117",
+        "name": "HONOR_RULE_62011730"
+    },
+    {
+        "id": "62011830",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "118",
+        "name": "HONOR_RULE_62011830"
+    },
+    {
+        "id": "62011930",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "119",
+        "name": "HONOR_RULE_62011930"
+    },
+    {
+        "id": "62015030",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "150",
+        "name": "HONOR_RULE_62015030"
+    },
+    {
+        "id": "62014730",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 0:00",
+        "character_id": "147",
+        "name": "HONOR_RULE_62014730"
+    },
+    {
+        "id": "62100010",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_62100010"
+    },
+    {
+        "id": "62100050",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_62100050"
+    },
+    {
+        "id": "62100100",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_62100100"
+    },
+    {
+        "id": "62100150",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_62100150"
+    },
+    {
+        "id": "62100200",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_62100200"
+    },
+    {
+        "id": "63000027",
+        "start_at": "2021/12/14 0:00",
+        "end_at": "2021/12/23 0:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000027"
+    },
+    {
+        "id": "63000030",
+        "start_at": "2020/12/31 15:00",
+        "end_at": "2021/1/11 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000030"
+    },
+    {
+        "id": "63000033",
+        "start_at": "2021/1/31 15:00",
+        "end_at": "2021/2/8 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000033"
+    },
+    {
+        "id": "63000028",
+        "start_at": "2020/12/11 15:00",
+        "end_at": "2020/12/20 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000028"
+    },
+    {
+        "id": "63000031",
+        "start_at": "2021/1/12 15:00",
+        "end_at": "2021/1/21 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000031"
+    },
+    {
+        "id": "63000034",
+        "start_at": "2021/2/9 15:00",
+        "end_at": "2021/2/17 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000034"
+    },
+    {
+        "id": "63000026",
+        "start_at": "2020/11/23 15:00",
+        "end_at": "2020/11/29 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000026"
+    },
+    {
+        "id": "63000029",
+        "start_at": "2020/12/21 15:00",
+        "end_at": "2020/12/30 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000029"
+    },
+    {
+        "id": "63000032",
+        "start_at": "2021/1/22 15:00",
+        "end_at": "2021/1/30 22:00",
+        "character_id": "0",
+        "name": "HONOR_RULE_63000032"
+    },
+    {
+        "id": "64000000",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_64000000"
+    },
+    {
+        "id": "65000007",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_65000007"
+    },
+    {
+        "id": "65000008",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_65000008"
+    },
+    {
+        "id": "65000009",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_65000009"
+    },
+    {
+        "id": "65000010",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_65000010"
+    },
+    {
+        "id": "66000050",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_66000050"
+    },
+    {
+        "id": "66000100",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_66000100"
+    },
+    {
+        "id": "66000150",
+        "start_at": "2022/1/12 15:00",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_66000150"
+    },
+    {
+        "id": "67000010",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_67000010"
+    },
+    {
+        "id": "67000100",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_67000100"
+    },
+    {
+        "id": "67001000",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_67001000"
+    },
+    {
+        "id": "67100010",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_67100010"
+    },
+    {
+        "id": "67100050",
+        "start_at": "0",
+        "end_at": "0",
+        "character_id": "0",
+        "name": "HONOR_RULE_67100050"
+    }
+]

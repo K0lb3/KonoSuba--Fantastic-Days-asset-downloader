@@ -1,0 +1,682 @@
+[
+    {
+        "exchange_id": "20044",
+        "name": "TEXT_EXCHANGE20044",
+        "banner": "banner_exchange_20044.png",
+        "enable": "1",
+        "start_at": "2020/4/1 0:00",
+        "end_at": "2020/4/4 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "100",
+        "name": "TEXT_EXCHANGE1",
+        "banner": "banner_exchange_100.png",
+        "enable": "1",
+        "start_at": "0",
+        "end_at": "0",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "101",
+        "name": "TEXT_EXCHANGE2",
+        "banner": "banner_exchange_101.png",
+        "enable": "1",
+        "start_at": "0",
+        "end_at": "0",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "102",
+        "name": "TEXT_EXCHANGE3",
+        "banner": "banner_exchange_102.png",
+        "enable": "1",
+        "start_at": "0",
+        "end_at": "0",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "103",
+        "name": "TEXT_EXCHANGE4",
+        "banner": "banner_exchange_103.png",
+        "enable": "1",
+        "start_at": "0",
+        "end_at": "0",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "119111",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_119111.png",
+        "enable": "1",
+        "start_at": "0",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120031",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_120031.png",
+        "enable": "1",
+        "start_at": "2021/10/25 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120032",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320032.png",
+        "enable": "1",
+        "start_at": "2021/11/24 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120041",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320041.png",
+        "enable": "1",
+        "start_at": "2021/9/23 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120042",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320042.png",
+        "enable": "1",
+        "start_at": "2021/10/4 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120043",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320043.png",
+        "enable": "1",
+        "start_at": "2021/11/1 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120051",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320051.png",
+        "enable": "1",
+        "start_at": "2021/12/24 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120052",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320052.png",
+        "enable": "1",
+        "start_at": "2099/5/12 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120053",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320053.png",
+        "enable": "1",
+        "start_at": "2099/5/21 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120061",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320061.png",
+        "enable": "1",
+        "start_at": "2022/1/31 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120062",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320062.png",
+        "enable": "1",
+        "start_at": "2099/6/12 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120063",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320063.png",
+        "enable": "1",
+        "start_at": "2099/6/22 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120071",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320071.png",
+        "enable": "1",
+        "start_at": "2099/6/30 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120072",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320072.png",
+        "enable": "1",
+        "start_at": "2021/8/19 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120073",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320073.png",
+        "enable": "1",
+        "start_at": "2021/8/30 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120081",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320081.png",
+        "enable": "1",
+        "start_at": "2021/9/9 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120082",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320082.png",
+        "enable": "1",
+        "start_at": "2099/8/11 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120083",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320083.png",
+        "enable": "1",
+        "start_at": "2099/8/21 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120091",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320091.png",
+        "enable": "1",
+        "start_at": "2099/9/3 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120092",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320092.png",
+        "enable": "1",
+        "start_at": "2099/9/11 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120093",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320093.png",
+        "enable": "1",
+        "start_at": "2099/9/20 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120094",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_410020.png",
+        "enable": "1",
+        "start_at": "2099/8/31 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120101",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320101.png",
+        "enable": "1",
+        "start_at": "2021/10/14 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120102",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320102.png",
+        "enable": "1",
+        "start_at": "2099/10/12 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120103",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320103.png",
+        "enable": "1",
+        "start_at": "2099/10/22 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120111",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320111.png",
+        "enable": "1",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120112",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320112.png",
+        "enable": "1",
+        "start_at": "2099/11/15 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120113",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320113.png",
+        "enable": "1",
+        "start_at": "2099/11/23 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120121",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320121.png",
+        "enable": "1",
+        "start_at": "2021/12/14 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120122",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320122.png",
+        "enable": "1",
+        "start_at": "2022/1/12 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "120123",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_320123.png",
+        "enable": "1",
+        "start_at": "2022/1/21 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "121011",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_321011.png",
+        "enable": "1",
+        "start_at": "2021/12/31 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "121012",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_321012.png",
+        "enable": "1",
+        "start_at": "2022/2/8 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "121013",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_321013.png",
+        "enable": "1",
+        "start_at": "2099/1/22 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "121021",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_321021.png",
+        "enable": "1",
+        "start_at": "2022/1/31 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "121022",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_321022.png",
+        "enable": "1",
+        "start_at": "2099/2/9 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "420005",
+        "name": "TEXT_EXCHANGE10",
+        "banner": "banner_exchange_420005.png",
+        "enable": "1",
+        "start_at": "2021/10/25 0:00",
+        "end_at": "2021/11/1 0:00",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20031",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20031.png",
+        "enable": "1",
+        "start_at": "2021/10/25 0:00",
+        "end_at": "2021/11/8 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20032",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20032.png",
+        "enable": "1",
+        "start_at": "2021/11/24 0:00",
+        "end_at": "2021/12/13 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20041",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20041.png",
+        "enable": "1",
+        "start_at": "2021/9/23 0:00",
+        "end_at": "2021/10/13 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20042",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20042.png",
+        "enable": "1",
+        "start_at": "2021/10/4 0:00",
+        "end_at": "2021/10/24 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20051",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20051.png",
+        "enable": "1",
+        "start_at": "2021/12/24 0:00",
+        "end_at": "2022/1/11 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20052",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20052.png",
+        "enable": "1",
+        "start_at": "2020/5/12 15:00",
+        "end_at": "2020/5/30 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20061",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20061.png",
+        "enable": "1",
+        "start_at": "2022/1/31 0:00",
+        "end_at": "2022/2/16 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20062",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20062.png",
+        "enable": "1",
+        "start_at": "2020/6/12 15:00",
+        "end_at": "2020/6/29 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20071",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20071.png",
+        "enable": "1",
+        "start_at": "2020/6/30 15:00",
+        "end_at": "2020/7/20 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20072",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20072.png",
+        "enable": "1",
+        "start_at": "2021/8/19 0:00",
+        "end_at": "2021/9/8 1:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20081",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20081.png",
+        "enable": "1",
+        "start_at": "2021/9/9 0:00",
+        "end_at": "2021/10/3 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20082",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20082.png",
+        "enable": "1",
+        "start_at": "2020/8/11 15:00",
+        "end_at": "2020/8/30 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20084",
+        "name": "TEXT_EXCHANGE20084",
+        "banner": "banner_exchange_11013.png",
+        "enable": "1",
+        "start_at": "2099/8/27 15:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20091",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20091.png",
+        "enable": "1",
+        "start_at": "2020/8/31 15:00",
+        "end_at": "2020/9/19 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20092",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20092.png",
+        "enable": "1",
+        "start_at": "2020/9/11 15:00",
+        "end_at": "2020/9/29 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20101",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20101.png",
+        "enable": "1",
+        "start_at": "2021/10/14 0:00",
+        "end_at": "2021/10/31 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20102",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20102.png",
+        "enable": "1",
+        "start_at": "2020/10/12 15:00",
+        "end_at": "2020/10/30 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20111",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20111.png",
+        "enable": "1",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/12/3 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20112",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20112.png",
+        "enable": "1",
+        "start_at": "2020/11/15 15:00",
+        "end_at": "2020/11/29 22:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20121",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20121.png",
+        "enable": "1",
+        "start_at": "2021/12/14 0:00",
+        "end_at": "2022/1/2 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "20122",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_20122.png",
+        "enable": "1",
+        "start_at": "2022/1/12 0:00",
+        "end_at": "2022/1/30 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "21011",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_21011.png",
+        "enable": "1",
+        "start_at": "2021/12/31 0:00",
+        "end_at": "2022/1/20 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "21012",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_21012.png",
+        "enable": "1",
+        "start_at": "2022/2/8 0:00",
+        "end_at": "2022/2/26 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "21014",
+        "name": "TEXT_EXCHANGE21014",
+        "banner": "banner_exchange_20124.png",
+        "enable": "1",
+        "start_at": "2021/12/31 0:00",
+        "end_at": "0",
+        "currency_display": "1",
+        "description": "0"
+    },
+    {
+        "exchange_id": "21021",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_21021.png",
+        "enable": "1",
+        "start_at": "2022/1/31 0:00",
+        "end_at": "2022/2/17 0:00",
+        "currency_display": "0",
+        "description": "0"
+    },
+    {
+        "exchange_id": "21022",
+        "name": "TEXT_EXCHANGE_EVENT",
+        "banner": "banner_exchange_21022.png",
+        "enable": "1",
+        "start_at": "2021/2/9 15:00",
+        "end_at": "2021/2/26 22:00",
+        "currency_display": "0",
+        "description": "0"
+    }
+]

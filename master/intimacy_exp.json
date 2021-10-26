@@ -1,0 +1,176 @@
+[
+    {
+        "id": "1",
+        "intimacy_lv": "2",
+        "exp": "20",
+        "start_at": "0"
+    },
+    {
+        "id": "2",
+        "intimacy_lv": "3",
+        "exp": "60",
+        "start_at": "0"
+    },
+    {
+        "id": "3",
+        "intimacy_lv": "4",
+        "exp": "150",
+        "start_at": "0"
+    },
+    {
+        "id": "4",
+        "intimacy_lv": "5",
+        "exp": "250",
+        "start_at": "0"
+    },
+    {
+        "id": "5",
+        "intimacy_lv": "6",
+        "exp": "400",
+        "start_at": "0"
+    },
+    {
+        "id": "6",
+        "intimacy_lv": "7",
+        "exp": "600",
+        "start_at": "0"
+    },
+    {
+        "id": "7",
+        "intimacy_lv": "8",
+        "exp": "900",
+        "start_at": "0"
+    },
+    {
+        "id": "8",
+        "intimacy_lv": "9",
+        "exp": "1200",
+        "start_at": "0"
+    },
+    {
+        "id": "9",
+        "intimacy_lv": "10",
+        "exp": "1500",
+        "start_at": "0"
+    },
+    {
+        "id": "10",
+        "intimacy_lv": "11",
+        "exp": "1800",
+        "start_at": "0"
+    },
+    {
+        "id": "11",
+        "intimacy_lv": "12",
+        "exp": "2200",
+        "start_at": "0"
+    },
+    {
+        "id": "12",
+        "intimacy_lv": "13",
+        "exp": "2700",
+        "start_at": "0"
+    },
+    {
+        "id": "13",
+        "intimacy_lv": "14",
+        "exp": "3200",
+        "start_at": "0"
+    },
+    {
+        "id": "14",
+        "intimacy_lv": "15",
+        "exp": "3700",
+        "start_at": "0"
+    },
+    {
+        "id": "15",
+        "intimacy_lv": "16",
+        "exp": "4200",
+        "start_at": "0"
+    },
+    {
+        "id": "16",
+        "intimacy_lv": "17",
+        "exp": "4800",
+        "start_at": "0"
+    },
+    {
+        "id": "17",
+        "intimacy_lv": "18",
+        "exp": "5400",
+        "start_at": "0"
+    },
+    {
+        "id": "18",
+        "intimacy_lv": "19",
+        "exp": "6000",
+        "start_at": "0"
+    },
+    {
+        "id": "19",
+        "intimacy_lv": "20",
+        "exp": "7000",
+        "start_at": "0"
+    },
+    {
+        "id": "20",
+        "intimacy_lv": "21",
+        "exp": "7500",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "21",
+        "intimacy_lv": "22",
+        "exp": "8000",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "22",
+        "intimacy_lv": "23",
+        "exp": "8500",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "23",
+        "intimacy_lv": "24",
+        "exp": "9000",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "24",
+        "intimacy_lv": "25",
+        "exp": "9500",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "25",
+        "intimacy_lv": "26",
+        "exp": "10000",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "26",
+        "intimacy_lv": "27",
+        "exp": "10500",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "27",
+        "intimacy_lv": "28",
+        "exp": "11000",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "28",
+        "intimacy_lv": "29",
+        "exp": "11500",
+        "start_at": "2020/7/14 6:00"
+    },
+    {
+        "id": "29",
+        "intimacy_lv": "30",
+        "exp": "12000",
+        "start_at": "2020/7/14 6:00"
+    }
+]
