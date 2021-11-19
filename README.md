@@ -11,7 +11,7 @@ The ``download_assets_old.py`` script extracts the relevant data from the latest
 Since the resource request also return the latest configuritions this isn't strictly necessary,
 so the ``download_assets.py`` script can do without the trouble, but might run into trouble if something changes.
 
-So, only run ``download_assets_old.py`` IF ``download_assets.py`` doesnisn't able to update.
+So, only run ``download_assets_old.py`` IF ``download_assets.py`` isn't able to update.
 
 ### old and new
 
@@ -24,12 +24,16 @@ So, only run ``download_assets_old.py`` IF ``download_assets.py`` doesnisn't abl
 ```cmd
 pip install UnityPy==1.7.10
 pip install requests
+pip install pycryptodome
 ```
 
 ## Master
 
 The ``update_master.py`` script downloads the laster master failes from the game server and decrypts them.
 
+## Documentation
+
+A documentation of how I cracked the encryption can be found [here](https://github.com/K0lb3/KonoSuba--Fantastic-Days-asset-downloader/blob/master/documentation%20-%20encryption/readme.md).
 ## TODO
 
 - add japanese and chinese versions

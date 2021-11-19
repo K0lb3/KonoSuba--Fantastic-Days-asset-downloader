@@ -28,7 +28,7 @@ As our main goal is the decryption, let's search for ``decrypt`` in the ``Symbol
 A bunch of functions and labels show up, of which the most interesting is ``NetworkUtil_Decrypt``.
 ``_`` indicates that NetworkUtil is a class, so we select ``NetworkUtil_Decrypt`` and then remove the filter to see the whole NetworkUtil class. 
 
-![][ks_jp_4.png]
+![](ks_jp_4.png)
 
 
 Decrypt, Encrypt, ComputeHash, Bin2Hex, ToByte, this sure looks lively, and more important, custom. No normal library class would have such an assembly of functions.
@@ -65,7 +65,7 @@ Apparently the standard C# RijndaelManaged is used, so we can simply [look it up
 With this, we already figured out, all that is left is finding how the key and iv are generated.
 To do this we check where the Decrypt function is used by right-clicking on it, ``Show References to``.
 
-![][ks_jp_5.png]
+![](ks_jp_5.png)
 
 
 Looks like the function is only called once, so, we probably won't have to face that much trouble now.
@@ -129,7 +129,7 @@ So, our key is first of all...apparently static....which is quite a bad style, b
 Next up, it's stored as a base64 string which is split into two parts. Both of these parts are apparently some kind of obscured string that is stored in a global static field.
 The obfuscation part sounds like trouble, but before we get annoyed for real, let's check where these static fields get their values. For this we right-click on them, ``References -> Find uses of ..`` and wait a bit for the search to finish.
 
-![][ks_jp_6.png]
+![](ks_jp_6.png)
 
 According to the search results, the field is only assigned once, so let's check the code segment where the assignment happens.
 
@@ -155,7 +155,7 @@ According to the search results, the field is only assigned once, so let's check
 Hm, as we can see, each field is an obscured string version of a string literal.
 As string literals are constants, we can simply double click on them to check their value.
 
-![][ks_jp_7.png]
+![](ks_jp_7.png)
 
 The value is a normal string, so let's, first of all, collect all various strings for each static field and see if they work.
 
