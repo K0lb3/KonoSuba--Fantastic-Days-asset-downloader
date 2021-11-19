@@ -1882,5 +1882,11 @@
         "skill_icon": "0",
         "skill_type": "resistance_up_blind",
         "skill_attribute": "0"
+    },
+    {
+        "skill_id": "107000700",
+        "skill_icon": "0",
+        "skill_type": "resistance_up",
+        "skill_attribute": "0"
     }
 ]

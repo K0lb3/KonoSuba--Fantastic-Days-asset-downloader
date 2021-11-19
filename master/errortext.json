@@ -1870,5 +1870,17 @@
         "text_fran": "Quête en cours de maintenance.",
         "text_den": "Quest wird aktuell gewartet.",
         "comment": "ERROR_QUEST_MAINTENANCE"
+    },
+    {
+        "id": "-1951",
+        "text_japanese": "予期せぬエラーが発生しアプリを終了します。\\nしばらくしてからもう一度実行してください。",
+        "text_english": "An error has occurred.\\nPlease wait and try logging in again later.",
+        "text_korean": "일시적인 오류가 발생하여 앱을 종료합니다.\\n잠시 후 재접속해주시기 바랍니다.",
+        "text_espa": "Ocurrió un error.\\nEspera un momento e intenta iniciar sesión más tarde.",
+        "text_port": "Ocorreu um erro.\\nAguarde e tente fazer login mais tarde.",
+        "text_russ": "Произошла ошибка.\\nПодождите и попробуйте войти позднее.",
+        "text_fran": "Une erreur s'est produite.\\nRéessaie de te connecter un peu plus tard.",
+        "text_den": "Es ist ein Fehler aufgetreten.\\nBitte warte und logge dich später wieder ein.",
+        "comment": "ERROR_NGSM_ERROR"
     }
 ]

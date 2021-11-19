@@ -541,10 +541,10 @@
     },
     {
         "exchange_id": "20084",
-        "name": "TEXT_EXCHANGE20084",
-        "banner": "banner_exchange_11013.png",
+        "name": "TEXT_EXCHANGE20084_1",
+        "banner": "banner_exchange_20084.png",
         "enable": "1",
-        "start_at": "2099/8/27 15:00",
+        "start_at": "2021/11/19 00:00",
         "end_at": "0",
         "currency_display": "1",
         "description": "0"
@@ -595,7 +595,7 @@
         "banner": "banner_exchange_20111.png",
         "enable": "1",
         "start_at": "2021/11/9 0:00",
-        "end_at": "2021/12/3 0:00",
+        "end_at": "2021/12/2 0:00",
         "currency_display": "0",
         "description": "0"
     },
@@ -615,7 +615,7 @@
         "banner": "banner_exchange_20121.png",
         "enable": "1",
         "start_at": "2021/12/14 0:00",
-        "end_at": "2022/1/2 0:00",
+        "end_at": "2021/12/30 0:00",
         "currency_display": "0",
         "description": "0"
     },

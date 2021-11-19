@@ -373,8 +373,8 @@
         "fri": "1",
         "sat": "1",
         "limit_count": "3",
-        "unlock_date_start": "2020/4/30 15:00",
-        "unlock_date_end": "2020/5/8 0:00",
+        "unlock_date_start": "2021/11/30 0:00",
+        "unlock_date_end": "2021/12/6 0:00",
         "advice": "free_area_select&free_stage_select"
     },
     {
@@ -391,8 +391,8 @@
         "fri": "1",
         "sat": "1",
         "limit_count": "3",
-        "unlock_date_start": "2020/5/28 15:00",
-        "unlock_date_end": "2020/6/4 0:00",
+        "unlock_date_start": "2021/12/14 0:00",
+        "unlock_date_end": "2021/12/20 0:00",
         "advice": "free_area_select&free_stage_select"
     },
     {
@@ -499,8 +499,8 @@
         "fri": "1",
         "sat": "1",
         "limit_count": "3",
-        "unlock_date_start": "2020/11/6 15:00",
-        "unlock_date_end": "2020/11/13 0:00",
+        "unlock_date_start": "2021/11/12 0:00",
+        "unlock_date_end": "2021/11/18 0:00",
         "advice": "free_area_select&free_stage_select"
     }
 ]

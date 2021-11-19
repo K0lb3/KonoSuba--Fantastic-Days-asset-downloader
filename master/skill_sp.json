@@ -12,6 +12,18 @@
         "skill_icon": "100001"
     },
     {
+        "skill_id": "100002",
+        "character_id": "100",
+        "skill_pattern": "10000",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "100001"
+    },
+    {
         "skill_id": "101001",
         "character_id": "101",
         "skill_pattern": "10100",
@@ -19,6 +31,18 @@
         "skill_type": "atk_physics",
         "skill_attribute": "light",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_101",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "101001"
+    },
+    {
+        "skill_id": "101002",
+        "character_id": "101",
+        "skill_pattern": "10100",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "101001"
@@ -36,6 +60,18 @@
         "skill_icon": "102001"
     },
     {
+        "skill_id": "102002",
+        "character_id": "102",
+        "skill_pattern": "10200",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "fire",
+        "skill_lv_text": "0",
+        "sp_up": "150",
+        "keep_motion": "1",
+        "skill_icon": "102001"
+    },
+    {
         "skill_id": "103001",
         "character_id": "103",
         "skill_pattern": "10300",
@@ -43,6 +79,18 @@
         "skill_type": "enmity_up",
         "skill_attribute": "0",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_103",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "103001"
+    },
+    {
+        "skill_id": "103002",
+        "character_id": "103",
+        "skill_pattern": "10300",
+        "pattern_number": "2",
+        "skill_type": "enmity_up",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "103001"
@@ -60,6 +108,18 @@
         "skill_icon": "104001"
     },
     {
+        "skill_id": "104002",
+        "character_id": "104",
+        "skill_pattern": "10400",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "104001"
+    },
+    {
         "skill_id": "105001",
         "character_id": "105",
         "skill_pattern": "10500",
@@ -67,6 +127,18 @@
         "skill_type": "atk_magic",
         "skill_attribute": "water",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_105",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "105001"
+    },
+    {
+        "skill_id": "105002",
+        "character_id": "105",
+        "skill_pattern": "10500",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "water",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "105001"
@@ -84,6 +156,18 @@
         "skill_icon": "106001"
     },
     {
+        "skill_id": "106002",
+        "character_id": "106",
+        "skill_pattern": "10600",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "light",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "106001"
+    },
+    {
         "skill_id": "107001",
         "character_id": "107",
         "skill_pattern": "10700",
@@ -91,6 +175,18 @@
         "skill_type": "atk_physics",
         "skill_attribute": "light",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_107",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "107001"
+    },
+    {
+        "skill_id": "107002",
+        "character_id": "107",
+        "skill_pattern": "10700",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "light",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "107001"
@@ -108,6 +204,18 @@
         "skill_icon": "109001"
     },
     {
+        "skill_id": "109002",
+        "character_id": "109",
+        "skill_pattern": "10900",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "109001"
+    },
+    {
         "skill_id": "110001",
         "character_id": "110",
         "skill_pattern": "11000",
@@ -115,6 +223,18 @@
         "skill_type": "atk_magic",
         "skill_attribute": "cursed",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_110",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "110001"
+    },
+    {
+        "skill_id": "110002",
+        "character_id": "110",
+        "skill_pattern": "11000",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "cursed",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "110001"
@@ -132,6 +252,18 @@
         "skill_icon": "111001"
     },
     {
+        "skill_id": "111002",
+        "character_id": "111",
+        "skill_pattern": "11100",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "111001"
+    },
+    {
         "skill_id": "112001",
         "character_id": "112",
         "skill_pattern": "11200",
@@ -139,6 +271,18 @@
         "skill_type": "atk_physics",
         "skill_attribute": "0",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_112",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "112001"
+    },
+    {
+        "skill_id": "112002",
+        "character_id": "112",
+        "skill_pattern": "11200",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "112001"
@@ -156,6 +300,18 @@
         "skill_icon": "113001"
     },
     {
+        "skill_id": "113002",
+        "character_id": "113",
+        "skill_pattern": "11300",
+        "pattern_number": "2",
+        "skill_type": "atk_magic",
+        "skill_attribute": "wind",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "113001"
+    },
+    {
         "skill_id": "114001",
         "character_id": "114",
         "skill_pattern": "11400",
@@ -163,6 +319,18 @@
         "skill_type": "defense_physics_up",
         "skill_attribute": "0",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_114",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "114001"
+    },
+    {
+        "skill_id": "114002",
+        "character_id": "114",
+        "skill_pattern": "11400",
+        "pattern_number": "2",
+        "skill_type": "damage_cut_all",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "114001"
@@ -180,6 +348,18 @@
         "skill_icon": "115001"
     },
     {
+        "skill_id": "115002",
+        "character_id": "115",
+        "skill_pattern": "11500",
+        "pattern_number": "2",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "115001"
+    },
+    {
         "skill_id": "116001",
         "character_id": "116",
         "skill_pattern": "11600",
@@ -187,6 +367,18 @@
         "skill_type": "atk_physics",
         "skill_attribute": "0",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_116",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "116001"
+    },
+    {
+        "skill_id": "116002",
+        "character_id": "116",
+        "skill_pattern": "11600",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "116001"
@@ -204,6 +396,18 @@
         "skill_icon": "117001"
     },
     {
+        "skill_id": "117002",
+        "character_id": "117",
+        "skill_pattern": "11700",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "117001"
+    },
+    {
         "skill_id": "118001",
         "character_id": "118",
         "skill_pattern": "11800",
@@ -216,6 +420,18 @@
         "skill_icon": "118001"
     },
     {
+        "skill_id": "118002",
+        "character_id": "118",
+        "skill_pattern": "11800",
+        "pattern_number": "2",
+        "skill_type": "atk_physics",
+        "skill_attribute": "earth",
+        "skill_lv_text": "0",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "118001"
+    },
+    {
         "skill_id": "119001",
         "character_id": "119",
         "skill_pattern": "11900",
@@ -223,6 +439,18 @@
         "skill_type": "heal",
         "skill_attribute": "0",
         "skill_lv_text": "ASSET_SKILL_SP_SKILL_LV_TEXT_119",
+        "sp_up": "0",
+        "keep_motion": "0",
+        "skill_icon": "119001"
+    },
+    {
+        "skill_id": "119002",
+        "character_id": "119",
+        "skill_pattern": "11900",
+        "pattern_number": "2",
+        "skill_type": "heal",
+        "skill_attribute": "0",
+        "skill_lv_text": "0",
         "sp_up": "0",
         "keep_motion": "0",
         "skill_icon": "119001"

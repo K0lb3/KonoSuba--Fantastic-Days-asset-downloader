@@ -3,8 +3,8 @@
         "id": "1",
         "scorechallenge_ex_id": "1",
         "theme_text": "ARENA_EX_BONUS_TYPE_1",
-        "start_at": "2021/11/24 8:00",
-        "end_at": "2021/12/9 7:59",
+        "start_at": "2021/11/24 0:00",
+        "end_at": "2021/12/8 23:59",
         "score_type_id": "101",
         "info_url": "arena_ex/20200821/index.html"
     },
@@ -12,8 +12,8 @@
         "id": "2",
         "scorechallenge_ex_id": "2",
         "theme_text": "ARENA_EX_BONUS_TYPE_1",
-        "start_at": "2021/12/9 8:00",
-        "end_at": "2021/12/23 7:59",
+        "start_at": "2021/12/9 0:00",
+        "end_at": "2021/12/22 23:59",
         "score_type_id": "102",
         "info_url": "arena_ex/20200831/index.html"
     },
@@ -48,8 +48,8 @@
         "id": "6",
         "scorechallenge_ex_id": "6",
         "theme_text": "ARENA_EX_BONUS_TYPE_4",
-        "start_at": "2021/11/9 8:00",
-        "end_at": "2021/11/24 7:59",
+        "start_at": "2021/11/9 0:00",
+        "end_at": "2021/11/23 23:59",
         "score_type_id": "102",
         "info_url": "arena_ex/20201102/index.html"
     },

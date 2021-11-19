@@ -1504,5 +1504,11 @@
         "start_at": "0",
         "end_at": "0",
         "lot_list_id": "410050000"
+    },
+    {
+        "lot_id": "491001",
+        "start_at": "0",
+        "end_at": "0",
+        "lot_list_id": "491001000"
     }
 ]

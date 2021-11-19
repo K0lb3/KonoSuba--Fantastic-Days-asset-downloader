@@ -398,5 +398,173 @@
         "progress_id": "1",
         "mission_id": "109201",
         "pack_id": "13401"
+    },
+    {
+        "id": "51",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL41",
+        "progress_id": "1",
+        "mission_id": "51",
+        "pack_id": "13121"
+    },
+    {
+        "id": "52",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL42",
+        "progress_id": "2",
+        "mission_id": "52",
+        "pack_id": "13121"
+    },
+    {
+        "id": "53",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL43",
+        "progress_id": "3",
+        "mission_id": "53",
+        "pack_id": "13121"
+    },
+    {
+        "id": "54",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL44",
+        "progress_id": "4",
+        "mission_id": "54",
+        "pack_id": "13121"
+    },
+    {
+        "id": "55",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL45",
+        "progress_id": "5",
+        "mission_id": "55",
+        "pack_id": "13121"
+    },
+    {
+        "id": "56",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL46",
+        "progress_id": "6",
+        "mission_id": "56",
+        "pack_id": "13121"
+    },
+    {
+        "id": "57",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL47",
+        "progress_id": "7",
+        "mission_id": "57",
+        "pack_id": "13121"
+    },
+    {
+        "id": "58",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL48",
+        "progress_id": "8",
+        "mission_id": "58",
+        "pack_id": "13121"
+    },
+    {
+        "id": "59",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL49",
+        "progress_id": "9",
+        "mission_id": "59",
+        "pack_id": "13121"
+    },
+    {
+        "id": "60",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL50",
+        "progress_id": "10",
+        "mission_id": "60",
+        "pack_id": "13121"
+    },
+    {
+        "id": "61",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL51",
+        "progress_id": "11",
+        "mission_id": "61",
+        "pack_id": "13121"
+    },
+    {
+        "id": "62",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL52",
+        "progress_id": "12",
+        "mission_id": "62",
+        "pack_id": "13121"
+    },
+    {
+        "id": "63",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL53",
+        "progress_id": "13",
+        "mission_id": "63",
+        "pack_id": "13121"
+    },
+    {
+        "id": "64",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL54",
+        "progress_id": "14",
+        "mission_id": "64",
+        "pack_id": "13121"
+    },
+    {
+        "id": "65",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL55",
+        "progress_id": "15",
+        "mission_id": "65",
+        "pack_id": "13121"
+    },
+    {
+        "id": "66",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL56",
+        "progress_id": "16",
+        "mission_id": "66",
+        "pack_id": "13121"
+    },
+    {
+        "id": "67",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL57",
+        "progress_id": "17",
+        "mission_id": "67",
+        "pack_id": "13121"
+    },
+    {
+        "id": "68",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL58",
+        "progress_id": "18",
+        "mission_id": "68",
+        "pack_id": "13121"
+    },
+    {
+        "id": "69",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL59",
+        "progress_id": "19",
+        "mission_id": "69",
+        "pack_id": "13121"
+    },
+    {
+        "id": "70",
+        "shop_item_id": "13120",
+        "name": "TEXT_PACKAGE_LEVEL60",
+        "progress_id": "20",
+        "mission_id": "70",
+        "pack_id": "13121"
+    },
+    {
+        "id": "71",
+        "shop_item_id": "13500",
+        "name": "TEXT_PACKAGE_CHAPTER10",
+        "progress_id": "1",
+        "mission_id": "110201",
+        "pack_id": "13501"
     }
 ]

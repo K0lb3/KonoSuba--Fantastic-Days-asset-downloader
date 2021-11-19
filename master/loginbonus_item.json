@@ -452,9 +452,9 @@
     {
         "loginbonus_id": "40007",
         "days": "1",
-        "item_type": "29",
+        "item_type": "3",
         "item_id": "1",
-        "item_num": "5",
+        "item_num": "100",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
@@ -463,52 +463,52 @@
         "days": "2",
         "item_type": "8",
         "item_id": "1",
-        "item_num": "50",
+        "item_num": "100",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
     {
         "loginbonus_id": "40007",
         "days": "3",
-        "item_type": "29",
+        "item_type": "3",
         "item_id": "1",
-        "item_num": "5",
+        "item_num": "100",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
     {
         "loginbonus_id": "40007",
         "days": "4",
-        "item_type": "8",
-        "item_id": "1",
-        "item_num": "50",
+        "item_type": "15",
+        "item_id": "7001",
+        "item_num": "100",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
     {
         "loginbonus_id": "40007",
         "days": "5",
-        "item_type": "29",
+        "item_type": "3",
         "item_id": "1",
-        "item_num": "5",
+        "item_num": "100",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
     {
         "loginbonus_id": "40007",
         "days": "6",
-        "item_type": "8",
-        "item_id": "1",
-        "item_num": "50",
+        "item_type": "16",
+        "item_id": "203",
+        "item_num": "10",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },
     {
         "loginbonus_id": "40007",
         "days": "7",
-        "item_type": "29",
+        "item_type": "3",
         "item_id": "1",
-        "item_num": "5",
+        "item_num": "1000",
         "present_message_id": "PRESENT_EVENT_LOGINBONUS_N",
         "description": "<0>日目のイベントログインボーナスで獲得したアイテムです"
     },

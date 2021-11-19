@@ -23,5 +23,15 @@
         "id": "5",
         "shop_item_id": "13110",
         "package_text": "TEXT_PACK_LEVEL2"
+    },
+    {
+        "id": "6",
+        "shop_item_id": "13120",
+        "package_text": "TEXT_PACK_LEVEL3"
+    },
+    {
+        "id": "7",
+        "shop_item_id": "13500",
+        "package_text": "TEXT_PACK_CHAPTER10"
     }
 ]

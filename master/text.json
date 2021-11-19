@@ -948,24 +948,24 @@
     {
         "id": "TEXT_SHOP_ITEM_11024",
         "text_japanese": "クリスマスパック１",
-        "text_english": "Christmas Pack 1",
+        "text_english": "Holiday Pack 1",
         "text_korean": "크리스마스 팩 1",
-        "text_espa": "Paquete navideño 1",
-        "text_port": "Pacote de Natal 1",
-        "text_russ": "Рождественский набор 1",
-        "text_fran": "Pack de Noël 1",
-        "text_den": "Weihnachtspack 1"
+        "text_espa": "Paquete de fiestas 1",
+        "text_port": "Pacote de Festas 1",
+        "text_russ": "Праздничный набор 1",
+        "text_fran": "Pack des fêtes 1",
+        "text_den": "Feiertagspack 1"
     },
     {
         "id": "TEXT_SHOP_ITEM_11025",
         "text_japanese": "クリスマスパック２",
-        "text_english": "Christmas Pack 2",
+        "text_english": "Holiday Pack 2",
         "text_korean": "크리스마스 팩 2",
-        "text_espa": "Paquete navideño 2",
-        "text_port": "Pacote de Natal 2",
-        "text_russ": "Рождественский набор 2",
-        "text_fran": "Pack de Noël 2",
-        "text_den": "Weihnachtspack 2"
+        "text_espa": "Paquete de fiestas 2",
+        "text_port": "Pacote de Festas 2",
+        "text_russ": "Праздничный набор 2",
+        "text_fran": "Pack des fêtes 2",
+        "text_den": "Feiertagspack 2"
     },
     {
         "id": "TEXT_SHOP_ITEM_11026",
@@ -1212,13 +1212,13 @@
     {
         "id": "TEXT_SHOP_BALOON_11024",
         "text_japanese": "クリスマスパック販売中!",
-        "text_english": "Christmas packs now on sale!",
+        "text_english": "Holiday packs now on sale!",
         "text_korean": "크리스마스 팩 판매 중!",
-        "text_espa": "¡Paquetes navideños ya a la venta!",
-        "text_port": "Promoção de pacotes de Natal!",
-        "text_russ": "Рождественские наборы уже в продаже!",
-        "text_fran": "Les packs de Noël sont maintenant disponibles !",
-        "text_den": "Weihnachtspacks jetzt im Angebot!"
+        "text_espa": "¡Paquetes de fiestas ya a la venta!",
+        "text_port": "Promoção de pacotes de festas!",
+        "text_russ": "Праздничные наборы уже в продаже!",
+        "text_fran": "Les packs des fêtes sont maintenant disponibles !",
+        "text_den": "Feiertagspacks jetzt im Angebot!"
     },
     {
         "id": "TEXT_SHOP_BALOON_11026",
@@ -1886,7 +1886,7 @@
         "text_english": "Scroll: Anti-Poison Gold Amulet x1",
         "text_korean": "금목걸이의 비전(해독)×1",
         "text_espa": "Papiro: Amuleto de oro antiveneno x1",
-        "text_port": "Papiro: Papiro: Amuleto de Ouro Antiveneno x1",
+        "text_port": "Papiro: Amuleto de Ouro Antiveneno x1",
         "text_russ": "Свиток: золотой амулет против яда",
         "text_fran": "Plan : amulette d'or anti-Poison x1",
         "text_den": "1x Schrift: Giftresistenz-Goldamulett"
@@ -3086,7 +3086,7 @@
         "text_korean": "이 버려진 성에 청결감을!",
         "text_espa": "¡Limpieza profunda para las ruinas!",
         "text_port": "Uma Limpeza Profunda para Essas Ruínas!",
-        "text_russ": "Зачистка этих руин!",
+        "text_russ": "Полностью зачистите эти руины!",
         "text_fran": "Nettoyage à fond pour ces ruines !",
         "text_den": "Eine Grundreinigung für diese Ruine!"
     },
@@ -13719,18 +13719,18 @@
     {
         "id": "LOGINBONUS_34",
         "text_japanese": "ハッピークリスマス！ログインボーナス",
-        "text_english": "Merry Christmas! Log-In Bonus",
+        "text_english": "Happy Holidays! Log-In Bonus",
         "text_korean": "해피 크리스마스! 로그인 보너스",
-        "text_espa": "Bonificación de inicio de sesión ¡Feliz Navidad!",
-        "text_port": "Bônus de Login Feliz Natal!",
-        "text_russ": "Бонус входа «Счастливого Рождества!»",
-        "text_fran": "Bonus de connexion Joyeux Noël !",
-        "text_den": "Login-Bonus: Frohe Weihnachten!"
+        "text_espa": "¡Felices fiestas! Bonificación de inicio de sesión",
+        "text_port": "Boas Festas! Bônus de Login",
+        "text_russ": "Бонус входа «С праздником!»",
+        "text_fran": "Bonus de connexion Joyeuses fêtes !",
+        "text_den": "Frohe Feiertage! Login-Bonus"
     },
     {
         "id": "LOGINBONUS_35",
         "text_japanese": "クリスマスプレゼント",
-        "text_english": "Christmas Present",
+        "text_english": "Holiday Gift",
         "text_korean": "크리스마스 선물",
         "text_espa": "Regalo de Navidad",
         "text_port": "Presente de Natal",
@@ -14346,19 +14346,19 @@
     {
         "id": "TEXT_GACHA_TABTEXT_48",
         "text_japanese": "死に戻り",
-        "text_english": "Return by Death",
+        "text_english": "Return",
         "text_korean": "사망회귀",
-        "text_espa": "Reg. de la muerte",
-        "text_port": "Retorno",
-        "text_russ": "Возвр. с того св.",
-        "text_fran": "Mort réversible",
-        "text_den": "Todes-Rückkehr"
+        "text_espa": "Retorno",
+        "text_port": "Ret. Morte",
+        "text_russ": "Возврат",
+        "text_fran": "Réversion",
+        "text_den": "Rückkehr"
     },
     {
         "id": "TEXT_GACHA_TABTEXT_49",
         "text_japanese": "リゼロコラボ",
         "text_english": "Re:ZERO Collab",
-        "text_korean": "리제로 콜라보",
+        "text_korean": "Re:제로 콜라보",
         "text_espa": "Colab. Re:ZERO",
         "text_port": "Colab. Re:ZERO",
         "text_russ": "Крос. с Re:ZERO",
@@ -14773,6 +14773,17 @@
         "text_den": "Schließe Hauptquest Kapitel 9 auf NORMAL ab."
     },
     {
+        "id": "TEXT_PACK_CHAPTER10",
+        "text_japanese": "メインクエスト10章(NORMAL)をクリア",
+        "text_english": "Clear Main Quest Chapter 10 on NORMAL.",
+        "text_korean": "메인 퀘스트(NORMAL) 10장 클리어",
+        "text_espa": "Completa el cap. 10 de la misión principal en NORMAL.",
+        "text_port": "Conclua o Capítulo 10 da Missão Principal NORMAL.",
+        "text_russ": "Пройдите 10-ю главу основного задания (НОРМАЛЬНО).",
+        "text_fran": "Termine le chapitre 10 de la quête principale en NORMAL.",
+        "text_den": "Schließe Hauptquest Kapitel 10 auf NORMAL ab."
+    },
+    {
         "id": "TEXT_PACK_LEVEL",
         "text_japanese": "冒険者ランクアップパック (ランク10～30)",
         "text_english": "Adventurer Rank Pack (10-30)",
@@ -14793,6 +14804,17 @@
         "text_russ": "Набор повышения ранга (31-50)",
         "text_fran": "Pack de rang d'avent. (31-50)",
         "text_den": "Abenteurer-Rang-Pack (31-50)"
+    },
+    {
+        "id": "TEXT_PACK_LEVEL3",
+        "text_japanese": "冒険者ランクアップパック (ランク51～70)",
+        "text_english": "Adventurer Rank Pack (51-70)",
+        "text_korean": "모험가 랭크업 팩(Rank 51~70)",
+        "text_espa": "Paq. rango aventurero (51-70)",
+        "text_port": "Pct. Rq. Aventureiro (51-70)",
+        "text_russ": "Набор повышения ранга (51-70)",
+        "text_fran": "Pack de rang d'avent. (51-70)",
+        "text_den": "Abenteurer-Rang-Pack (51-70)"
     },
     {
         "id": "TEXT_PACKAGE_CHAPTER1",
@@ -14892,6 +14914,17 @@
         "text_russ": "Пройдите 9-ю главу основного задания (НОРМАЛЬНО).",
         "text_fran": "Termine le chapitre 9 de la quête principale en NORMAL.",
         "text_den": "Schließe Hauptquest Kapitel 9 auf NORMAL ab."
+    },
+    {
+        "id": "TEXT_PACKAGE_CHAPTER10",
+        "text_japanese": "メインクエスト10章(NORMAL)をクリア",
+        "text_english": "Clear Main Quest Chapter 10 on NORMAL.",
+        "text_korean": "메인 퀘스트(NORMAL) 10장 클리어",
+        "text_espa": "Completa el cap. 10 de la misión principal en NORMAL.",
+        "text_port": "Conclua o Capítulo 10 da Missão Principal NORMAL.",
+        "text_russ": "Пройдите 10-ю главу основного задания (НОРМАЛЬНО).",
+        "text_fran": "Termine le chapitre 10 de la quête principale en NORMAL.",
+        "text_den": "Schließe Hauptquest Kapitel 10 auf NORMAL ab."
     },
     {
         "id": "TEXT_PACKAGE_LEVEL0",
@@ -15070,6 +15103,105 @@
         "text_den": "Erreiche Spielerrang 50 und erhalte 600 Quartz"
     },
     {
+        "id": "TEXT_PACKAGE_LEVEL41",
+        "text_japanese": "プレイヤーランクを51にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 51 and receive 700 Quartz",
+        "text_korean": "랭크51 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 51 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 51 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 51",
+        "text_fran": "Atteins le rang de joueur 51 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 51 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL42",
+        "text_japanese": "プレイヤーランクを52にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 52 and receive 700 Quartz",
+        "text_korean": "랭크52 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 52 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 52 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 52",
+        "text_fran": "Atteins le rang de joueur 52 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 52 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL43",
+        "text_japanese": "プレイヤーランクを53にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 53 and receive 700 Quartz",
+        "text_korean": "랭크53 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 53 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 53 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 53",
+        "text_fran": "Atteins le rang de joueur 53 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 53 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL44",
+        "text_japanese": "プレイヤーランクを54にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 54 and receive 700 Quartz",
+        "text_korean": "랭크54 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 54 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 54 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 54",
+        "text_fran": "Atteins le rang de joueur 54 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 54 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL45",
+        "text_japanese": "プレイヤーランクを55にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 55 and receive 700 Quartz",
+        "text_korean": "랭크55 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 55 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 55 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 55",
+        "text_fran": "Atteins le rang de joueur 55 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 55 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL46",
+        "text_japanese": "プレイヤーランクを56にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 56 and receive 700 Quartz",
+        "text_korean": "랭크56 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 56 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 56 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 56",
+        "text_fran": "Atteins le rang de joueur 56 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 56 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL47",
+        "text_japanese": "プレイヤーランクを57にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 57 and receive 700 Quartz",
+        "text_korean": "랭크57 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 57 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 57 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 57",
+        "text_fran": "Atteins le rang de joueur 57 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 57 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL48",
+        "text_japanese": "プレイヤーランクを58にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 58 and receive 700 Quartz",
+        "text_korean": "랭크58 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 58 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 58 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 58",
+        "text_fran": "Atteins le rang de joueur 58 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 58 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL49",
+        "text_japanese": "プレイヤーランクを59にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 59 and receive 700 Quartz",
+        "text_korean": "랭크59 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 59 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 59 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 59",
+        "text_fran": "Atteins le rang de joueur 59 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 59 und erhalte 700 Quartz"
+    },
+    {
         "id": "TEXT_PACKAGE_LEVEL5",
         "text_japanese": "プレイヤーランクを15にすると、500クオーツ支給",
         "text_english": "Reach Player Rank 15 and receive 500 Quartz",
@@ -15081,6 +15213,116 @@
         "text_den": "Erreiche Spielerrang 15 und erhalte 500 Quartz"
     },
     {
+        "id": "TEXT_PACKAGE_LEVEL50",
+        "text_japanese": "プレイヤーランクを60にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 60 and receive 700 Quartz",
+        "text_korean": "랭크60 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 60 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 60 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 60",
+        "text_fran": "Atteins le rang de joueur 60 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 60 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL51",
+        "text_japanese": "プレイヤーランクを61にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 61 and receive 700 Quartz",
+        "text_korean": "랭크61 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 61 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 61 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 61",
+        "text_fran": "Atteins le rang de joueur 61 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 61 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL52",
+        "text_japanese": "プレイヤーランクを62にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 62 and receive 700 Quartz",
+        "text_korean": "랭크62 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 62 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 62 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 62",
+        "text_fran": "Atteins le rang de joueur 62 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 62 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL53",
+        "text_japanese": "プレイヤーランクを63にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 63 and receive 700 Quartz",
+        "text_korean": "랭크63 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 63 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 63 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 63",
+        "text_fran": "Atteins le rang de joueur 63 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 63 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL54",
+        "text_japanese": "プレイヤーランクを64にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 64 and receive 700 Quartz",
+        "text_korean": "랭크64 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 64 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 64 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 64",
+        "text_fran": "Atteins le rang de joueur 64 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 64 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL55",
+        "text_japanese": "プレイヤーランクを65にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 65 and receive 700 Quartz",
+        "text_korean": "랭크65 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 65 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 65 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 65",
+        "text_fran": "Atteins le rang de joueur 65 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 65 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL56",
+        "text_japanese": "プレイヤーランクを66にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 66 and receive 700 Quartz",
+        "text_korean": "랭크66 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 66 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 66 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 66",
+        "text_fran": "Atteins le rang de joueur 66 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 66 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL57",
+        "text_japanese": "プレイヤーランクを67にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 67 and receive 700 Quartz",
+        "text_korean": "랭크67 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 67 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 67 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 67",
+        "text_fran": "Atteins le rang de joueur 67 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 67 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL58",
+        "text_japanese": "プレイヤーランクを68にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 68 and receive 700 Quartz",
+        "text_korean": "랭크68 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 68 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 68 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 68",
+        "text_fran": "Atteins le rang de joueur 68 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 68 und erhalte 700 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL59",
+        "text_japanese": "プレイヤーランクを69にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 69 and receive 700 Quartz",
+        "text_korean": "랭크69 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 69 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 69 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 69",
+        "text_fran": "Atteins le rang de joueur 69 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 69 und erhalte 700 Quartz"
+    },
+    {
         "id": "TEXT_PACKAGE_LEVEL6",
         "text_japanese": "プレイヤーランクを16にすると、500クオーツ支給",
         "text_english": "Reach Player Rank 16 and receive 500 Quartz",
@@ -15090,6 +15332,17 @@
         "text_russ": "Получите 500 шт. кварца при достижении ранга 16",
         "text_fran": "Atteins le rang de joueur 16 et reçois 500 Quartz.",
         "text_den": "Erreiche Spielerrang 16 und erhalte 500 Quartz"
+    },
+    {
+        "id": "TEXT_PACKAGE_LEVEL60",
+        "text_japanese": "プレイヤーランクを70にすると、700クオーツ支給",
+        "text_english": "Reach Player Rank 70 and receive 700 Quartz",
+        "text_korean": "랭크70 달성 시 쿼츠 700개 지급",
+        "text_espa": "Alcanza el rango de jugador 70 y obtén 700 de Cuarzo.",
+        "text_port": "Atinja o Ranque de Jogador 70 e receba 700 de Quartzo",
+        "text_russ": "Получите 700 шт. кварца при достижении ранга 70",
+        "text_fran": "Atteins le rang de joueur 70 et reçois 700 Quartz.",
+        "text_den": "Erreiche Spielerrang 70 und erhalte 700 Quartz"
     },
     {
         "id": "TEXT_PACKAGE_LEVEL7",
@@ -15686,6 +15939,17 @@
         "text_den": "Umfrage"
     },
     {
+        "id": "TEXT_GACHA_TABTEXT_998",
+        "text_japanese": "イベント",
+        "text_english": "Event",
+        "text_korean": "이벤트",
+        "text_espa": "Evento",
+        "text_port": "Evento",
+        "text_russ": "Событие",
+        "text_fran": "Événement",
+        "text_den": "Event"
+    },
+    {
         "id": "GACHA_NAME_100001",
         "text_japanese": "プレミアムガチャ",
         "text_english": "Premium Recruit",
@@ -15747,7 +16011,7 @@
         "text_korean": "매혹적인 노천탕 뽑기",
         "text_espa": "Recluta de Aguas termales adorables",
         "text_port": "Recrutamento Águas Termais Adoráveis",
-        "text_russ": "Новобранец с изумительных горячих источников",
+        "text_russ": "Новобранец изумительных горячих источников",
         "text_fran": "Recrutement Délices des sources chaudes",
         "text_den": "Rekrutierung: Traumhaftes Thermalbad"
     },
@@ -15855,7 +16119,7 @@
         "text_japanese": "1人★4確定ガチャ",
         "text_english": "One 4★ Guaranteed Recruit",
         "text_korean": "★4 멤버 1명 확정 뽑기",
-        "text_espa": "Un recluta de 4★ garantizado",
+        "text_espa": "Recluta de 4★ garantizado",
         "text_port": "Recrutamento 4★ Garantido x1",
         "text_russ": "Гарантированный новобранец 4★",
         "text_fran": "Un recrutement 4★ garanti",
@@ -16164,10 +16428,10 @@
         "text_english": "Sparkling Summer! Swimsuit Recruit",
         "text_korean": "눈부신 여름! 수영복 바캉스 뽑기",
         "text_espa": "Recluta Traje de baño brillante de verano",
-        "text_port": "Recrutamento Trajes de Banho para um Verão Brilhante",
+        "text_port": "Recrutamento Trajes de Banho para um Verão Brilhante!",
         "text_russ": "Новобранец в купальнике «Сверкающее лето»",
         "text_fran": "Recrutement Maillot de bain d'été étincelant",
-        "text_den": "Rekrutierung: Schimmernder Sommerbadeanzug"
+        "text_den": "Rekrutierung: Schimmernder Sommerbadeanzug!"
     },
     {
         "id": "GACHA_NAME_420012",
@@ -16381,46 +16645,46 @@
     {
         "id": "GACHA_RESET_TEXT_HASHTAG4100291",
         "text_japanese": "このファンリゼロ",
-        "text_english": "KonoSuba: Fantastic Days/Re:ZERO",
-        "text_korean": "#코노스바_판타스틱_데이즈_리제로",
-        "text_espa": "KonoSuba: Días fantásticos/Re:ZERO",
-        "text_port": "KonoSuba: Dias Fantásticos/Re:ZERO",
-        "text_russ": "KonoSuba: Фантастические дни/Re:ZERO",
-        "text_fran": "KonoSuba : Les Jours Fantastiques/Re:ZERO",
-        "text_den": "KonoSuba: Fantastische Zeiten/Re:ZERO"
+        "text_english": "KonoSubaFantasticDaysXrezero",
+        "text_korean": "코노스바_판타스틱_데이즈_리제로",
+        "text_espa": "ColaboraciónKonoSubaXrezero",
+        "text_port": "KonosubaDiasFantasticosXReZero",
+        "text_russ": "KonoSubaФантастическиедниXrezero",
+        "text_fran": "KonoSubaLesJoursFantastiquesXrezero",
+        "text_den": "KonoSubaFantastischeZeitenXrezero"
     },
     {
         "id": "GACHA_RESET_TEXT_HASHTAG4100292",
         "text_japanese": "このファンリゼロ",
-        "text_english": "KonoSuba: Fantastic Days/Re:ZERO",
-        "text_korean": "#코노스바_판타스틱_데이즈_리제로",
-        "text_espa": "KonoSuba: Días fantásticos/Re:ZERO",
-        "text_port": "KonoSuba: Dias Fantásticos/Re:ZERO",
-        "text_russ": "KonoSuba: Фантастические дни/Re:ZERO",
-        "text_fran": "KonoSuba : Les Jours Fantastiques/Re:ZERO",
-        "text_den": "KonoSuba: Fantastische Zeiten/Re:ZERO"
+        "text_english": "KonoSubaFantasticDaysXrezero",
+        "text_korean": "코노스바_판타스틱_데이즈_리제로",
+        "text_espa": "ColaboraciónKonoSubaXrezero",
+        "text_port": "KonosubaDiasFantasticosXReZero",
+        "text_russ": "KonoSubaФантастическиедниXrezero",
+        "text_fran": "KonoSubaLesJoursFantastiquesXrezero",
+        "text_den": "KonoSubaFantastischeZeitenXrezero"
     },
     {
         "id": "GACHA_RESET_TEXT4100291",
-        "text_japanese": "／\\n【死に戻り】の力で\\n　　ガチャを引き直し！\\n＼\\n\\n『このファン』×『リゼロ』コラボ開催記念\\n#死に戻り無料10回ガチャ 開催中！！\\n最大2回までガチャの引き直しができる！\\n\\n▼コラボ特設サイトはこちら\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_english": "\\nUse the power of Return by Death\\nto retry a Recruit!\\n\\\\n\\nTo celebrate the KonoSuba: Fantastic Days and Re:ZERO collaboration,\\nwe are offering ten free #ReturnByDeath Recruits!\\nThese special Recruits allow you to retry a Recruit two times!\\n\\nVisit the special collaboration site for more details:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_korean": "/\\n[사망회귀]의 힘을 이용해\\n　　뽑기 전으로 되돌아가자!\\n\\\\n\\n\"코노스바 판타스틱 데이즈\"×\"리제로\" 콜라보 기념\\n#사망회귀_무료_10회_뽑기 진행 중!!\\n최대 2회 다시 뽑기 가능!\\n\\n▼콜라보 특별 사이트 링크\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_espa": "\\n¡Usa el poder de Regresar de la muerte\\npara reintentar Recluta!\\n\\\\n\\nPara celebrar la colaboración de KonoSuba: Días fantásticos y Re:ZERO,\\n¡ofrecemos diez #Regresadelamuerte gratis!\\n¡Este evento especial permite reintentar dos veces!\\n\\nVisita el sitio de la colaboración especial para más detalles (en japonés):\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_port": "\\nUse o poder de Retorno da Morte\\npara tentar um Recrutamento novamente!\\n\\\\n\\nPara comemorar a colaboração entre KonoSuba: Dias Fantásticos e Re:ZERO,\\nestamos oferecendo dez Recrutamentos #RetornoDaMorte!\\nEsses Recrutamentos especiais permitem que você tente novamente um Recrutamento duas vezes!\\n\\nAcesse o site da colaboração especial para mais detalhes:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_russ": "\\nИспользуйте силу «Возврат с того света»\\nдля повторной вербовки!\\n\\\\n\\nМы празднуем кроссовер «KonoSuba: Фантастические дни» и Re:ZERO\\nи предлагаем 10 бесплатных новобранцев #ReturnByDeath (Возврат с того света)!\\nУ вас будет две попытки вербовки этих особых новобранцев!\\n\\nПодробности на сайте кроссовера:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_fran": "\\nUtilise Mort réversible\\npour retenter un recrutement !\\n\\\\n\\nPour célébrer la collaboration entre KonoSuba : Les Jours Fantastiques et Re:ZERO,\\nnous offrons dix recrutements Mort réversible gratuits ! #ReturnByDeath\\nCes articles spéciaux permettent de réessayer un recrutement deux fois !\\n\\nRends-toi sur le site spécial de la collaboration pour plus d'informations :\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_den": "\\nNutze die Kraft von Rückkehr durch den Tod,\\num eine Rekrutierung zu wiederholen!\\n\\\\n\\nZur Feier der Kollaboration zwischen KonoSuba: Fantastische Zeiten und Re:ZERO\\nbieten wir zehn kostenlose #RückkehrDurchDenTod-Rekrutierungen an!\\nDiese speziellen Rekrutierungen ermöglichen es dir, eine Rekrutierung zweimal zu wiederholen!\\n\\nBesuche die spezielle Kollaborationsseite für weitere Details:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n"
+        "text_japanese": "／\\n【死に戻り】の力で\\n　　ガチャを引き直し！\\n＼\\n\\n『このファン』×『リゼロ』コラボ開催記念\\n#死に戻り無料10回ガチャ 開催中！！\\n最大2回までガチャの引き直しができる！\\n\\n▼コラボ特設サイトはこちら\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_english": "Use the power of Return by Death\\nto retry Recruits!\\n\\nTo celebrate the KonoSuba: Fantastic Days and Re:ZERO collab,\\nhere are ten free #ReturnByDeath Recruits!\\nYou can retry these special Recruits up to two times!\\n\\n▼Visit the collaboration Twitter link\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_korean": "/\\n[사망회귀]의 힘을 이용해\\n뽑기 전으로 되돌아가자!\\n\\\\n\\n\"코노스바 판타스틱 데이즈\"×\"Re:제로\" 콜라보 기념\\n#사망회귀_무료_10회_뽑기 진행 중!!\\n최대 2회 다시 뽑기 가능!\\n\\n▼콜라보 트위터 링크\\nhttps://twitter.com/Konosuba_KR\\n\\n",
+        "text_espa": "¡Usa el poder de Regresar de la muerte\\npara reintentar reclutas!\\n\\nPara celebrar la colaboración de KonoSuba: Días fantásticos y Re:ZERO,\\n¡te ofrecemos diez #Regresadelamuerte gratis!\\n¡Puedes reintentar con estos reclutas especiales dos veces!\\n\\n▼Visita la cuenta de Twitter de la colaboración\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_port": "Use o poder de Retorno da Morte\\npara tentar Recrutamentos novamente!\\n\\nPara comemorar a colaboração entre KonoSuba: Dias Fantásticos e Re:ZERO,\\neis aqui dez Recrutamentos #RetornoDaMorte grátis!\\nVocê pode tentar esses Recrutamentos especiais novamente até duas vezes!\\n\\n▼Acesse o Twitter da colaboração:\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_russ": "Используйте силу «Возврат с того света»\\nдля повторной вербовки!\\n\\nМы празднуем кроссовер «KonoSuba: Фантастические дни» и Re:ZERO\\n10 бесплатными новобранцами #ReturnByDeath (Возврат с того света)!\\nЭтих особых новобранцев можно вербовать до 2 раз!\\n\\n▼Подробности в Twitter:\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_fran": "Utilise Mort réversible\\npour retenter les recrutements !\\n\\nPour célébrer la collaboration entre KonoSuba : Les Jours Fantastiques et Re:ZERO,\\nvoici dix recrutements #ReturnByDeath gratuits !\\nTu peux réessayer ces recrutements spéciaux jusqu'à deux fois !\\n\\n▼Plus d'infos sur Twitter :\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_den": "Nutze die Kraft von Rückkehr durch den Tod,\\num Rekrutierungen zu wiederholen!\\n\\nZur Feier der Kollab. zwischen KonoSuba: Fantastische Zeiten und Re:ZERO\\nhast du hier zehn kostenlose #RückkehrDurchDenTod-Rekrutierungen!\\nDu kannst diese speziellen Rekrutierungen bis zu zweimal wiederholen!\\n\\n▼Gehe auf den Kollaborations-Twitter-Link:\\nhttps://twitter.com/PlayKonoSuba\\n\\n"
     },
     {
         "id": "GACHA_RESET_TEXT4100292",
-        "text_japanese": "／\\n『このファン』×『リゼロ』\\n　　　コラボ開催中！\\n＼\\n\\n今なら、#死に戻り無料10回ガチャ が引ける！\\nさらに、ゲーム内ミッションクリアで、\\n「最高レアリティ★4 エミリア」がもれなくもらえる！！\\n\\n▼コラボ特設サイトはこちら\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_english": "/\\nThe KonoSuba: Fantastic Days!/Re:ZERO collaboration is now available!\\n\\\\n\\nTry the #ReturnByDeath 10x Recruit!\\nClear in-game missions to receive\\na guaranteed ultimate 4★ Emilia!\\n\\nVisit the special collaboration site for more details:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_korean": "/\\n\"코노스바 판타스틱 데이즈\"×\"리제로\"\\n　　　콜라보 진행 중!\\n\\\\n\\n지금 접속하면 #사망회귀_무료_10회_뽑기 이용 가능!\\n추가로 게임 내 미션을 클리어하면\\n\"최고 희귀도 ★4 에밀리아\" 반드시 획득 가능!!\\n\\n▼콜라보 특별 사이트 링크\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_espa": "/\\n¡La colaboración KonoSuba: Días fantásticos/Re:ZERO ya está disponible!\\n\\\\n\\n¡Prueba el Recluta x10 #Regresadelamuerte!\\n¡Completa tareas para recibir\\na Emilia definitiva de 4★ garantizada!\\n\\nVisita el sitio de la colaboración especial para más detalles:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_port": "/\\nA colaboração entre KonoSuba: Dias Fantásticos e Re:ZERO já está disponível!\\n\\\\n\\nExperimente o Recrutamento #RetornoDaMorte! x10\\nConclua as tarefas no jogo para garantir\\numa Emilia 4★ especial!\\n\\nAcesse o site da colaboração especial para mais detalhes:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_russ": "/\\nКроссовер «KonoSuba: Фантастические дни!»/Re:ZERO уже доступен!\\n\\\\n\\n10 попыток завербовать новобранцев #ReturnByDeath (Возврат с того света)!\\nПроходите игровые задания, чтобы получить\\nгарантированную Эмилию-чемпиона 4★!\\n\\nПодробности на сайте кроссовера:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_fran": "/\\nLa collaboration KonoSuba : Les Jours Fantastiques/Re:ZERO est disponible !\\n\\\\n\\nEssaie le recrutement x10 Mort réversible ! #ReturnByDeath\\nTermine les missions du jeu pour recevoir\\nune Emilia 4★ ultime garantie !\\n\\nRends-toi sur le site spécial de la collaboration pour plus d'informations :\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n",
-        "text_den": "/\\nDie KonoSuba: Fantastische Zeiten!/Re:ZERO-Kollaboration ist jetzt verfügbar!\\n\\\\n\\nVersuche die 10-fache Rekrutierung #RückkehrDurchDenTod!\\nSchließe Missionen im Spiel ab,\\num eine garantierte ultimative 4★-Emilia zu erhalten!\\n\\nBesuche die spezielle Kollaborationsseite für weitere Details:\\nhttps://konosubafd.jp/campaign/re-zero/\\n\\n"
+        "text_japanese": "／\\n『このファン』×『リゼロ』\\n　　　コラボ開催中！\\n＼\\n\\n今なら、#死に戻り無料10回ガチャ が引ける！\\nさらに、ゲーム内ミッションクリアで、\\n「最高レアリティ★4 エミリア」がもれなくもらえる！！\\n\\n▼コラボ特設サイトはこちら\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_english": "The KonoSuba: Fantastic Days and Re:ZERO collaboration is now available!\\n\\nTry the #ReturnByDeath 10x Recruit!\\nClear in-game missions to receive\\na guaranteed ultimate 4★ Emilia!\\n\\n▼Visit the collaboration Twitter link\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_korean": "/\\n\"코노스바 판타스틱 데이즈\"×\"Re:제로\"\\n　　　콜라보 진행 중!\\n\\\\n\\n지금 접속하면 #사망회귀_무료_10회_뽑기 이용 가능!\\n추가로 게임 내 미션을 클리어하면\\n\"최고 희귀도 ★4 에밀리아\" 반드시 획득 가능!!\\n\\n▼콜라보 특별 사이트 링크\\nhttps://twitter.com/Konosuba_KR\\n\\n",
+        "text_espa": "¡La colaboración KonoSuba: Días fantásticos y Re:ZERO ya está disponible!\\n\\n¡Prueba el Recluta x10 #Regresadelamuerte!\\n¡Completa tareas para recibir\\na Emilia definitiva de 4★ garantizada!\\n\\n▼Visita la cuenta de Twitter de la colaboración\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_port": "A colaboração entre KonoSuba: Dias Fantásticos e Re:ZERO já está disponível!\\n\\nExperimente o Recrutamento #RetornoDaMorte! x10\\nConclua as tarefas no jogo para garantir\\numa Emilia 4★ especial!\\n\\n▼Acesse o Twitter da colaboração:\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_russ": "Кроссовер «KonoSuba: Фантастические дни!» и Re:ZERO уже доступен!\\n\\n10 попыток завербовать новобранцев #ReturnByDeath (Возврат с того света)!\\nПроходите игровые задания, чтобы получить\\nгарантированную Эмилию-чемпиона 4★!\\n\\n▼Подробности в Twitter:\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_fran": "La collaboration KonoSuba : Les Jours Fantastiques et Re:ZERO est disponible !\\n\\nEssaie le recrutement x10 Mort réversible ! #ReturnByDeath\\nTermine les missions du jeu pour recevoir\\nune Emilia 4★ ultime garantie !\\n\\n▼Plus d'infos sur Twitter :\\nhttps://twitter.com/PlayKonoSuba\\n\\n",
+        "text_den": "Die Kollaboration zwischen KonoSuba: Fantastische Zeiten! und Re:ZERO ist jetzt verfügbar!\\n\\nVersuche die 10-fache Rekrutierung #RückkehrDurchDenTod!\\nSchließe Missionen im Spiel ab,\\num eine garantierte ultimative 4★-Emilia zu erhalten!\\n\\n▼Gehe auf den Kollaborations-Twitter-Link:\\nhttps://twitter.com/PlayKonoSuba\\n\\n"
     },
     {
         "id": "HONOR_MISSION_61000000",
@@ -18387,7 +18651,7 @@
         "text_korean": "눈부신 여름! 수영복 바캉스 뽑기 Part 2",
         "text_espa": "Recluta Traje de baño brillante de verano - P2",
         "text_port": "Recrutamento Trajes de Banho para um Verão Brilhante! – P2",
-        "text_russ": "Новобранец «Сверкающее лето! Купальник» Ч. 2",
+        "text_russ": "Новобранец в купальнике «Сверкающее лето» Ч. 2",
         "text_fran": "Recrutement Maillot de bain d'été étincelant - P2",
         "text_den": "Rekrutierung: Schimmernder Sommerbadeanzug! – 2"
     },
@@ -18541,7 +18805,7 @@
         "text_korean": "매혹적인 노천탕 뽑기 Part 2",
         "text_espa": "Recluta Aguas termales adorables - P2",
         "text_port": "Recrutamento Águas Termais Adoráveis – P2",
-        "text_russ": "Новобранец «Изумительные горячие источники» Ч. 2",
+        "text_russ": "Новобранец изумительных горячих источников Ч. 2",
         "text_fran": "Recrutement Délices des sources chaudes - P2",
         "text_den": "Rekrutierung: Traumhaftes Thermalbad – 2"
     },
@@ -18942,6 +19206,17 @@
         "text_den": "Eine garantierte 4★-Rekrutierung"
     },
     {
+        "id": "GACHA_NAME_491001",
+        "text_japanese": "100日記念無料ガチャ100回！",
+        "text_english": "Day 100 Celebration, 100 Free Recruits!",
+        "text_korean": "100일 기념, 무료 뽑기 100회!",
+        "text_espa": "Celebración de 100 días. ¡100 reclutas gratis!",
+        "text_port": "Comemoração de 100 Dias, 100 Recrutamentos Grátis!",
+        "text_russ": "100 дней, 100 бесплатных новобранцев!",
+        "text_fran": "100 jours, 100 recrutements gratuits !",
+        "text_den": "100-Tage-Feier, 100 kostenlose Rekrutierungen"
+    },
+    {
         "id": "GACHA_DESCRIPTION_100001",
         "text_japanese": "★2以上のメンバーが出現！\\n「10回引く」は1人★3以上確定！",
         "text_english": "Get 2★ or better characters!\\nA 10x Recruit guarantees a 3★!",
@@ -19108,14 +19383,14 @@
     },
     {
         "id": "GACHA_DESCRIPTION_410003",
-        "text_japanese": "1回限定で引ける1人★4確定ガチャ！\\n一部のメンバーは衣装付き！",
-        "text_english": "This single-use Recruit guarantees one 4★ character!\\nSome come with a special outfit!",
-        "text_korean": "단 한 번만 이용 가능한 ★4 멤버 1명 확정 뽑기!\\n일부 멤버는 의상 포함!",
-        "text_espa": "¡Este recluta de un solo uso garantiza un personaje de 4★!\\n¡Algunos vienen con atuendos especiales!",
-        "text_port": "Este Recrutamento de uso único garante um personagem de 4★!\\nAlguns vêm com um traje especial!",
-        "text_russ": "Одноразовый билет новобранца гарантированно дает персонажа 4★!\\nК некоторым прилагается особый костюм!",
-        "text_fran": "Ce recrutement à usage unique garantit un personnage 4★ !\\nCertains portent une tenue spéciale !",
-        "text_den": "Mit dieser einmaligen Rekrutierung bekommst du garantiert einen 4★-Charakter!\\nEinige haben ein ungewöhnliches Outfit!"
+        "text_japanese": "1人★4確定ガチャ",
+        "text_english": "One 4★ Guaranteed Recruit",
+        "text_korean": "★4 멤버 1명 확정 뽑기",
+        "text_espa": "Recluta de 4★ garantizado",
+        "text_port": "Recrutamento 4★ Garantido x1",
+        "text_russ": "Гарантированный новобранец 4★",
+        "text_fran": "Un recrutement 4★ garanti",
+        "text_den": "Eine garantierte 4★-Rekrutierung"
     },
     {
         "id": "GACHA_DESCRIPTION_320051",
@@ -19761,10 +20036,10 @@
         "text_english": "Collaboration Character Alert!\\nGet 10 appas with a 10x Recruit!\\n<size=24>Collaboration characters may appear again in the future.</size>",
         "text_korean": "콜라보 한정 멤버 등장!\\n10회 뽑기 시 \"삼과×10개\" 포함!\\n<size=24>※콜라보 한정 멤버는 추후 다시 등장할 수 있습니다.</size>",
         "text_espa": "¡Alerta de personaje de colaboración!\\n¡Obtén 10 zanas con Recluta x10!\\n<size=24>Los personajes de colaboración pueden volver a aparecer en el futuro.</size>",
-        "text_port": "Alerta de personagem de colaboração!\\nObtenha 10 ringas com Recrutamento x10!\\n<size=24>Personagens de colaboração podem aparecer novamente no futuro.</size>",
+        "text_port": "Alerta de personagem de colaboração!\\nObtenha 10 matiãs com Recrutamento x10!\\n<size=24>Personagens de colaboração podem aparecer novamente no futuro.</size>",
         "text_russ": "Появились персонажи кроссовера!\\nПолучите 10 аблок и 10 новобранцев!\\n<size=24>* Персонажи кроссовера могут появиться и позднее.</size>",
         "text_fran": "Alerte : personnages de collab !\\n10 pammes avec un recrutement x10 !\\n<size=24>Ces personnages peuvent réapparaître à l'avenir.</size>",
-        "text_den": "Achtung: Kollaborations-Charakter!\\nErhalte 10 Appa bei einer 10-fachen Rekrutierung!\\n<size=24>Kollaborations-Charaktere sind in Zukunft eventuell wieder verfügbar.</size>"
+        "text_den": "Achtung: Kollaborations-Charakter!\\nErhalte 10 Äpafal bei einer 10-fachen Rekrutierung!\\n<size=24>Kollaborations-Charaktere sind in Zukunft eventuell wieder verfügbar.</size>"
     },
     {
         "id": "GACHA_DESCRIPTION_320112",
@@ -20207,6 +20482,17 @@
         "text_den": "Die 1x Rekrutierung garantiert einen 4★-Charakter!"
     },
     {
+        "id": "GACHA_DESCRIPTION_491001",
+        "text_japanese": "毎日無料で10連ガチャが引ける",
+        "text_english": "10x Recruit Available Daily",
+        "text_korean": "매일 10회 뽑기 가능",
+        "text_espa": "10 reclutas disponibles diario",
+        "text_port": "Recrutamento x10 Disponível Diariamente",
+        "text_russ": "10 новобранцев каждый день",
+        "text_fran": "Recrutement x10 disponible chaque jour",
+        "text_den": "10-fache Rekrutierung täglich verfügbar"
+    },
+    {
         "id": "TEXT_EXCHANGE10",
         "text_japanese": "メンバーセレクトチケット交換所",
         "text_english": "Character Selection Ticket Exchange",
@@ -20231,7 +20517,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_11911100",
         "text_japanese": "[ナイス爆裂!!]\\nめぐみん×1",
-        "text_english": "Megumin\\n(Explosive) x1",
+        "text_english": "Explosive\\nMegumin x1",
         "text_korean": "[나이스 폭렬!!]\\n메구밍×1",
         "text_espa": "Megumin\\n(Explosiva) x1",
         "text_port": "Megumin\\n(Explosiva) x1",
@@ -20242,7 +20528,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_11911101",
         "text_japanese": "[引きこもり転生者]\\nカズマ×1",
-        "text_english": "Kazuma\\n(Shut-In No More) x1",
+        "text_english": "Shut-In No More\\nKazuma x1",
         "text_korean": "[은톨이 전생자]\\n카즈마×1",
         "text_espa": "Kazuma\\n(No más reclusión) x1",
         "text_port": "Kazuma\\n(Chega de Reclusão) x1",
@@ -20253,7 +20539,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12003100",
         "text_japanese": "[水と温泉の都に乾杯]\\nアクア×1",
-        "text_english": "Aqua\\n(Hot Spring Heaven) x1",
+        "text_english": "Hot Spring Heaven\\nAqua x1",
         "text_korean": "[물과 온천의 도시에 건배]\\n아쿠아×1",
         "text_espa": "Aqua\\n(Aguas termales celestiales) x1",
         "text_port": "Aqua\\n(Paraíso das Águas Termais) x1",
@@ -20264,7 +20550,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12003101",
         "text_japanese": "[湯あたり注意！]\\nダクネス×1",
-        "text_english": "Darkness\\n(Hot Water) x1",
+        "text_english": "Hot Water\\nDarkness x1",
         "text_korean": "[온천 후유증 조심!]\\n다크니스×1",
         "text_espa": "Darkness\\n(Agua caliente) x1",
         "text_port": "Darkness\\n(Água Quente) x1",
@@ -20275,7 +20561,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12003102",
         "text_japanese": "[お構いなく]\\nカズマ×1",
-        "text_english": "Kazuma\\n(Don't Mind Me) x1",
+        "text_english": "Don't Mind Me\\nKazuma x1",
         "text_korean": "[신경 쓰지 마시죠]\\n카즈마×1",
         "text_espa": "Kazuma\\n(No te preocupes por mí) x1",
         "text_port": "Kazuma\\n(Não Ligue para Mim) x1",
@@ -20286,7 +20572,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12003200",
         "text_japanese": "[雪山の主役]\\nダスト×1",
-        "text_english": "Dust\\n(Super Sledder) x1",
+        "text_english": "Super Sledder\\nDust x1",
         "text_korean": "[설산의 주인공]\\n더스트×1",
         "text_espa": "Dust\\n(Superdeslizador) x1",
         "text_port": "Dust\\n(Supertrenó) x1",
@@ -20297,7 +20583,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12003201",
         "text_japanese": "[きらめく雪景色]\\nリーン×1",
-        "text_english": "Rin\\n(Winter Wonderland) x1",
+        "text_english": "Winter Wonderland\\nRin x1",
         "text_korean": "[반짝이는 설경]\\n린×1",
         "text_espa": "Rin\\n(Paraíso invernal) x1",
         "text_port": "Rin\\n(Inverno das Maravilhas) x1",
@@ -20314,7 +20600,7 @@
         "text_port": "Megumin\\nFesta do Pijama x1",
         "text_russ": "Мегумин \\n«Пижамная вечеринка»",
         "text_fran": "Megumin\\nSoirée pyjama x1",
-        "text_den": "1x Pyjamaparty\\nMegumin"
+        "text_den": "1x Megumin\\nPyjamaparty"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004101",
@@ -20325,7 +20611,7 @@
         "text_port": "Wiz\\nDoces Sonhos x1",
         "text_russ": "Виз \\n«Сладкие сны»",
         "text_fran": "Wiz\\nDoux rêves x1",
-        "text_den": "1x Süße Träume\\nWiz"
+        "text_den": "1x Wiz\\nSüße Träume"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004102",
@@ -20341,13 +20627,13 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004200",
         "text_japanese": "[バニーガール布教中]\\nセシリー×1",
-        "text_english": "Cottontailed Cleric\\nCecily x1",
+        "text_english": "Cottontail Cleric\\nCecily x1",
         "text_korean": "[포교 중인 바니걸]\\n세실리×1",
         "text_espa": "Cecily\\nClériga cola de algodón x1",
         "text_port": "Cecily\\nCoelhinha Garçonete x1",
-        "text_russ": "Сесилия \\n«Жрица-кролик»",
+        "text_russ": "Сесилия\\n«Жрица-кролик»",
         "text_fran": "Cecily\\nPrêtresse sainte-nitouche x1",
-        "text_den": "1x Priesterin im Häschenkostüm\\nCecily"
+        "text_den": "1x Cecily\\nPriesterin im Häschenkostüm"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004201",
@@ -20358,7 +20644,7 @@
         "text_port": "Mitsurugi\\nCrupiê dos Sonhos x1",
         "text_russ": "Мицуруги \\n«Образцовый крупье»",
         "text_fran": "Mitsurugi\\nCroupier de rêve x1",
-        "text_den": "1x Charmanter Croupier\\nMitsurugi"
+        "text_den": "1x Mitsurugi\\nCharmanter Croupier"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004300",
@@ -20369,7 +20655,7 @@
         "text_port": "Iris\\nPrimeira Incursão ao Cassino x1",
         "text_russ": "Айрис \\n«1-ый выход в казино»",
         "text_fran": "Iris\\n1re sortie au casino x1",
-        "text_den": "1x Erster Casinobesuch\\nIris"
+        "text_den": "1x Iris\\nErster Casinobesuch"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12004301",
@@ -20380,7 +20666,7 @@
         "text_port": "Chris\\nCoelhinha por um Dia x1",
         "text_russ": "Крис \\n«Девушка-кролик на день»",
         "text_fran": "Chris\\nBunny Girl d'un jour x1",
-        "text_den": "1x Häschen für einen Tag\\nChris"
+        "text_den": "1x Chris\\nHäschen für einen Tag"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005100",
@@ -20391,7 +20677,7 @@
         "text_port": "Arue\\nEscritora Dramática x1",
         "text_russ": "Аруэ \\n«Драматический автор»",
         "text_fran": "Arue\\nAuteur dramatique x1",
-        "text_den": "1x Dramenautorin\\nArue"
+        "text_den": "1x Arue\\nDramenautorin"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005101",
@@ -20402,7 +20688,7 @@
         "text_port": "Kazuma\\nHerói do Povo x1",
         "text_russ": "Кадзума \\n«Домашний герой»",
         "text_fran": "Kazuma\\nHéros local x1",
-        "text_den": "1x Haushaltsheld\\nKazuma"
+        "text_den": "1x Kazuma\\nHaushaltsheld"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005102",
@@ -20413,7 +20699,7 @@
         "text_port": "Aqua\\nAlma da Festa x1",
         "text_russ": "Аква \\n«Душа вечеринки»",
         "text_fran": "Aqua\\nBoute-en-train x1",
-        "text_den": "1x Stimmungskanone\\nAqua"
+        "text_den": "1x Aqua\\nStimmungskanone"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005200",
@@ -20424,7 +20710,7 @@
         "text_port": "Mia\\nGovernanta Atarefada x1",
         "text_russ": "Мия \\n«Задерганная хозяйка»",
         "text_fran": "Mia\\nCamériste accablée x1",
-        "text_den": "1x Ungestüme Haushälterin\\nMia"
+        "text_den": "1x Mia\\nUngestüme Haushälterin"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005201",
@@ -20435,7 +20721,7 @@
         "text_port": "Amy\\nDonzela Maternal x1",
         "text_russ": "Эми \\n«Заботливая дева»",
         "text_fran": "Amy\\nJeune fille maternelle x1",
-        "text_den": "1x Muttergefühle\\nAmy"
+        "text_den": "1x Amy\\nMuttergefühle"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005300",
@@ -20446,7 +20732,7 @@
         "text_port": "Chris\\nCriada do Saque x1",
         "text_russ": "Крис \\n«Грабительница»",
         "text_fran": "Chris\\nDomestique-trophée x1",
-        "text_den": "1x Diebisches Dienstmädchen\\nChris"
+        "text_den": "1x Chris\\nDiebisches Dienstmädchen"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12005301",
@@ -20457,23 +20743,23 @@
         "text_port": "Melissa\\nGatinha Doidinha x1",
         "text_russ": "Мелисса \\n«Кошатница»",
         "text_fran": "Melissa\\nFemme à chats x1",
-        "text_den": "1x Katzenverrückt\\nMelissa"
+        "text_den": "1x Melissa\\nKatzenverrückt"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12006100",
         "text_japanese": "[爆裂魔法を信じて]\\nめぐみん×1",
-        "text_english": "Megumin\\n(Explosive Devotion) x1",
+        "text_english": "Explosive Devotion\\nMegumin x1",
         "text_korean": "[폭렬 마법을 믿고]\\n메구밍×1",
         "text_espa": "Megumin\\n(Devoción explosiva) x1",
         "text_port": "Megumin\\n(Devoção Explosiva) x1",
-        "text_russ": "Мегумин\\n(Взрывное увлечение)",
+        "text_russ": "Мегумин\\n(Взрывная преданность)",
         "text_fran": "Megumin\\n(Dévotion explosive) x1",
         "text_den": "1x Megumin\\n(Explosive Hingabe)"
     },
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12006101",
         "text_japanese": "[思い出の魔法学園]\\nゆんゆん×1",
-        "text_english": "Yunyun\\n(Magic Academy Memories) x1",
+        "text_english": "Magic Academy Memories\\nYunyun x1",
         "text_korean": "[추억이 담긴 마법 학교]\\n융융×1",
         "text_espa": "Yunyun\\n(Recuerdos de la Academia de Magia) x1",
         "text_port": "Yunyun\\n(Lembranças da Academia de Magia) x1",
@@ -20484,7 +20770,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12006200",
         "text_japanese": "[アクセルハーツ]\\nシエロ×1",
-        "text_english": "Cielo\\n(Axel Hearts) x1",
+        "text_english": "Axel Hearts\\nCielo x1",
         "text_korean": "[액셀 하츠]\\n시에로×1",
         "text_espa": "Cielo\\n(Axel Hearts) x1",
         "text_port": "Cielo\\n(Axel Hearts) x1",
@@ -20495,7 +20781,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12006201",
         "text_japanese": "[アクセルハーツ]\\nエーリカ×1",
-        "text_english": "Erika\\n(Axel Hearts) x1",
+        "text_english": "Axel Hearts\\nErika x1",
         "text_korean": "[액셀 하츠]\\n에리카×1",
         "text_espa": "Erika\\n(Axel Hearts) x1",
         "text_port": "Erika\\n(Axel Hearts) x1",
@@ -20506,7 +20792,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12006300",
         "text_japanese": "[アクセルハーツ]\\nリア×1",
-        "text_english": "Lia\\n(Axel Hearts) x1",
+        "text_english": "Axel Hearts\\nLia x1",
         "text_korean": "[액셀 하츠]\\n리아×1",
         "text_espa": "Lia\\n(Axel Hearts) x1",
         "text_port": "Lia\\n(Axel Hearts) x1",
@@ -20517,7 +20803,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007100",
         "text_japanese": "[お兄様と一緒に]\\nアイリス×1",
-        "text_english": "Iris\\n(Siblings) x1",
+        "text_english": "Siblings\\nIris x1",
         "text_korean": "[오라버니와 함께]\\n아이리스×1",
         "text_espa": "Iris\\n(Hermanos) x1",
         "text_port": "Iris\\n(Irmãos) x1",
@@ -20528,7 +20814,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007101",
         "text_japanese": "[ふたりの舞踏会]\\nカズマ×1",
-        "text_english": "Kazuma\\n(A Ball for Two) x1",
+        "text_english": "A Ball for Two\\nKazuma x1",
         "text_korean": "[둘만의 무도회]\\n카즈마×1",
         "text_espa": "Kazuma\\n(Un baile para dos) x1",
         "text_port": "Kazuma\\n(Um Baile para Dois) x1",
@@ -20539,7 +20825,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007200",
         "text_japanese": "[優雅なひととき]\\nメリッサ×1",
-        "text_english": "Melissa\\n(Elegance) x1",
+        "text_english": "Elegance\\nMelissa x1",
         "text_korean": "[우아한 한때]\\n멜리사×1",
         "text_espa": "Melissa\\n(Elegancia) x1",
         "text_port": "Melissa\\n(Elegância) x1",
@@ -20550,7 +20836,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007201",
         "text_japanese": "[陽射しを浴びて]\\nリーン×1",
-        "text_english": "Rin\\n(Sun-soaked) x1",
+        "text_english": "Sun-soaked\\nRin x1",
         "text_korean": "[햇살을 받으며]\\n린×1",
         "text_espa": "Rin\\n(Asoleada) x1",
         "text_port": "Rin\\n(Banhada pelo Sol) x1",
@@ -20561,7 +20847,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007300",
         "text_japanese": "[騎士の真骨頂]\\nダクネス×1",
-        "text_english": "Darkness\\n(True Knight) x1",
+        "text_english": "True Knight\\nDarkness x1",
         "text_korean": "[기사의 진면목]\\n다크니스×1",
         "text_espa": "Darkness\\n(Verdadera paladina) x1",
         "text_port": "Darkness\\n(Cavaleira Verdadeira) x1",
@@ -20572,7 +20858,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12007301",
         "text_japanese": "[楽しい砂浜遊び]\\nゆんゆん×1",
-        "text_english": "Yunyun\\n(Beachcomber) x1",
+        "text_english": "Beachcomber\\nYunyun x1",
         "text_korean": "[즐거운 모래 장난]\\n융융×1",
         "text_espa": "Yunyun\\n(Recolección en la playa) x1",
         "text_port": "Yunyun\\n(Banhista Exploradora) x1",
@@ -20583,7 +20869,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008100",
         "text_japanese": "[きらめく海の世界]\\nアクア×1",
-        "text_english": "Aqua\\n(Sparkling Seas) x1",
+        "text_english": "Sparkling Seas\\nAqua x1",
         "text_korean": "[눈부신 바닷속 세상]\\n아쿠아×1",
         "text_espa": "Aqua\\n(Mares brillantes) x1",
         "text_port": "Aqua\\n(Mares Espumantes) x1",
@@ -20594,7 +20880,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008101",
         "text_japanese": "[はじける水しぶき]\\nウィズ×1",
-        "text_english": "Wiz\\n(Water Blast) x1",
+        "text_english": "Water Blast\\nWiz x1",
         "text_korean": "[시원한 물보라]\\n위즈×1",
         "text_espa": "Wiz\\n(Estallido de agua) x1",
         "text_port": "Wiz\\n(Diversão Aquática) x1",
@@ -20605,7 +20891,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008102",
         "text_japanese": "[海はこれから]\\nめぐみん×1",
-        "text_english": "Megumin\\n(Beachgoer) x1",
+        "text_english": "Beachgoer\\nMegumin x1",
         "text_korean": "[물놀이는 지금부터]\\n메구밍×1",
         "text_espa": "Megumin\\n(Vacacionista) x1",
         "text_port": "Megumin\\n(Banhista) x1",
@@ -20616,7 +20902,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008200",
         "text_japanese": "[あたしのお宝]\\nクリス×1",
-        "text_english": "Chris\\n(My Treasure) x1",
+        "text_english": "My Treasure\\nChris x1",
         "text_korean": "[내 보물]\\n크리스×1",
         "text_espa": "Chris\\n(Mi tesoro) x1",
         "text_port": "Chris\\n(Meu Tesouro) x1",
@@ -20627,7 +20913,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008201",
         "text_japanese": "[俺様のお宝]\\nダスト×1",
-        "text_english": "Dust\\n(My Treasure) x1",
+        "text_english": "My Treasure\\nDust x1",
         "text_korean": "[이 몸의 보물]\\n더스트×1",
         "text_espa": "Dust\\n(Mi tesoro) x1",
         "text_port": "Dust\\n(Meu Tesouro) x1",
@@ -20638,7 +20924,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008300",
         "text_japanese": "［オアシスの舞姫］\\nエイミー×1",
-        "text_english": "Amy\\n(Oasis Dancer) x1",
+        "text_english": "Oasis Dancer\\nAmy x1",
         "text_korean": "[오아시스의 무희]\\n에이미×1",
         "text_espa": "Amy\\n(Bailarina de oasis) x1",
         "text_port": "Amy\\n(Dançarina do Oásis) x1",
@@ -20649,7 +20935,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12008301",
         "text_japanese": "［スパルタ講師］\\nシエロ×1",
-        "text_english": "Cielo\\n(Strict Teacher) x1",
+        "text_english": "Strict Teacher\\nCielo x1",
         "text_korean": "[스파르타 강사]\\n시에로×1",
         "text_espa": "Cielo\\n(Profesora estricta) x1",
         "text_port": "Cielo\\n(Professora Rigorosa) x1",
@@ -20660,7 +20946,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009100",
         "text_japanese": "［美人カフェ店員］\\nセシリー×1",
-        "text_english": "Cecily\\n(Beautiful Barista) x1",
+        "text_english": "Beautiful Barista\\nCecily x1",
         "text_korean": "[카페의 미인 점원]\\n세실리×1",
         "text_espa": "Cecily\\n(Barista hermosa) x1",
         "text_port": "Cecily\\n(Barista Bonita) x1",
@@ -20671,7 +20957,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009101",
         "text_japanese": "［爆裂カフェ店員］\\nめぐみん×1",
-        "text_english": "Megumin\\n(Explosive Barista) x1",
+        "text_english": "Explosive Barista\\nMegumin x1",
         "text_korean": "[카페의 폭렬 점원]\\n메구밍×1",
         "text_espa": "Megumin\\n(Barista explosiva) x1",
         "text_port": "Megumin\\n(Barista Explosiva) x1",
@@ -20682,7 +20968,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009200",
         "text_japanese": "［おてんばくノ一］\\nミーア×1",
-        "text_english": "Mia\\n(Kunoichi) x1",
+        "text_english": "Kunoichi\\nMia x1",
         "text_korean": "[활기 넘치는 쿠노이치]\\n미아×1",
         "text_espa": "Mia\\n(Kunoichi) x1",
         "text_port": "Mia\\n(Kunoichi) x1",
@@ -20693,7 +20979,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009201",
         "text_japanese": "［黄昏の忍び］\\nミツルギ×1",
-        "text_english": "Mitsurugi\\n(Twilight Ninja) x1",
+        "text_english": "Twilight Ninja\\nMitsurugi x1",
         "text_korean": "[황혼의 닌자]\\n미츠루기×1",
         "text_espa": "Mitsurugi\\n(Ninja crepuscular) x1",
         "text_port": "Mitsurugi\\n(Ninja do Crepúsculo) x1",
@@ -20704,7 +20990,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009300",
         "text_japanese": "［月夜に見参］\\nあるえ×1",
-        "text_english": "Arue\\n(Moonlit Meeting) x1",
+        "text_english": "Moonlit Meeting\\nArue x1",
         "text_korean": "[달밤에 등장]\\n아루에×1",
         "text_espa": "Arue\\n(Reunión a la luz de la luna) x1",
         "text_port": "Arue\\n(Encontro ao Luar) x1",
@@ -20715,7 +21001,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009301",
         "text_japanese": "［くノ一の心得］\\nウィズ×1",
-        "text_english": "Wiz\\n(Way of the Kunoichi) x1",
+        "text_english": "Way of the Kunoichi\\nWiz x1",
         "text_korean": "[쿠노이치의 마음가짐]\\n위즈×1",
         "text_espa": "Wiz\\n(Camino de la kunoichi) x1",
         "text_port": "Wiz\\n(Caminho da Kunoichi) x1",
@@ -20726,7 +21012,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009400",
         "text_japanese": "［爆裂カフェ店員］\\nめぐみん×1",
-        "text_english": "Megumin\\n(Explosive Barista) x1",
+        "text_english": "Explosive Barista\\nMegumin x1",
         "text_korean": "[카페의 폭렬 점원]\\n메구밍×1",
         "text_espa": "Megumin\\n(Barista explosiva) x1",
         "text_port": "Megumin\\n(Barista Explosiva) x1",
@@ -20737,7 +21023,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12009401",
         "text_japanese": "［美人カフェ店員］\\nセシリー×1",
-        "text_english": "Cecily\\n(Beautiful Barista) x1",
+        "text_english": "Beautiful Barista\\nCecily x1",
         "text_korean": "[카페의 미인 점원]\\n세실리×1",
         "text_espa": "Cecily\\n(Barista hermosa) x1",
         "text_port": "Cecily\\n(Barista Bonita) x1",
@@ -20748,7 +21034,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010100",
         "text_japanese": "［いたずらお姫様］\\nアイリス×1",
-        "text_english": "Iris\\n(Mischievous Princess) x1",
+        "text_english": "Mischievous Princess\\nIris x1",
         "text_korean": "[장난치는 공주님]\\n아이리스×1",
         "text_espa": "Iris\\n(Princesa traviesa) x1",
         "text_port": "Iris\\n(Princesa Travessa) x1",
@@ -20759,7 +21045,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010101",
         "text_japanese": "［トリックオアお友達］\\nゆんゆん×1",
-        "text_english": "Yunyun\\n(Friendly Halloween) x1",
+        "text_english": "Friendly Halloween\\nYunyun x1",
         "text_korean": "[트릭 오어 친구]\\n융융×1",
         "text_espa": "Yunyun\\n(Halloween amistoso) x1",
         "text_port": "Yunyun\\n(Halloween Amigável) x1",
@@ -20770,7 +21056,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010102",
         "text_japanese": "［お手製パンプキン］\\nアクア×1",
-        "text_english": "Aqua\\n(Pumpkin Cuisine) x1",
+        "text_english": "Pumpkin Cuisine\\nAqua x1",
         "text_korean": "[직접 만든 호박 의상]\\n아쿠아×1",
         "text_espa": "Aqua\\n(Cocina de calabaza) x1",
         "text_port": "Aqua\\n(Culinária de Abóbora) x1",
@@ -20781,7 +21067,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010200",
         "text_japanese": "［華麗に拳法］\\nリア×1",
-        "text_english": "Lia\\n(Marvelous Martial Arts) x1",
+        "text_english": "Marvelous Martial Arts\\nLia x1",
         "text_korean": "[화려한 권법]\\n리아×1",
         "text_espa": "Lia\\n(Artes marciales maravillosas) x1",
         "text_port": "Lia\\n(Artes Marciais Incríveis) x1",
@@ -20792,7 +21078,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010201",
         "text_japanese": "［魅惑の演舞］\\nメリッサ×1",
-        "text_english": "Melissa\\n(Enchanting Dance) x1",
+        "text_english": "Enchanting Dance\\nMelissa x1",
         "text_korean": "[매혹적인 춤]\\n멜리사×1",
         "text_espa": "Melissa\\n(Danza encantadora) x1",
         "text_port": "Melissa\\n(Dança Encantadora) x1",
@@ -20803,7 +21089,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010300",
         "text_japanese": "［ケンポー撮影会］\\nエーリカ×1",
-        "text_english": "Erika\\n(Martial Arts Shoot) x1",
+        "text_english": "Martial Arts Shoot\\nErika x1",
         "text_korean": "[권법 촬영회]\\n에리카×1",
         "text_espa": "Erika\\n(Sesión de artes marciales) x1",
         "text_port": "Erika\\n(Sessão de Fotos de Artes Marciais) x1",
@@ -20814,7 +21100,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12010301",
         "text_japanese": "［新たな勧誘術］\\nセシリー×1",
-        "text_english": "Cecily\\n(Persuasive Priestess) x1",
+        "text_english": "Persuasive Priestess\\nCecily x1",
         "text_korean": "[새로운 포교 방법]\\n세실리×1",
         "text_espa": "Cecily\\n(Sacerdotisa persuasiva) x1",
         "text_port": "Cecily\\n(Sacerdotisa Persuasiva) x1",
@@ -20825,7 +21111,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011100",
         "text_japanese": "［戦うメイド］\\nレム×1",
-        "text_english": "Rem\\n(Battle Maid) x1",
+        "text_english": "Battle Maid\\nRem x1",
         "text_korean": "[싸우는 메이드]\\n렘×1",
         "text_espa": "Rem\\n(Doncella de batalla) x1",
         "text_port": "Rem\\n(Criada Guerreira) x1",
@@ -20836,7 +21122,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011101",
         "text_japanese": "［異世界ツアー］\\nアクア×1",
-        "text_english": "Aqua\\n(Otherworldly Tour) x1",
+        "text_english": "Otherworldly Tour\\nAqua x1",
         "text_korean": "[이세계 여행]\\n아쿠아×1",
         "text_espa": "Aqua\\n(Tour de otro mundo) x1",
         "text_port": "Aqua\\n(Turnê de Outro Mundo) x1",
@@ -20847,7 +21133,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011102",
         "text_japanese": "［おそろいポーズ］\\nめぐみん×1",
-        "text_english": "Megumin\\n(Group Pose) x1",
+        "text_english": "Group Pose\\nMegumin x1",
         "text_korean": "[똑같은 포즈]\\n메구밍×1",
         "text_espa": "Megumin\\n(Pose de grupo) x1",
         "text_port": "Megumin\\n(Pose em Grupo) x1",
@@ -20858,7 +21144,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011200",
         "text_japanese": "［お洗濯日和］\\nリーン×1",
-        "text_english": "Rin\\n(Laundry Day) x1",
+        "text_english": "Laundry Day\\nRin x1",
         "text_korean": "[빨래하기 좋은 날]\\n린×1",
         "text_espa": "Rin\\n(Día de lavado) x1",
         "text_port": "Rin\\n(Dia de Lavar Roupa) x1",
@@ -20869,7 +21155,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011201",
         "text_japanese": "［メイドも鍛錬］\\nシエロ×1",
-        "text_english": "Cielo\\n(Maid in Training) x1",
+        "text_english": "Maid in Training\\nCielo x1",
         "text_korean": "[메이드 업무도 단련]\\n시에로×1",
         "text_espa": "Cielo\\n(Doncella en entrenamiento) x1",
         "text_port": "Cielo\\n(Criada em Treinamento) x1",
@@ -20880,7 +21166,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011300",
         "text_japanese": "［新米忍者］\\nカズマ×1",
-        "text_english": "Kazuma\\n(Novice Ninja) x1",
+        "text_english": "Novice Ninja\\nKazuma x1",
         "text_korean": "[신참 닌자]\\n카즈마×1",
         "text_espa": "Kazuma\\n(Ninja novato) x1",
         "text_port": "Kazuma\\n(Ninja Novato) x1",
@@ -20891,7 +21177,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12011301",
         "text_japanese": "［正統派くノ一］\\nリア×1",
-        "text_english": "Lia\\n(Certified Kunoichi) x1",
+        "text_english": "Certified Kunoichi\\nLia x1",
         "text_korean": "[정통파 쿠노이치]\\n리아×1",
         "text_espa": "Lia\\n(Kunoichi certificada) x1",
         "text_port": "Lia\\n(Kunoichi Certificada) x1",
@@ -20902,7 +21188,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012100",
         "text_japanese": "［秘密のクリスマス］\\nダクネス×1",
-        "text_english": "Darkness\\n(Secret Present) x1",
+        "text_english": "Secret Present\\nDarkness x1",
         "text_korean": "[비밀의 크리스마스]\\n다크니스×1",
         "text_espa": "Darkness\\n(Regalo secreto) x1",
         "text_port": "Darkness\\n(Presente Secreto) x1",
@@ -20913,7 +21199,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012101",
         "text_japanese": "［今夜はクリスマス］\\nウィズ×1",
-        "text_english": "Wiz\\n(Christmas Eve) x1",
+        "text_english": "Christmas Eve\\nWiz x1",
         "text_korean": "[오늘 밤은 크리스마스]\\n위즈×1",
         "text_espa": "Wiz\\n(Nochebuena) x1",
         "text_port": "Wiz\\n(Véspera de Natal) x1",
@@ -20924,9 +21210,9 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012102",
         "text_japanese": "［サンタに変身］\\nアイリス×1",
-        "text_english": "Iris\\n(Play Santa) x1",
+        "text_english": "Play Santa\\nIris x1",
         "text_korean": "[산타로 변신]\\n아이리스×1",
-        "text_espa": "Iris\\n(Juega con Santa) x1",
+        "text_espa": "Iris\\n(Disfraz de Santa) x1",
         "text_port": "Iris\\n(Seja o Papai Noel) x1",
         "text_russ": "Айрис\\n(Игра в Санту)",
         "text_fran": "Iris\\n(Incarnation du Père Noël) x1",
@@ -20935,7 +21221,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012200",
         "text_japanese": "［お風呂で勝負］\\nゆんゆん×1",
-        "text_english": "Yunyun\\n(Bath Battle) x1",
+        "text_english": "Bath Battle\\nYunyun x1",
         "text_korean": "[온천에서 대결]\\n융융×1",
         "text_espa": "Yunyun\\n(Batalla de baño) x1",
         "text_port": "Yunyun\\n(Batalha no Banho) x1",
@@ -20946,7 +21232,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012201",
         "text_japanese": "［温泉の醍醐味］\\nダスト×1",
-        "text_english": "Dust\\n(Hot Spring Thrills) x1",
+        "text_english": "Hot Spring Thrills\\nDust x1",
         "text_korean": "[온천의 묘미]\\n더스트×1",
         "text_espa": "Dust\\n(Aventuras en las aguas termales) x1",
         "text_port": "Dust\\n(Emoções das Águas Termais) x1",
@@ -20957,7 +21243,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012300",
         "text_japanese": "［笑顔でエスコート］\\nクリス×1",
-        "text_english": "Chris\\n(Smiling Chaperone) x1",
+        "text_english": "Smiling Chaperone\\nChris x1",
         "text_korean": "[미소로 에스코트]\\n크리스×1",
         "text_espa": "Chris\\n(Alegre compañera) x1",
         "text_port": "Chris\\n(Acompanhante Sorridente) x1",
@@ -20968,7 +21254,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12012301",
         "text_japanese": "［転んでも可愛い］\\nエーリカ×1",
-        "text_english": "Erika\\n(Cute Klutz) x1",
+        "text_english": "Cute Klutz\\nErika x1",
         "text_korean": "[넘어져도 귀여워]\\n에리카×1",
         "text_espa": "Erika\\n(Torpe y adorable) x1",
         "text_port": "Erika\\n(Fofa Desastrada) x1",
@@ -20979,7 +21265,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101100",
         "text_japanese": "［ゴッドスマッシュ］\\nアクア×1",
-        "text_english": "Aqua\\n(God Smash) x1",
+        "text_english": "God Smash\\nAqua x1",
         "text_korean": "[갓 스매시]\\n아쿠아×1",
         "text_espa": "Aqua\\n(Puño divino) x1",
         "text_port": "Aqua\\n(Esmagada Divina) x1",
@@ -20990,7 +21276,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101101",
         "text_japanese": "［新春カルタ大会］\\nめぐみん×1",
-        "text_english": "Megumin\\n(New Year's Karuta Contest) x1",
+        "text_english": "New Year's Karuta Contest\\nMegumin x1",
         "text_korean": "[신춘 카루타 대회]\\n메구밍×1",
         "text_espa": "Megumin\\n(Concurso de Karuta de Año Nuevo) x1",
         "text_port": "Megumin\\n(Competição de Karuta de Ano Novo) x1",
@@ -21001,7 +21287,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101102",
         "text_japanese": "［今年もこんなもん］\\nカズマ×1",
-        "text_english": "Kazuma\\n(Same as Last Year) x1",
+        "text_english": "Same as Last Year\\nKazuma x1",
         "text_korean": "[올해도 역시]\\n카즈마×1",
         "text_espa": "Kazuma\\n(Como el año pasado) x1",
         "text_port": "Kazuma\\n(Mesmo do Ano Passado) x1",
@@ -21012,7 +21298,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101200",
         "text_japanese": "［紅魔の雪景色］\\nあるえ×1",
-        "text_english": "Arue\\n(Crimson Snow) x1",
+        "text_english": "Crimson Snow\\nArue x1",
         "text_korean": "[홍마족의 설경]\\n아루에×1",
         "text_espa": "Arue\\n(Nieve carmesí) x1",
         "text_port": "Arue\\n(Neve Carmesim) x1",
@@ -21023,7 +21309,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101201",
         "text_japanese": "［専属ボディガード］\\nミツルギ×1",
-        "text_english": "Mitsurugi\\n(Personal Bodyguard) x1",
+        "text_english": "Personal Bodyguard\\nMitsurugi x1",
         "text_korean": "[전속 보디가드]\\n미츠루기×1",
         "text_espa": "Mitsurugi\\n(Guardaespaldas personal) x1",
         "text_port": "Mitsurugi\\n(Guarda-costas Pessoal) x1",
@@ -21034,7 +21320,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101300",
         "text_japanese": "［私だけの時間］\\nエイミー×1",
-        "text_english": "Amy\\n(Me Time) x1",
+        "text_english": "Me Time\\nAmy x1",
         "text_korean": "[나만의 시간]\\n에이미×1",
         "text_espa": "Amy\\n(Relajada) x1",
         "text_port": "Amy\\n(Tempo pra Mim) x1",
@@ -21045,7 +21331,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12101301",
         "text_japanese": "［女子力アップ］\\nエーリカ×1",
-        "text_english": "Erika\\n(Extra Girly) x1",
+        "text_english": "Extra Girly\\nErika x1",
         "text_korean": "[매력 상승]\\n에리카×1",
         "text_espa": "Erika\\n(Superfemenina) x1",
         "text_port": "Erika\\n(Superfeminina) x1",
@@ -21056,7 +21342,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12102100",
         "text_japanese": "［素敵な贈り物］\\nアイリス×1",
-        "text_english": "Iris\\n(Lovely Gift Giver) x1",
+        "text_english": "Lovely Gift Giver\\nIris x1",
         "text_korean": "[멋진 선물]\\n아이리스×1",
         "text_espa": "Iris\\n(Regalos encantadores) x1",
         "text_port": "Iris\\n(Presenteadora Adorável) x1",
@@ -21067,7 +21353,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12102101",
         "text_japanese": "［チョコと入信書］\\nセシリー×1",
-        "text_english": "Cecily\\n(Chocolate Invitations) x1",
+        "text_english": "Chocolate Invitations\\nCecily x1",
         "text_korean": "[초콜릿과 입교서]\\n세실리×1",
         "text_espa": "Cecily\\n(Invitaciones de chocolate) x1",
         "text_port": "Cecily\\n(Convites de Chocolate) x1",
@@ -21078,7 +21364,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12102102",
         "text_japanese": "［気分はパティシエ］\\nリア×1",
-        "text_english": "Lia\\n(Amateur Pastry Chef) x1",
+        "text_english": "Amateur Pastry Chef\\nLia x1",
         "text_korean": "[마음만은 파티시에]\\n리아×1",
         "text_espa": "Lia\\n(Pastelera aficionada) x1",
         "text_port": "Lia\\n(Chef de Confeitaria Amadora) x1",
@@ -21089,7 +21375,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12102200",
         "text_japanese": "［楽しいお泊り会］\\nシエロ×1",
-        "text_english": "Cielo\\n(Fun Sleepover) x1",
+        "text_english": "Fun Sleepover\\nCielo x1",
         "text_korean": "[즐거운 합숙]\\n시에로×1",
         "text_espa": "Cielo\\n(Diversión en pijamas) x1",
         "text_port": "Cielo\\n(Festa do Pijama Divertida) x1",
@@ -21100,7 +21386,7 @@
     {
         "id": "TEXT_EXCHANGE_GACHA_ITEM_12102201",
         "text_japanese": "［枕投げ大会］\\nミーア×1",
-        "text_english": "Mia\\n(Pillow Fighter) x1",
+        "text_english": "Pillow Fighter\\nMia x1",
         "text_korean": "[베개 싸움 대회]\\n미아×1",
         "text_espa": "Mia\\n(Luchadora de almohadas) x1",
         "text_port": "Mia\\n(Guerreira de Travesseiros) x1",
@@ -21210,13 +21496,13 @@
     {
         "id": "BETWEEN_EVENT_10001_DESCRIPTION",
         "text_japanese": "フリークエストの宝箱ドロップの内容が2倍にアップ",
-        "text_english": "Get 2x treasure chest drops for Free Quests.",
+        "text_english": "Get 2x treasure chest drops from Free Quests.",
         "text_korean": "프리 퀘스트 보물상자의 아이템 획득량 2배 증가",
-        "text_espa": "Obtén el doble de botín en cofres de tesoro en las misiones libres.",
-        "text_port": "Receba itens em dobro do baú de tesouro Missões Livres.",
+        "text_espa": "Obtén el doble de botín en cofres de tesoro de las misiones libres.",
+        "text_port": "Receba itens em dobro do baú de tesouro nas Missões Livres.",
         "text_russ": "Удвойте награды из сундуков в побочных заданиях.",
         "text_fran": "Butin des coffres x2 dans les quêtes libres.",
-        "text_den": "2x Beute in Schatztruhen für Freie Quests."
+        "text_den": "2x Beute in Schatztruhen aus Freien Quests."
     },
     {
         "id": "BETWEEN_EVENT_10002_DESCRIPTION",
@@ -21265,13 +21551,13 @@
     {
         "id": "BETWEEN_EVENT_10006_DESCRIPTION",
         "text_japanese": "フリークエストの宝箱ドロップの内容が2倍にアップ",
-        "text_english": "Get 2x treasure chest drops for Free Quests.",
+        "text_english": "Get 2x treasure chest drops from Free Quests.",
         "text_korean": "프리 퀘스트 보물상자의 아이템 획득량 2배 증가",
-        "text_espa": "Obtén el doble de botín en cofres de tesoro en las misiones libres.",
-        "text_port": "Receba itens em dobro do baú de tesouro de Missões Livres.",
+        "text_espa": "Obtén el doble de botín en cofres de tesoro de las misiones libres.",
+        "text_port": "Receba itens em dobro do baú de tesouro nas Missões Livres.",
         "text_russ": "Удвойте награды из сундуков в побочных заданиях.",
         "text_fran": "Butin des coffres x2 dans les quêtes libres.",
-        "text_den": "2x Beute in Schatztruhen für Freie Quests."
+        "text_den": "2x Beute in Schatztruhen aus Freien Quests."
     },
     {
         "id": "BETWEEN_EVENT_10007_DESCRIPTION",
@@ -27744,46 +28030,46 @@
     {
         "id": "STAGE_TITLE_LIMITED_18_1",
         "text_japanese": "強化石 初級 (小)",
-        "text_english": "Minor Upgrade Stone - Beginner",
+        "text_english": "Minor Upgrade Stones - Beginner",
         "text_korean": "강화석 초급(소)",
-        "text_espa": "Piedra de mejora menor - Principiante",
-        "text_port": "Pedra de Melhoria Inferior – Iniciante",
-        "text_russ": "Камень малого улучшения — новичок",
-        "text_fran": "Pierre d'amélioration mineure - débutant",
-        "text_den": "Geringfügiger Verbesserungsstein – Anfänger"
+        "text_espa": "Piedras de mejora menor - Principiante",
+        "text_port": "Pedras de Melhoria Inferiores – Iniciante",
+        "text_russ": "Камни малого улучшения — новички",
+        "text_fran": "Pierres d'amélioration mineures - débutant",
+        "text_den": "Geringfügige Verbesserungssteine – Anfänger"
     },
     {
         "id": "STAGE_TITLE_LIMITED_18_2",
         "text_japanese": "強化石 中級 (小・中)",
-        "text_english": "Minor, Moderate Upgrade Stone - Intermediate",
+        "text_english": "Minor, Moderate Upgrade Stones - Intermediate",
         "text_korean": "강화석 중급(소, 중)",
-        "text_espa": "Piedra de mejora menor, moderada - Intermedio",
-        "text_port": "Pedra de Melhoria Inferior e Moderada – Intermediário",
-        "text_russ": "Камень мал. и умерен. улучшения — боец",
-        "text_fran": "Pierre d'amélioration mineure, modérée - intermédiaire",
-        "text_den": "Geringfügiger, Moderater Verbesserungsstein – Mittelstufe"
+        "text_espa": "Piedras de mejora menor, moderada - Intermedio",
+        "text_port": "Pedras de Melhoria Inferiores e Moderadas – Intermediário",
+        "text_russ": "Камни мал. и умерен. улучшения — бойцы",
+        "text_fran": "Pierres d'amélioration mineures, modérées - intermédiaire",
+        "text_den": "Geringfügige, Moderate Verbesserungssteine – Mittelstufe"
     },
     {
         "id": "STAGE_TITLE_LIMITED_18_3",
         "text_japanese": "強化石 上級 (中)",
-        "text_english": "Moderate Upgrade Stone - Advanced",
+        "text_english": "Moderate Upgrade Stones - Advanced",
         "text_korean": "강화석 상급(중)",
-        "text_espa": "Piedra de mejora moderada - Avanzado",
-        "text_port": "Pedra de Melhoria Moderada – Avançado",
-        "text_russ": "Камень умерен. улучшения — ветеран",
-        "text_fran": "Pierre d'amélioration modérée - avancé",
-        "text_den": "Moderater Verbesserungsstein – Fortgeschritten"
+        "text_espa": "Piedras de mejora moderada - Avanzado",
+        "text_port": "Pedras de Melhoria Moderadas – Avançado",
+        "text_russ": "Камни умерен. улучшения — ветераны",
+        "text_fran": "Pierres d'amélioration modérées - avancé",
+        "text_den": "Moderate Verbesserungssteine – Fortgeschritten"
     },
     {
         "id": "STAGE_TITLE_LIMITED_18_4",
         "text_japanese": "強化石 超級 (大)",
-        "text_english": "Significant Upgrade Stone - Ultimate",
+        "text_english": "Significant Upgrade Stones - Ultimate",
         "text_korean": "강화석 초월급(대)",
-        "text_espa": "Piedra de mejora considerable - Definitivo",
-        "text_port": "Pedra de Melhoria Considerável – Ultra",
-        "text_russ": "Камень значит. улучшения — чемпион",
-        "text_fran": "Pierre d'amélioration considérable - ultime",
-        "text_den": "Bedeutender Verbesserungsstein – Ultimativ"
+        "text_espa": "Piedras de mejora considerable - Definitivo",
+        "text_port": "Pedras de Melhoria Consideráveis – Ultra",
+        "text_russ": "Камни значит. улучшения — чемпионы",
+        "text_fran": "Pierres d'amélioration considérables - ultime",
+        "text_den": "Bedeutende Verbesserungssteine – Ultimativ"
     },
     {
         "id": "STAGE_TITLE_LIMITED_18_5",
@@ -33387,178 +33673,178 @@
     {
         "id": "STAGE_TITLE_502601",
         "text_japanese": "NORMAL1",
-        "text_english": "NORMAL1",
+        "text_english": "NORMAL 1",
         "text_korean": "NORMAL1",
-        "text_espa": "NORMAL1",
-        "text_port": "NORMAL1",
-        "text_russ": "NORMAL1",
-        "text_fran": "NORMAL1",
-        "text_den": "NORMAL1"
+        "text_espa": "NORMAL 1",
+        "text_port": "NORMAL 1",
+        "text_russ": "НОРМАЛЬНО 1",
+        "text_fran": "NORMAL 1",
+        "text_den": "NORMAL 1"
     },
     {
         "id": "STAGE_TITLE_502602",
         "text_japanese": "NORMAL2",
-        "text_english": "NORMAL2",
+        "text_english": "NORMAL 2",
         "text_korean": "NORMAL2",
-        "text_espa": "NORMAL2",
-        "text_port": "NORMAL2",
-        "text_russ": "NORMAL2",
-        "text_fran": "NORMAL2",
-        "text_den": "NORMAL2"
+        "text_espa": "NORMAL 2",
+        "text_port": "NORMAL 2",
+        "text_russ": "НОРМАЛЬНО 2",
+        "text_fran": "NORMAL 2",
+        "text_den": "NORMAL 2"
     },
     {
         "id": "STAGE_TITLE_502603",
         "text_japanese": "NORMAL3",
-        "text_english": "NORMAL3",
+        "text_english": "NORMAL 3",
         "text_korean": "NORMAL3",
-        "text_espa": "NORMAL3",
-        "text_port": "NORMAL3",
-        "text_russ": "NORMAL3",
-        "text_fran": "NORMAL3",
-        "text_den": "NORMAL3"
+        "text_espa": "NORMAL 3",
+        "text_port": "NORMAL 3",
+        "text_russ": "НОРМАЛЬНО 3",
+        "text_fran": "NORMAL 3",
+        "text_den": "NORMAL 3"
     },
     {
         "id": "STAGE_TITLE_502604",
         "text_japanese": "NORMAL4",
-        "text_english": "NORMAL4",
+        "text_english": "NORMAL 4",
         "text_korean": "NORMAL4",
-        "text_espa": "NORMAL4",
-        "text_port": "NORMAL4",
-        "text_russ": "NORMAL4",
-        "text_fran": "NORMAL4",
-        "text_den": "NORMAL4"
+        "text_espa": "NORMAL 4",
+        "text_port": "NORMAL 4",
+        "text_russ": "НОРМАЛЬНО 4",
+        "text_fran": "NORMAL 4",
+        "text_den": "NORMAL 4"
     },
     {
         "id": "STAGE_TITLE_502605",
         "text_japanese": "NORMAL5",
-        "text_english": "NORMAL5",
+        "text_english": "NORMAL 5",
         "text_korean": "NORMAL5",
-        "text_espa": "NORMAL5",
-        "text_port": "NORMAL5",
-        "text_russ": "NORMAL5",
-        "text_fran": "NORMAL5",
-        "text_den": "NORMAL5"
+        "text_espa": "NORMAL 5",
+        "text_port": "NORMAL 5",
+        "text_russ": "НОРМАЛЬНО 5",
+        "text_fran": "NORMAL 5",
+        "text_den": "NORMAL 5"
     },
     {
         "id": "STAGE_TITLE_502606",
         "text_japanese": "NORMAL6",
-        "text_english": "NORMAL6",
+        "text_english": "NORMAL 6",
         "text_korean": "NORMAL6",
-        "text_espa": "NORMAL6",
-        "text_port": "NORMAL6",
-        "text_russ": "NORMAL6",
-        "text_fran": "NORMAL6",
-        "text_den": "NORMAL6"
+        "text_espa": "NORMAL 6",
+        "text_port": "NORMAL 6",
+        "text_russ": "НОРМАЛЬНО 6",
+        "text_fran": "NORMAL 6",
+        "text_den": "NORMAL 6"
     },
     {
         "id": "STAGE_TITLE_502607",
         "text_japanese": "NORMAL7",
-        "text_english": "NORMAL7",
+        "text_english": "NORMAL 7",
         "text_korean": "NORMAL7",
-        "text_espa": "NORMAL7",
-        "text_port": "NORMAL7",
-        "text_russ": "NORMAL7",
-        "text_fran": "NORMAL7",
-        "text_den": "NORMAL7"
+        "text_espa": "NORMAL 7",
+        "text_port": "NORMAL 7",
+        "text_russ": "НОРМАЛЬНО 7",
+        "text_fran": "NORMAL 7",
+        "text_den": "NORMAL 7"
     },
     {
         "id": "STAGE_TITLE_502608",
         "text_japanese": "NORMAL8",
-        "text_english": "NORMAL8",
+        "text_english": "NORMAL 8",
         "text_korean": "NORMAL8",
-        "text_espa": "NORMAL8",
-        "text_port": "NORMAL8",
-        "text_russ": "NORMAL8",
-        "text_fran": "NORMAL8",
-        "text_den": "NORMAL8"
+        "text_espa": "NORMAL 8",
+        "text_port": "NORMAL 8",
+        "text_russ": "НОРМАЛЬНО 8",
+        "text_fran": "NORMAL 8",
+        "text_den": "NORMAL 8"
     },
     {
         "id": "STAGE_TITLE_502609",
         "text_japanese": "NORMAL9",
-        "text_english": "NORMAL9",
+        "text_english": "NORMAL 9",
         "text_korean": "NORMAL9",
-        "text_espa": "NORMAL9",
-        "text_port": "NORMAL9",
-        "text_russ": "NORMAL9",
-        "text_fran": "NORMAL9",
-        "text_den": "NORMAL9"
+        "text_espa": "NORMAL 9",
+        "text_port": "NORMAL 9",
+        "text_russ": "НОРМАЛЬНО 9",
+        "text_fran": "NORMAL 9",
+        "text_den": "NORMAL 9"
     },
     {
         "id": "STAGE_TITLE_502610",
         "text_japanese": "NORMAL10",
-        "text_english": "NORMAL10",
+        "text_english": "NORMAL 10",
         "text_korean": "NORMAL10",
-        "text_espa": "NORMAL10",
-        "text_port": "NORMAL10",
-        "text_russ": "NORMAL10",
-        "text_fran": "NORMAL10",
-        "text_den": "NORMAL10"
+        "text_espa": "NORMAL 10",
+        "text_port": "NORMAL 10",
+        "text_russ": "НОРМАЛЬНО 10",
+        "text_fran": "NORMAL 10",
+        "text_den": "NORMAL 10"
     },
     {
         "id": "STAGE_TITLE_502611",
         "text_japanese": "NORMAL11",
-        "text_english": "NORMAL11",
+        "text_english": "NORMAL 11",
         "text_korean": "NORMAL11",
-        "text_espa": "NORMAL11",
-        "text_port": "NORMAL11",
-        "text_russ": "NORMAL11",
-        "text_fran": "NORMAL11",
-        "text_den": "NORMAL11"
+        "text_espa": "NORMAL 11",
+        "text_port": "NORMAL 11",
+        "text_russ": "НОРМАЛЬНО 11",
+        "text_fran": "NORMAL 11",
+        "text_den": "NORMAL 11"
     },
     {
         "id": "STAGE_TITLE_502612",
         "text_japanese": "NORMAL12",
-        "text_english": "NORMAL12",
+        "text_english": "NORMAL 12",
         "text_korean": "NORMAL12",
-        "text_espa": "NORMAL12",
-        "text_port": "NORMAL12",
-        "text_russ": "NORMAL12",
-        "text_fran": "NORMAL12",
-        "text_den": "NORMAL12"
+        "text_espa": "NORMAL 12",
+        "text_port": "NORMAL 12",
+        "text_russ": "НОРМАЛЬНО 12",
+        "text_fran": "NORMAL 12",
+        "text_den": "NORMAL 12"
     },
     {
         "id": "STAGE_TITLE_502631",
         "text_japanese": "HARD1",
-        "text_english": "HARD1",
+        "text_english": "HARD 1",
         "text_korean": "HARD1",
-        "text_espa": "HARD1",
-        "text_port": "HARD1",
-        "text_russ": "HARD1",
-        "text_fran": "HARD1",
-        "text_den": "HARD1"
+        "text_espa": "DIFÍCIL 1",
+        "text_port": "DIFÍCIL 1",
+        "text_russ": "СЛОЖНО 1",
+        "text_fran": "DIFFICILE 1",
+        "text_den": "SCHWER 1"
     },
     {
         "id": "STAGE_TITLE_502632",
         "text_japanese": "HARD2",
-        "text_english": "HARD2",
+        "text_english": "HARD 2",
         "text_korean": "HARD2",
-        "text_espa": "HARD2",
-        "text_port": "HARD2",
-        "text_russ": "HARD2",
-        "text_fran": "HARD2",
-        "text_den": "HARD2"
+        "text_espa": "DIFÍCIL 2",
+        "text_port": "DIFÍCIL 2",
+        "text_russ": "СЛОЖНО 2",
+        "text_fran": "DIFFICILE 2",
+        "text_den": "SCHWER 2"
     },
     {
         "id": "STAGE_TITLE_502633",
         "text_japanese": "HARD3",
-        "text_english": "HARD3",
+        "text_english": "HARD 3",
         "text_korean": "HARD3",
-        "text_espa": "HARD3",
-        "text_port": "HARD3",
-        "text_russ": "HARD3",
-        "text_fran": "HARD3",
-        "text_den": "HARD3"
+        "text_espa": "DIFÍCIL 3",
+        "text_port": "DIFÍCIL 3",
+        "text_russ": "СЛОЖНО 3",
+        "text_fran": "DIFFICILE 3",
+        "text_den": "SCHWER 3"
     },
     {
         "id": "STAGE_TITLE_502634",
         "text_japanese": "HARD4",
-        "text_english": "HARD4",
+        "text_english": "HARD 4",
         "text_korean": "HARD4",
-        "text_espa": "HARD4",
-        "text_port": "HARD4",
-        "text_russ": "HARD4",
-        "text_fran": "HARD4",
-        "text_den": "HARD4"
+        "text_espa": "DIFÍCIL 4",
+        "text_port": "DIFÍCIL 4",
+        "text_russ": "СЛОЖНО 4",
+        "text_fran": "DIFFICILE 4",
+        "text_den": "SCHWER 4"
     },
     {
         "id": "STAGE_TITLE_502661",
@@ -33662,178 +33948,178 @@
     {
         "id": "STAGE_TITLE_502701",
         "text_japanese": "NORMAL1",
-        "text_english": "NORMAL1",
+        "text_english": "NORMAL 1",
         "text_korean": "NORMAL1",
-        "text_espa": "NORMAL1",
-        "text_port": "NORMAL1",
-        "text_russ": "NORMAL1",
-        "text_fran": "NORMAL1",
-        "text_den": "NORMAL1"
+        "text_espa": "NORMAL 1",
+        "text_port": "NORMAL 1",
+        "text_russ": "НОРМАЛЬНО 1",
+        "text_fran": "NORMAL 1",
+        "text_den": "NORMAL 1"
     },
     {
         "id": "STAGE_TITLE_502702",
         "text_japanese": "NORMAL2",
-        "text_english": "NORMAL2",
+        "text_english": "NORMAL 2",
         "text_korean": "NORMAL2",
-        "text_espa": "NORMAL2",
-        "text_port": "NORMAL2",
-        "text_russ": "NORMAL2",
-        "text_fran": "NORMAL2",
-        "text_den": "NORMAL2"
+        "text_espa": "NORMAL 2",
+        "text_port": "NORMAL 2",
+        "text_russ": "НОРМАЛЬНО 2",
+        "text_fran": "NORMAL 2",
+        "text_den": "NORMAL 2"
     },
     {
         "id": "STAGE_TITLE_502703",
         "text_japanese": "NORMAL3",
-        "text_english": "NORMAL3",
+        "text_english": "NORMAL 3",
         "text_korean": "NORMAL3",
-        "text_espa": "NORMAL3",
-        "text_port": "NORMAL3",
-        "text_russ": "NORMAL3",
-        "text_fran": "NORMAL3",
-        "text_den": "NORMAL3"
+        "text_espa": "NORMAL 3",
+        "text_port": "NORMAL 3",
+        "text_russ": "НОРМАЛЬНО 3",
+        "text_fran": "NORMAL 3",
+        "text_den": "NORMAL 3"
     },
     {
         "id": "STAGE_TITLE_502704",
         "text_japanese": "NORMAL4",
-        "text_english": "NORMAL4",
+        "text_english": "NORMAL 4",
         "text_korean": "NORMAL4",
-        "text_espa": "NORMAL4",
-        "text_port": "NORMAL4",
-        "text_russ": "NORMAL4",
-        "text_fran": "NORMAL4",
-        "text_den": "NORMAL4"
+        "text_espa": "NORMAL 4",
+        "text_port": "NORMAL 4",
+        "text_russ": "НОРМАЛЬНО 4",
+        "text_fran": "NORMAL 4",
+        "text_den": "NORMAL 4"
     },
     {
         "id": "STAGE_TITLE_502705",
         "text_japanese": "NORMAL5",
-        "text_english": "NORMAL5",
+        "text_english": "NORMAL 5",
         "text_korean": "NORMAL5",
-        "text_espa": "NORMAL5",
-        "text_port": "NORMAL5",
-        "text_russ": "NORMAL5",
-        "text_fran": "NORMAL5",
-        "text_den": "NORMAL5"
+        "text_espa": "NORMAL 5",
+        "text_port": "NORMAL 5",
+        "text_russ": "НОРМАЛЬНО 5",
+        "text_fran": "NORMAL 5",
+        "text_den": "NORMAL 5"
     },
     {
         "id": "STAGE_TITLE_502706",
         "text_japanese": "NORMAL6",
-        "text_english": "NORMAL6",
+        "text_english": "NORMAL 6",
         "text_korean": "NORMAL6",
-        "text_espa": "NORMAL6",
-        "text_port": "NORMAL6",
-        "text_russ": "NORMAL6",
-        "text_fran": "NORMAL6",
-        "text_den": "NORMAL6"
+        "text_espa": "NORMAL 6",
+        "text_port": "NORMAL 6",
+        "text_russ": "НОРМАЛЬНО 6",
+        "text_fran": "NORMAL 6",
+        "text_den": "NORMAL 6"
     },
     {
         "id": "STAGE_TITLE_502707",
         "text_japanese": "NORMAL7",
-        "text_english": "NORMAL7",
+        "text_english": "NORMAL 7",
         "text_korean": "NORMAL7",
-        "text_espa": "NORMAL7",
-        "text_port": "NORMAL7",
-        "text_russ": "NORMAL7",
-        "text_fran": "NORMAL7",
-        "text_den": "NORMAL7"
+        "text_espa": "NORMAL 7",
+        "text_port": "NORMAL 7",
+        "text_russ": "НОРМАЛЬНО 7",
+        "text_fran": "NORMAL 7",
+        "text_den": "NORMAL 7"
     },
     {
         "id": "STAGE_TITLE_502708",
         "text_japanese": "NORMAL8",
-        "text_english": "NORMAL8",
+        "text_english": "NORMAL 8",
         "text_korean": "NORMAL8",
-        "text_espa": "NORMAL8",
-        "text_port": "NORMAL8",
-        "text_russ": "NORMAL8",
-        "text_fran": "NORMAL8",
-        "text_den": "NORMAL8"
+        "text_espa": "NORMAL 8",
+        "text_port": "NORMAL 8",
+        "text_russ": "НОРМАЛЬНО 8",
+        "text_fran": "NORMAL 8",
+        "text_den": "NORMAL 8"
     },
     {
         "id": "STAGE_TITLE_502709",
         "text_japanese": "NORMAL9",
-        "text_english": "NORMAL9",
+        "text_english": "NORMAL 9",
         "text_korean": "NORMAL9",
-        "text_espa": "NORMAL9",
-        "text_port": "NORMAL9",
-        "text_russ": "NORMAL9",
-        "text_fran": "NORMAL9",
-        "text_den": "NORMAL9"
+        "text_espa": "NORMAL 9",
+        "text_port": "NORMAL 9",
+        "text_russ": "НОРМАЛЬНО 9",
+        "text_fran": "NORMAL 9",
+        "text_den": "NORMAL 9"
     },
     {
         "id": "STAGE_TITLE_502710",
         "text_japanese": "NORMAL10",
-        "text_english": "NORMAL10",
+        "text_english": "NORMAL 10",
         "text_korean": "NORMAL10",
-        "text_espa": "NORMAL10",
-        "text_port": "NORMAL10",
-        "text_russ": "NORMAL10",
-        "text_fran": "NORMAL10",
-        "text_den": "NORMAL10"
+        "text_espa": "NORMAL 10",
+        "text_port": "NORMAL 10",
+        "text_russ": "НОРМАЛЬНО 10",
+        "text_fran": "NORMAL 10",
+        "text_den": "NORMAL 10"
     },
     {
         "id": "STAGE_TITLE_502711",
         "text_japanese": "NORMAL11",
-        "text_english": "NORMAL11",
+        "text_english": "NORMAL 11",
         "text_korean": "NORMAL11",
-        "text_espa": "NORMAL11",
-        "text_port": "NORMAL11",
-        "text_russ": "NORMAL11",
-        "text_fran": "NORMAL11",
-        "text_den": "NORMAL11"
+        "text_espa": "NORMAL 11",
+        "text_port": "NORMAL 11",
+        "text_russ": "НОРМАЛЬНО 11",
+        "text_fran": "NORMAL 11",
+        "text_den": "NORMAL 11"
     },
     {
         "id": "STAGE_TITLE_502712",
         "text_japanese": "NORMAL12",
-        "text_english": "NORMAL12",
+        "text_english": "NORMAL 12",
         "text_korean": "NORMAL12",
-        "text_espa": "NORMAL12",
-        "text_port": "NORMAL12",
-        "text_russ": "NORMAL12",
-        "text_fran": "NORMAL12",
-        "text_den": "NORMAL12"
+        "text_espa": "NORMAL 12",
+        "text_port": "NORMAL 12",
+        "text_russ": "НОРМАЛЬНО 12",
+        "text_fran": "NORMAL 12",
+        "text_den": "NORMAL 12"
     },
     {
         "id": "STAGE_TITLE_502731",
         "text_japanese": "HARD1",
-        "text_english": "HARD1",
+        "text_english": "HARD 1",
         "text_korean": "HARD1",
-        "text_espa": "HARD1",
-        "text_port": "HARD1",
-        "text_russ": "HARD1",
-        "text_fran": "HARD1",
-        "text_den": "HARD1"
+        "text_espa": "DIFÍCIL 1",
+        "text_port": "DIFÍCIL 1",
+        "text_russ": "СЛОЖНО 1",
+        "text_fran": "DIFFICILE 1",
+        "text_den": "SCHWER 1"
     },
     {
         "id": "STAGE_TITLE_502732",
         "text_japanese": "HARD2",
-        "text_english": "HARD2",
+        "text_english": "HARD 2",
         "text_korean": "HARD2",
-        "text_espa": "HARD2",
-        "text_port": "HARD2",
-        "text_russ": "HARD2",
-        "text_fran": "HARD2",
-        "text_den": "HARD2"
+        "text_espa": "DIFÍCIL 2",
+        "text_port": "DIFÍCIL 2",
+        "text_russ": "СЛОЖНО 2",
+        "text_fran": "DIFFICILE 2",
+        "text_den": "SCHWER 2"
     },
     {
         "id": "STAGE_TITLE_502733",
         "text_japanese": "HARD3",
-        "text_english": "HARD3",
+        "text_english": "HARD 3",
         "text_korean": "HARD3",
-        "text_espa": "HARD3",
-        "text_port": "HARD3",
-        "text_russ": "HARD3",
-        "text_fran": "HARD3",
-        "text_den": "HARD3"
+        "text_espa": "DIFÍCIL 3",
+        "text_port": "DIFÍCIL 3",
+        "text_russ": "СЛОЖНО 3",
+        "text_fran": "DIFFICILE 3",
+        "text_den": "SCHWER 3"
     },
     {
         "id": "STAGE_TITLE_502734",
         "text_japanese": "HARD4",
-        "text_english": "HARD4",
+        "text_english": "HARD 4",
         "text_korean": "HARD4",
-        "text_espa": "HARD4",
-        "text_port": "HARD4",
-        "text_russ": "HARD4",
-        "text_fran": "HARD4",
-        "text_den": "HARD4"
+        "text_espa": "DIFÍCIL 4",
+        "text_port": "DIFÍCIL 4",
+        "text_russ": "СЛОЖНО 4",
+        "text_fran": "DIFFICILE 4",
+        "text_den": "SCHWER 4"
     },
     {
         "id": "STAGE_TITLE_502761",
@@ -33842,7 +34128,7 @@
         "text_korean": "NORMAL",
         "text_espa": "NORMAL",
         "text_port": "NORMAL",
-        "text_russ": "NORMAL",
+        "text_russ": "НОРМАЛЬНО",
         "text_fran": "NORMAL",
         "text_den": "NORMAL"
     },
@@ -33851,22 +34137,22 @@
         "text_japanese": "HARD",
         "text_english": "HARD",
         "text_korean": "HARD",
-        "text_espa": "HARD",
-        "text_port": "HARD",
-        "text_russ": "HARD",
-        "text_fran": "HARD",
-        "text_den": "HARD"
+        "text_espa": "DIFÍCIL",
+        "text_port": "DIFÍCIL",
+        "text_russ": "СЛОЖНО",
+        "text_fran": "DIFFICILE",
+        "text_den": "SCHWER"
     },
     {
         "id": "STAGE_TITLE_502763",
         "text_japanese": "EXPERT",
         "text_english": "EXPERT",
         "text_korean": "EXPERT",
-        "text_espa": "EXPERT",
+        "text_espa": "EXPERTO",
         "text_port": "EXPERT",
-        "text_russ": "EXPERT",
+        "text_russ": "ЭКСПЕРТ",
         "text_fran": "EXPERT",
-        "text_den": "EXPERT"
+        "text_den": "PROFI"
     },
     {
         "id": "STAGE_TITLE_502861",
@@ -39539,16 +39825,16 @@
         "text_english": "Appa x1",
         "text_korean": "삼과×1",
         "text_espa": "Zana x1",
-        "text_port": "Ringa x1",
+        "text_port": "Matiã x1",
         "text_russ": "Аблоко",
         "text_fran": "Pamme x1",
-        "text_den": "1x Appa"
+        "text_den": "1x Apafal"
     },
     {
         "id": "TEXT_EXCHANGE_EVENT_ITEM60243",
         "text_japanese": "鬼鉄球の巻物×1",
         "text_english": "Scroll: Rem's Morningstar x1",
-        "text_korean": "오니 철퇴의 비전×1",
+        "text_korean": "도깨비 철퇴의 비전×1",
         "text_espa": "Papiro: Lucero del alba de Rem x1",
         "text_port": "Papiro: Mangual da Rem x1",
         "text_russ": "Свиток: моргенштерн Рем",
@@ -56530,9 +56816,9 @@
     },
     {
         "id": "MISSION_EVENT_52102101",
-        "text_japanese": "［この始まりの街に正月を！］ボスを200回撃退しよう",
+        "text_japanese": "［デイリー］［この不憫な転生者にチョコレートを！］ボスを3回撃退しよう",
         "text_english": "[Daily] Defeat the Chocolate for This Pitiful Soul! boss 3 times.",
-        "text_korean": "[이 시작의 마을에 설날을!] 보스 200회 처치",
+        "text_korean": "[일일] [이 안쓰러운 전생자에게 초콜릿을!] 보스 3회 처치",
         "text_espa": "[Diario] Derrota 3 veces al jefe de ¡Chocolate para esta pobre alma!",
         "text_port": "[Diário] Derrote o chefe do Chocolates para Esta Pobre Alma! 3 vezes.",
         "text_russ": "[Ежедн.] Победите босса события «Шоколад для этого несчастного!» 3 раза.",
@@ -58853,7 +59139,7 @@
         "id": "TEXT_SHOP_ITEM_31003_DESC",
         "text_japanese": "120クオーツ(有償) + 大師範の武芸書 x 20 + 師範の武芸書 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Grandmaster's Manuscripts + 30 Master's Manuscripts + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대사부의 무예서 20개 + 사부의 무예서 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
+        "text_korean": "120 쿼츠(유료) + 대사부의 무예서 20개 + 사부의 무예서 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Manuscrito del gran maestro + 30 Manuscrito del maestro + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Manuscritos do Grande Mestre + 30 Manuscritos do Mestre + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 манускриптов великого мастера + 30 манускриптов мастера + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -58864,7 +59150,7 @@
         "id": "TEXT_SHOP_ITEM_31004_DESC",
         "text_japanese": "120クオーツ(有償) + 大司教の石板 x 20 + 司教の石板 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Archbishop's Slates + 30 Bishop's Slates + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대주교의 석판 20개 + 주교의 석판 30개 + 에리스 25만 + 전설의 성배 10개 + 금빛 성배 +20개",
+        "text_korean": "120 쿼츠(유료) + 대주교의 석판 20개 + 주교의 석판 30개 + 에리스 25만 + 전설의 성배 10개 + 금빛 성배 +20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Reliquia de arzobispo + 30 Reliquia de obispo + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Tabuletas do Arcebispo + 30 Tabuletas do Bispo + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 скрижалей архиепископа + 30 скрижалей епископа + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -58875,7 +59161,7 @@
         "id": "TEXT_SHOP_ITEM_31005_DESC",
         "text_japanese": "120クオーツ(有償) + 大魔術師の魔導書 x 20 + 魔術師の魔導書 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Grand Sorcerer's Grimoires + 30 Sorcerer's Grimoires + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대마술사의 마도서 20개 + 마술사의 마도서 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
+        "text_korean": "120 쿼츠(유료) + 대마술사의 마도서 20개 + 마술사의 마도서 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Grimorio del gran hechicero + 30 Grimorio del hechicero + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Grimórios do Grande Feiticeiro + 30 Grimórios do Feiticeiro + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 гримуаров великой волшебницы + 30 гримуаров волшебницы + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -58886,7 +59172,7 @@
         "id": "TEXT_SHOP_ITEM_31006_DESC",
         "text_japanese": "120クオーツ(有償) + 大仙人の霊薬 x 20 + 仙人の霊薬 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Eremite's Elixirs + 30 Hermit's Elixirs + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대라신선의 영약 20개 + 신선의 영약 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
+        "text_korean": "120 쿼츠(유료) + 대라신선의 영약 20개 + 신선의 영약 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Elixir del eremita + 30 Elixir del ermitaño + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Elixires do Cenobita + 30 Elixires do Eremita + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 эликсиров отшельника + 30 эликсиров отшельницы + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -58897,7 +59183,7 @@
         "id": "TEXT_SHOP_ITEM_31007_DESC",
         "text_japanese": "120クオーツ(有償) + 大預言者の水晶 x 20 + 預言者の水晶 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Great Seer's Crystals + 30 Seer's Crystals + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대예언자의 수정 20개 + 예언자의 수정 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
+        "text_korean": "120 쿼츠(유료) + 대예언자의 수정 20개 + 예언자의 수정 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Cristal de gran adivino + 30 Cristal del adivino + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Cristais da Grã-Vidente + 30 Cristais da Vidente + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 кристаллов великого провидца + 30 кристаллов провидца + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -58908,7 +59194,7 @@
         "id": "TEXT_SHOP_ITEM_31008_DESC",
         "text_japanese": "120クオーツ(有償) + 大賢者の宝珠 x 20 + 賢者の宝珠 x 30 + 25万エリス + 伝説の聖杯 x 10 + 金の聖杯 x 20",
         "text_english": "120 Quartz (Paid) + 20 Great Sage's Gems + 30 Sage's Gems + 250,000 Eris + 10 Legendary Chalices + 20 Golden Chalices",
-        "text_korean": "120쿼츠(유료) + 대현자의 보주 20개 + 현자의 보주 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
+        "text_korean": "120 쿼츠(유료) + 대현자의 보주 20개 + 현자의 보주 30개 + 에리스 25만 +전설의 성배 10개 + 금빛 성배 20개",
         "text_espa": "120 Cuarzo(De pago) + 20 Gema del gran sabio + 30 Gema del sabio + 250000 Eris + 10 Cáliz legendario + 20 Cáliz de oro",
         "text_port": "120 de Quartzo (Pago) + 20 Gemas do Grande Sábio + 30 Gemas do Sábio + 250.000 Eris + 10 Cálices Lendários + 20 Cálices Dourados",
         "text_russ": "120 шт. плат. кварца + 20 самоцветов великого мудреца + 30 самоцветов мудреца + 250 000 эрис + 10 легендарных чаш + 20 золотых чаш",
@@ -59007,7 +59293,7 @@
         "id": "TEXT_SHOP_ITEM_31023_DESC",
         "text_japanese": "1,500クオーツ(有償) + スタミナビーフ x 20 + スキップチケット x 200",
         "text_english": "1,500 Quartz (Paid) + 20 Stamina Beef + 200 Skip Tickets",
-        "text_korean": "1,500쿼츠(유료) + 스태미나 비프 20개 + 스킵 티켓 200개",
+        "text_korean": "1,500 쿼츠(유료) + 스태미나 비프 20개 + 스킵 티켓 200개",
         "text_espa": "1500 Cuarzo(De pago) + 20 Carne de energía + 200 Boleto para omitir",
         "text_port": "1.500 de Quartzo (Pago) + 20 Bifes de Vigor + 200 Cupons de Pulo",
         "text_russ": "1500 шт. платного кварца + 20 окороков выносливости + 200 билетов пропуска",
@@ -59018,7 +59304,7 @@
         "id": "TEXT_SHOP_ITEM_310241_DESC",
         "text_japanese": "5,000クオーツ(有償) + ★4確定ガチャチケット x 1 + スキップチケット x 100 + 100万エリス",
         "text_english": "5,000 Quartz (Paid) + 4★ Guaranteed Ticket x1 + 100 Skip Tickets + 1,000,000 Eris",
-        "text_korean": "5,000쿼츠(유료) + ★4 확정 뽑기 티켓 1개 + 스킵 티켓 100개 + 에리스 100만",
+        "text_korean": "5,000 쿼츠(유료) + ★4 확정 뽑기 티켓 1개 + 스킵 티켓 100개 + 에리스 100만",
         "text_espa": "5000 Cuarzo(De pago) + 1 Boleto de 4★ garantizado + 100 Boleto para omitir + 1M Eris",
         "text_port": "5.000 de Quartzo (Pago) + 1 Cupom de 4★ Garantido + 100 Cupons de Pulo + 1,000,000 Eris",
         "text_russ": "5000 шт. плат. кварца + билет на гарантированного новобранца 4★ + 100 билетов пропуска + 1 млн эрис",
@@ -59029,7 +59315,7 @@
         "id": "TEXT_SHOP_ITEM_31035_DESC",
         "text_japanese": "1,000クオーツ(有償) + 強化石(大) x 25 + 強化石(中) x 50 + 強化石(小) x 75",
         "text_english": "1,000 Quartz (Paid) + 25 Significant Upgrade Stones + 50 Moderate Upgrade Stones + 75 Minor Upgrade Stones",
-        "text_korean": "1,000쿼츠(유료) + 강화석(대) 25개 + 강화석(중) 50개 + 강화석(소) 75개",
+        "text_korean": "1,000 쿼츠(유료) + 강화석(대) 25개 + 강화석(중) 50개 + 강화석(소) 75개",
         "text_espa": "1000 Cuarzo(De pago) + 25 Piedra de mejora considerable + 50 Piedra de mejora moderada + 75 Piedra de mejora menor",
         "text_port": "1.000 de Quartzo (Pago) + 25 Pedras de Melhoria Considerável + 50 Pedras de Melhoria Moderada + 75 Pedras de Melhoria Inferior",
         "text_russ": "1000 шт. плат. кварца + 25 камней значительного улучшения + 50 камней умеренного улучшения + 75 камней малого улучшения",
@@ -59040,7 +59326,7 @@
         "id": "TEXT_SHOP_ITEM_31036_DESC",
         "text_japanese": "2,000クオーツ(有償) + 強化石(大) x 50 + 強化石(中) x 100 + 強化石(小) x 150",
         "text_english": "2,000 Quartz (Paid) + 50 Significant Upgrade Stones + 100 Moderate Upgrade Stones + 150 Minor Upgrade Stones",
-        "text_korean": "2,000쿼츠(유료) + 강화석(대) 50개 + 강화석(중) 100개 + 강화석(소) 150개",
+        "text_korean": "2,000 쿼츠(유료) + 강화석(대) 50개 + 강화석(중) 100개 + 강화석(소) 150개",
         "text_espa": "2000 Cuarzo(De pago) + 50 Piedra de mejora considerable + 100 Piedra de mejora moderada + 150 Piedra de mejora menor",
         "text_port": "2.000 de Quartzo (Pago) + 50 Pedras de Melhoria Considerável + 100 Pedras de Melhoria Moderada + 150 Pedras de Melhoria Inferior",
         "text_russ": "2000 шт. плат. кварца + 50 камней значительного улучшения + 100 камней умеренного улучшения + 150 камней малого улучшения",
@@ -59051,7 +59337,7 @@
         "id": "TEXT_SHOP_ITEM_13110_DESC",
         "text_japanese": "3,060クオーツ(有償)即時支給！さらにランクアップごとに600クオーツ(無償)追加支給",
         "text_english": "3,060 Quartz (Paid) + 600 Additional Quartz (Free) upon reaching each rank",
-        "text_korean": "3,060 쿼츠(유료) 지급 + 각 랭크 달성 시 600 쿼츠(무료) 추가 지급",
+        "text_korean": "3,060 쿼츠(유) 지급, 랭크 달성 시 600쿼츠(무) 추가 지급",
         "text_espa": "3060 Cuarzo(De pago) + 600 Cuarzo(Gratis) adicional al alcanzar cada rango",
         "text_port": "3.060 de Quartzo (Pago) + 600 de Quartzo Adicional (Grátis) a cada ranque",
         "text_russ": "3060 шт. плат. кварца + еще 600 шт. бесплат. кварца при достижении каждого ранга",
@@ -59095,7 +59381,7 @@
         "id": "TEXT_SHOP_ITEM_31043_DESC",
         "text_japanese": "1,000クオーツ(有償) + スタミナビーフ x 10 + スキップチケット x 100",
         "text_english": "1,000 Quartz (Paid) + 10 Stamina Beef + 100 Skip Tickets",
-        "text_korean": "1,000쿼츠(유료) + 스태미나 비프 10개 + 스킵 티켓 100개",
+        "text_korean": "1,000 쿼츠(유료) + 스태미나 비프 10개 + 스킵티켓 100개",
         "text_espa": "1000 Cuarzo(De pago) + 10 Carne de energía + 100 Boleto para omitir",
         "text_port": "1.000 Quartzo (Pago) + 10 Bifes de Vigor + 100 Cupons de Pulo",
         "text_russ": "1000 шт. платного кварца + 10 окороков выносливости + 100 билетов пропуска",
@@ -59222,5 +59508,203 @@
         "text_russ": "Уникальное зелье навыков",
         "text_fran": "Potion de compétence unique x1",
         "text_den": "1x einzigartiger Fertigkeitstrank"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31015_DESC",
+        "text_japanese": "3,500クオーツ(有償) + 3,500クオーツ(無償)",
+        "text_english": "3,500 Quartz (Paid) + 3,500 Quartz (Free)",
+        "text_korean": "3,500 쿼츠(유) + 3,500 쿼츠(무료) ",
+        "text_espa": "3500 Cuarzo(De pago) + 3500 Cuarzo(Gratis)",
+        "text_port": "3.500 de Quartzo (Pago) + 3.500 de Quartzo (Grátis)",
+        "text_russ": "3500 шт. платного кварца + 3500 шт. бесплатного кварца",
+        "text_fran": "3500 Quartz (payant) + 3500 Quartz (gratuit)",
+        "text_den": "3.500 Quartz (Kostenpflichtig) + 3.500 Quartz (Kostenlos)"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31016_DESC",
+        "text_japanese": "5,500クオーツ(有償) + 5,500クオーツ(無償)",
+        "text_english": "5,500 Quartz (Paid) + 5,500 Quartz (Free)",
+        "text_korean": "5,500 쿼츠(유) + 5,500 쿼츠(무료) ",
+        "text_espa": "5500 Cuarzo(De pago) + 5500 Cuarzo(Gratis)",
+        "text_port": "5.500 de Quartzo (Pago) + 5.500 de Quartzo (Grátis)",
+        "text_russ": "5500 шт. платного кварца + 5500 шт. бесплатного кварца",
+        "text_fran": "5500 Quartz (payant) + 5500 Quartz (gratuit)",
+        "text_den": "5.500 Quartz (Kostenpflichtig) + 5.500 Quartz (Kostenlos)"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31017_DESC",
+        "text_japanese": "11,000クオーツ(有償) + 11,000クオーツ(無償)",
+        "text_english": "11,000 Quartz (Paid) + 11,000 Quartz (Free)",
+        "text_korean": "11,000 쿼츠(유) + 11,000 쿼츠(무료) ",
+        "text_espa": "11000 Cuarzo(De pago) + 11000 Cuarzo(Gratis)",
+        "text_port": "11.000 de Quartzo (Pago) + 11.000 de Quartzo (Grátis)",
+        "text_russ": "11000 шт. платного кварца + 11000 шт. бесплатного кварца",
+        "text_fran": "11000 Quartz (payant) + 11000 Quartz (gratuit)",
+        "text_den": "11.000 Quartz (Kostenpflichtig) + 11.000 Quartz (Kostenlos)"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31051_DESC",
+        "text_japanese": "7,500クオーツ(有償) + スキルポーション x 2 + スキップチケット x 500 + リンガ x 50",
+        "text_english": "7,500 Paid Quartz + 2 Skill Potions + 500 Skip Tickets + 50 Appas",
+        "text_korean": "7,500 쿼츠(유) + 스킬포션 2개 + 스킵티켓 500개 + 삼과 50개",
+        "text_espa": "7500 CP + 2 pociones de habilidad + 500 bol. omitir + 50 zanas",
+        "text_port": "7.500 Quartzo Pago + 2 Poções de Habilidade + 500 Cupons de Pulo + 50 Matiãs",
+        "text_russ": "7500 пл. кварца + 2 зелья навыков + 500 билетов проп. + 50 аблок",
+        "text_fran": "7500 Quartz payant + 2 PdC + 500 combats auto + 50 pammes",
+        "text_den": "7.500 kp. Quartz + 2 Fert.tränke + 500 Überspr.tickets + 50 Äpafal"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31052_DESC",
+        "text_japanese": "1,500クオーツ(有償) + スタミナビーフ x 15 + スキップチケット x 200 + リンガ x 10",
+        "text_english": "1,500 Paid Quartz + 15 Stamina Beef + 200 Skip Tickets + 10 Appas",
+        "text_korean": "1,500 쿼츠(유) + 스태미나 비프 15개+ 스킵티켓 200개 + 삼과 10개",
+        "text_espa": "1500 CP + 15 carne de energía + 200 bol. omitir + 10 zanas",
+        "text_port": "1500 Qtz Pg + 15 Bifes de Vigor + 200 Cupons Pulo + 10 Matiãs",
+        "text_russ": "1500 пл. кварца + 15 окор. выносл. + 200 бил. проп. + 10 аблок",
+        "text_fran": "1500 Quartz payant + 15 bœufs end. + 200 combats auto + 10 pammes",
+        "text_den": "1.500 kp. Quartz + 15 Ausd.-Rindfl. + 200 Überspr.t. + 10 Appas"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31053_DESC",
+        "text_japanese": "3,060クオーツ(有償) + 強化石(特大) x 1 + 強化石(大) x 50 + 強化石(中) x 100 + リンガ x 30",
+        "text_english": "3,060 Paid Quartz + 1 Superior Upgrade Stone + 50 Significant Upgrade Stones + 100 Moderate Upgrade Stones + 30 Appas",
+        "text_korean": "3,060 쿼츠(유) + 강화석(특대)x1 + 강화석(대)x50 + 강화석(중)x100 + 삼과 30개",
+        "text_espa": "3060 CP + 1 piedra de mejora superior + 50 piedras de mejora considerable + 100 piedras de mejora moderada + 30 zanas",
+        "text_port": "3060 Quartzos Pagos + 1 PM Superior + 50 PM Consideráveis + 100 PM Moderadas + 30 Matiãs",
+        "text_russ": "3060 пл. кварца + 1 камень огромн. улучш. + 50 камней значит. улучш. + 100 камней умерен. улучш. + 30 аблок",
+        "text_fran": "3060 Quartz payant + 1 pierre am. supérieure + 50 pierres am. considérables + 100 pierres am. modérées + 30 pammes",
+        "text_den": "3.060 kp. Quartz + 1 überl. Verbesserungsstein+ 50 bed. Verbesserungssteine + 100 mod. Verbesserungssteine + 30 Appas"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31054_DESC",
+        "text_japanese": "3,060クオーツ(有償) + スタミナビーフ x 20 + スキップチケット x 200 + 冬対策パック メンバーセレクトチケット x 1",
+        "text_english": "3,060 Paid Quartz + 20 Stamina Beef + 200 Skip Tickets + 1 Winter Special Pack Character Selection Ticket",
+        "text_korean": "3,060 쿼츠(유) + 스태미나 비프 20개 + 스킵 티켓 200개 + 겨울맞이 팩 멤버 선택권 1개",
+        "text_espa": "3.060 CP + 20 carne de energía + 200 bol. omitir + 1 Paq. esp. invierno Boleto de selección de personaje",
+        "text_port": "3060 Qtz Pg + 20 Bifes de Vigor + 200 Cupons de Pulo + 1 Pct Esp Inverno Cupom de Seleção de Personagem",
+        "text_russ": "3060 пл. кварца + 20 окор. выносл. + 200 бил. проп. + 1 Особый зимний набор Билет выбора персонажа",
+        "text_fran": "3060 Quartz payant + 20 bœufs d'endurance + 200 combats auto + 1 Pack spécial hiver Ticket de sélection de personnage",
+        "text_den": "3.060 kp. Quartz + 20 Ausd.-Rindfl. + 200 Überspr.t. + 1 Winter-Spezial-Pack Charakterwahl-Ticket"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31022_DESC",
+        "text_japanese": "1,500クオーツ(有償) + ★3以上確定ガチャチケット x 1 + スキップチケット x 100",
+        "text_english": "1,500 Paid Quartz + 3★ Guaranteed Recruit Ticket x1 + 100 Skip Tickets",
+        "text_korean": "1,500 쿼츠(유) + ★3이상 확정 뽑기권 + 스킵 티켓 100개",
+        "text_espa": "1500 CP + 1 boleto de recluta de 3★ garantizado + 100 bol. omitir",
+        "text_port": "1.500 Qtz Pg + Cupom Recrutamento 3★ Garantido x1 + 100 Cupons de Pulo",
+        "text_russ": "1500 пл. кварца + билет на гарантир. новобранца 3★ + 100 бил. проп.",
+        "text_fran": "1500 Quartz payant + Ticket 3★ garanti x1 + 100 combats auto",
+        "text_den": "1.500 kp. Quartz + 1 Rekrut.ticket 3★ garantiert + 100 Überspr.tickets"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13500_DESC",
+        "text_japanese": "1,500クオーツ(有償)即時支給！さらにクエストクリアすると900クオーツ(無償)追加支給",
+        "text_english": "1500 Paid Quartz instantly and 900 Free Quartz on quest clears.",
+        "text_korean": "1,500 쿼츠(유) 즉시 지급! 퀘스트 클리어 시 900쿼츠(무) 추가 지급",
+        "text_espa": "1500 CP al instante y 900 CG al completar misiones.",
+        "text_port": "1500 Qtz Pagos na hora e 900 Qtz Grátis ao concluir missões.",
+        "text_russ": "1500 пл. кварца сразу и 900 беспл. кварца за выполн. заданий.",
+        "text_fran": "1500 Quartz payant immédiatement + 900 gratuit après quêtes.",
+        "text_den": "1.500 kp. Quartz sofort und 900 kl. Quartz bei Questabschluss."
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13120_DESC",
+        "text_japanese": "3,060クオーツ(有償)即時支給！さらにランクアップごとに700クオーツ(無償)追加支給",
+        "text_english": "3060 Paid Quartz instantly and 700 Free Quartz upon rank up.",
+        "text_korean": "3,060 쿼츠(유) 즉시 지급, 랭크업 할 때마다 700 쿼츠(무) 지급",
+        "text_espa": "3060 CP al instante y 700 CG al subir de rango.",
+        "text_port": "3060 Qtz Pagos na hora e 700 Qtz Grátis ao subir de ranque.",
+        "text_russ": "3060 пл. кварца сразу и 700 беспл. кварца за новый ранг.",
+        "text_fran": "3060 Quartz payant immédiatement + 700 gratuit après rang+.",
+        "text_den": "3.060 kp. Quartz sofort und 700 kl. Quartz bei Rangaufstieg."
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31051",
+        "text_japanese": "コラボ記念パック１",
+        "text_english": "Collaboration Pack 1",
+        "text_korean": "콜라보 기념 팩 1",
+        "text_espa": "Paquete de colaboración 1",
+        "text_port": "Pacote de Colaboração 1",
+        "text_russ": "Набор кроссовера 1",
+        "text_fran": "Pack Collaboration 1",
+        "text_den": "Kollaborationspack 1"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31052",
+        "text_japanese": "コラボ記念パック２",
+        "text_english": "Collaboration Pack 2",
+        "text_korean": "콜라보 기념 팩 2",
+        "text_espa": "Paquete de colaboración 2",
+        "text_port": "Pacote de Colaboração 2",
+        "text_russ": "Набор кроссовера 2",
+        "text_fran": "Pack Collaboration 2",
+        "text_den": "Kollaborationspack 2"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31053",
+        "text_japanese": "コラボ記念強化石パック",
+        "text_english": "Collaboration Upgrade Stone Pack",
+        "text_korean": "콜라보 기념 강화석 팩",
+        "text_espa": "Paquete de piedra de mejora de colaboración",
+        "text_port": "Pacote de Pedra de Melhoria de Colaboração",
+        "text_russ": "Набор кроссовера с камнями улучшения",
+        "text_fran": "Pack Collaboration (pierres d'amélioration)",
+        "text_den": "Kollaborations-Verbesserungssteinpack"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_31054",
+        "text_japanese": "冬対策パック",
+        "text_english": "Winter Special Pack",
+        "text_korean": "겨울맞이 팩",
+        "text_espa": "Paq. esp. invierno",
+        "text_port": "Pct Esp Inverno",
+        "text_russ": "Особый зимний набор",
+        "text_fran": "Pack spécial hiver",
+        "text_den": "Winter-Spezial-Pack"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13500",
+        "text_japanese": "メインクエスト達成パック (10章 NORMAL)",
+        "text_english": "Quest Booster (Ch. 10 Normal)",
+        "text_korean": "메인 퀘스트 달성 팩(노멀 10장)",
+        "text_espa": "Aum. misión (Cap. 10 Normal)",
+        "text_port": "Boost Missão (Cap. 10 Normal)",
+        "text_russ": "Бустер заданий (гл. 10 норм.)",
+        "text_fran": "Boost quête (ch. 10 normal)",
+        "text_den": "Quest-Booster (K. 10 normal)"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13120",
+        "text_japanese": "冒険者ランクアップパック (ランク51～70)",
+        "text_english": "Adventurer Rank Pack (51 - 70)",
+        "text_korean": "모험가 랭크업 팩(랭크 51~70)",
+        "text_espa": "Paq. rango aventurero (51-70)",
+        "text_port": "Pct. Rq. Aventureiro (51-70)",
+        "text_russ": "Набор повышения ранга (51-70)",
+        "text_fran": "Pack de rang d'avent. (51-70)",
+        "text_den": "Abenteurer-Rang-Pack (51-70)"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13300_DESC",
+        "text_japanese": "1,500クオーツ(有償)即時支給！さらにクエストクリアすると700クオーツ(無償)追加支給",
+        "text_english": "1500 Paid Quartz instantly and 700 Free Quartz on quest clears.",
+        "text_korean": "1,500 쿼츠(유) 즉시 지급, 퀘스트 클리어 시 700쿼츠(무) 지급",
+        "text_espa": "1500 CP al instante y 700 CG al completar misiones.",
+        "text_port": "1500 Qtz Pagos na hora e 700 Qtz Grátis ao concluir missões.",
+        "text_russ": "1500 пл. кварца сразу и 700 беспл. кварца за выполн. заданий.",
+        "text_fran": "1500 Quartz payant immédiatement + 700 gratuit après quêtes.",
+        "text_den": "1.500 kp. Quartz sofort und 700 kl. Quartz bei Questabschluss."
+    },
+    {
+        "id": "TEXT_EXCHANGE20084_1",
+        "text_japanese": "冬対策パックメンバーセレクトチケット",
+        "text_english": "Winter Special Pack Character Selection Ticket",
+        "text_korean": "겨울맞이 팩 멤버 선택권",
+        "text_espa": "Paq. esp. invierno Boleto de selección de personaje",
+        "text_port": "Pct Esp Inverno Cupom de Seleção de Personagem",
+        "text_russ": "Особый зимний набор Билет выбора персонажа",
+        "text_fran": "Pack spécial hiver Ticket de sélection de personnage",
+        "text_den": "Winter-Spezial-Pack Charakterwahl-Ticket"
     }
 ]

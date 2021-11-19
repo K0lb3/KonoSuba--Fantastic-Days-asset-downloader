@@ -970,13 +970,13 @@
     {
         "id": "COMMON_STORY_EVENT",
         "text_japanese": "イベントストーリー",
-        "text_english": "Story",
+        "text_english": "Event Story",
         "text_korean": "이벤트 스토리",
-        "text_espa": "Historia",
-        "text_port": "História",
-        "text_russ": "История",
-        "text_fran": "Scénario",
-        "text_den": "Story"
+        "text_espa": "Historia de evento",
+        "text_port": "História de Evento",
+        "text_russ": "Сюжет события",
+        "text_fran": "Scénario d'événement",
+        "text_den": "Event-Story"
     },
     {
         "id": "COMMON_STORY_REMINISCENCE",
@@ -7618,7 +7618,7 @@
         "text_korean": "신청 취소",
         "text_espa": "Cancelar solicitud",
         "text_port": "Cancelar solicitação",
-        "text_russ": "Отменить запрос",
+        "text_russ": "Отменить",
         "text_fran": "Annuler la demande",
         "text_den": "Anfrage abbrechen"
     },
@@ -8350,14 +8350,25 @@
     },
     {
         "id": "SKILLPOWERUP_CONFIRMDIALOG_INFO",
-        "text_japanese": "<0>を消費して\\n スキルレベルをアップさせます。\\nいずれかのスキルLvが<color=#E4006E><1></color>アップします。\\nよろしいですか？",
-        "text_english": "This will use <0> to upgrade\\nthe Skill Lv. of a random skill (or skills) for\\nthis character by <color=#E4006E><1></color>.\\nDo you want to proceed?",
-        "text_korean": "아래 아이템을 소비해 스킬 레벨을 올립니다.\\n'<0>'\\n임의의 스킬 Lv.이 <color=#E4006E><1></color> 상승합니다.\\n실행하시겠습니까?",
-        "text_espa": "Esta acción usará <0> para mejorar\\nel nivel de habilidad de una o varias habilidades aleatorias para\\neste personaje en <color=#E4006E><1></color>.\\n¿Deseas continuar?",
-        "text_port": "Isso irá usar <0> para atualizar o Nv.\\nde habilidade(s) aleatória(s) para\\neste personagem por <color=#E4006E><1></color>.\\nQuer continuar?",
-        "text_russ": "Будет использовано: <0>. Уровень\\nслучайного навыка (или навыков) этого\\nперсонажа повысится на <color=#E4006E><1></color>.\\nПродолжить?",
-        "text_fran": "<0> seront utilisés afin d'améliorer de <color=#E4006E><1></color>\\nle niveau d'une ou plusieurs compétences aléatoires\\npour ce personnage.\\nVeux-tu continuer ?",
-        "text_den": "Dadurch wird <0> ausgegeben, um\\ndie Fertigkeitsstufe einer (oder mehrerer) zufälligen\\nFertigkeit(en) dieses Charakters um <color=#E4006E><1></color> zu verbessern.\\nFortfahren?"
+        "text_japanese": "<color=#E4006E><size=40><0></size></color>を消費して\\n スキルレベルをアップさせます。\\nいずれかのスキルLvが<color=#E4006E><1></color>アップします。\\nよろしいですか？",
+        "text_english": "This will use <color=#E4006E><size=40><0></size></color> to upgrade\\nthe Skill Lv. of a random skill (or skills) for\\nthis character by <color=#E4006E><1></color>.\\nDo you want to proceed?",
+        "text_korean": "아래 아이템을 소비해 스킬 레벨을 올립니다.\\n<color=#E4006E><size=40>'<0>'</size></color>\\n임의의 스킬 Lv.이 <color=#E4006E><1></color> 상승합니다.\\n실행하시겠습니까?",
+        "text_espa": "Esta acción usará <color=#E4006E><size=40><0></size></color> para mejorar\\nel nivel de habilidad de una o varias habilidades aleatorias para\\neste personaje en <color=#E4006E><1></color>.\\n¿Deseas continuar?",
+        "text_port": "Isso irá usar <color=#E4006E><size=40><0></size></color> para atualizar o Nv.\\nde habilidade(s) aleatória(s) para\\neste personagem por <color=#E4006E><1></color>.\\nQuer continuar?",
+        "text_russ": "Будет использовано: <color=#E4006E><size=40><0></size></color>. Уровень\\nслучайного навыка (или навыков) этого\\nперсонажа повысится на <color=#E4006E><1></color>.\\nПродолжить?",
+        "text_fran": "<color=#E4006E><size=40><0></size></color> seront utilisés afin d'améliorer de <color=#E4006E><1></color>\\nle niveau d'une ou plusieurs compétences aléatoires\\npour ce personnage.\\nVeux-tu continuer ?",
+        "text_den": "Dadurch wird <color=#E4006E><size=40><0></size></color> ausgegeben, um\\ndie Fertigkeitsstufe einer (oder mehrerer) zufälligen\\nFertigkeit(en) dieses Charakters um <color=#E4006E><1></color> zu verbessern.\\nFortfahren?"
+    },
+    {
+        "id": "SKILLPOWERUP_CONFIRMDIALOG_INFO_MEMBER",
+        "text_japanese": "専用アイテム「<color=#E4006E><size=40><0></size></color>」を消費して\\nスキルレベルをアップさせます。\\nいずれかのスキルLvが<color=#E4006E><1></color>アップします。\\nよろしいですか？",
+        "text_english": "The following character-exclusive item will be used to upgrade skill level:\\n<color=#E4006E><size=40>'<0>'</size></color>'\\nThe skill level of a random skill (or skills) will be increased by <color=#E4006E><1></color>.\\nDo you wish to proceed?",
+        "text_korean": "전용 아이템을 소비해 스킬 레벨을 올립니다.\\n<color=#E4006E><size=40>'<0>'</size></color>'\\n임의의 스킬 Lv.이 <color=#E4006E><1></color> 상승합니다.\\n실행하시겠습니까?",
+        "text_espa": "Este personaje exclusivo se usará para mejorar el nivel de habilidad de\\n<color=#E4006E><size=40>'<0>'</size></color>\\nEl nivel de habilidad de una o varias habilidades aleatorias aumentará en<color=#E4006E><1></color>.\\n¿Deseas continuar?",
+        "text_port": "O item exclusivo do personagem será usado para melhorar o nível de habilidade:\\n<color=#E4006E><size=40>'<0>'</size></color>'\\nO nível de uma habilidade aleatória (ou habilidades) será aumentado em <color=#E4006E><1></color>.\\nQuer continuar?",
+        "text_russ": "Для повышения ур. навыка будет использован эксклюзивный предмет:\\n<color=#E4006E><size=40>'<0>'</size></color>'\\n. Уровень случайного навыка (или навыков) этого персонажа повысится на <color=#E4006E><1></color>.\\nПродолжить?",
+        "text_fran": "L'objet exclusif à un personnage suivant sera utilisé pour améliorer le niveau de compétence :\\n<color=#E4006E><size=40>\"<0>\"</size></color>\\nLe niveau d'une ou plusieurs compétences aléatoires augmentera de <color=#E4006E><1></color>.\\nVeux-tu continuer ?",
+        "text_den": "Der folgende, nur für diesen Charakter nutzbare Gegenstand wird genutzt für eine Verbesserung auf Fertigkeitsstufe:\\n<color=#E4006E><size=40>'<0>'</size></color>\\nDie Fertigkeitsstufe einer (oder mehrerer) zufälligen Fertigkeit(en) dieses Charakters wird um <color=#E4006E><1></color> verbessert.\\nFortfahren?"
     },
     {
         "id": "SKILLPOWERUP_TEXT",
@@ -12779,7 +12790,7 @@
         "text_port": "Evento:\\nHistória",
         "text_russ": "История\\nсобытия",
         "text_fran": "Scénario\\nd'événement",
-        "text_den": "Event-\\nstory"
+        "text_den": "Event-\\nStory"
     },
     {
         "id": "EVENTQUEST_BUTTON_GACHA",
@@ -13939,13 +13950,13 @@
     {
         "id": "RETIRE_MARATHON_SINGLE_BOSS",
         "text_japanese": "リタイアすると報酬を獲得できず、\\nボス挑戦券が <color=#e4006e>1</color> 消費されます。\\nよろしいですか？",
-        "text_english": "If you forfeit, you won't receive any rewards and it will cost you <color=#e4006e>1</color> Boss Ticket. Do you want to proceed?",
+        "text_english": "If you forfeit, you won't receive any\\nrewards and it will cost you <color=#e4006e>1</color> Boss Ticket.\\nDo you want to proceed?",
         "text_korean": "포기하면 보상을 획득하지 못하며,\\n보스전 티켓이 <color=#e4006e>1</color> 소비됩니다.\\n실행하시겠습니까?",
-        "text_espa": "Si abandonas, no recibirás ninguna recompensa y perderás <color=#e4006e>1</color> boleto de jefe. ¿Deseas continuar?",
-        "text_port": "Se desistir, você não receberá recompensas e perderá <color=#e4006e>1</color> Cupom de Chefe. Quer prosseguir?",
-        "text_russ": "Если вы отступите, то потеряете все награды и <color=#e4006e>1</color> билет босса. Продолжить?",
-        "text_fran": "Si tu renonces, tu ne recevras aucune récompense et tu perdras <color=#e4006e>1</color> ticket de boss. Continuer ?",
-        "text_den": "Wenn du aufgibst, erhältst du keine Belohnungen und verlierst <color=#e4006e>1</color> Bossticket. Möchtest du fortfahren?"
+        "text_espa": "Si abandonas, no recibirás ninguna recompensa\\ny perderás <color=#e4006e>1</color> boleto de jefe.\\n¿Deseas continuar?",
+        "text_port": "Se desistir, você não receberá\\nrecompensas e perderá <color=#e4006e>1</color> Cupom de Chefe.\\nQuer prosseguir?",
+        "text_russ": "Отступая, вы теряете все\\nнаграды и <color=#e4006e>1</color> билет босса.\\nПродолжить?",
+        "text_fran": "Si tu renonces, tu ne recevras aucune récompense\\net tu perdras <color=#e4006e>1</color> ticket de boss.\\nContinuer ?",
+        "text_den": "Wenn du aufgibst, erhältst du keine Belohnungen\\nund verlierst <color=#e4006e>1</color> Bossticket.\\nMöchtest du fortfahren?"
     },
     {
         "id": "RETIRE_BATTLE_MARATHON_BOSS",
@@ -14191,14 +14202,14 @@
     },
     {
         "id": "MATERIAL_LACK_DIALOG_CELL_ARENA_EX_BLACK_SMITH",
-        "text_japanese": "バトルアリーナEX\\n<size=24>１日３回チャレンジ！(スコア報酬/累計スコア報酬)</size>",
-        "text_english": "Battle Arena EX\\n<size=24>Play up to 3x a day! (score rewards/total score rewards)</size>",
-        "text_korean": "배틀 아레나 EX\\n<size=24>1일 3회 도전 가능! (점수 보상 / 누적 점수 보상)</size>",
-        "text_espa": "Arena de batalla EX\\n<size=24>¡Juega hasta 3 veces al día! (Recomp. de puntaje/totales)</size>",
-        "text_port": "Arena de Batalha Extra\\n<size=24>Jogue até 3x por dia! (recompensas de pontuação/recompensas de pontuação total)</size>",
-        "text_russ": "Экстрабоевая арена\\n<size=24>Играйте до 3 раз в день! (Награды за счет/итоговый счет)</size>",
-        "text_fran": "Arène de combat EX\\n<size=24>Joue jusqu'à 3x/jour ! (réc. score/réc. score total)</size>",
-        "text_den": "Kampfarena EX\\n<size=24>Spiel bis zu 3x am Tag! (Punktebelohnungen/Gesamtpunktebelohnungen)</size>"
+        "text_japanese": "バトルアリーナEX\\n<size=24>１日３回チャレンジ！(スコア報酬)</size>",
+        "text_english": "Battle Arena EX\\n<size=24>Play up to 3x a day! (score rewards)</size>",
+        "text_korean": "배틀 아레나 EX\\n<size=24>1일 3회 도전 가능! (점수 보상)</size>",
+        "text_espa": "Arena de batalla EX\\n<size=24>¡Juega hasta 3 veces al día! (Recomp. de puntaje)</size>",
+        "text_port": "Arena de Batalha Extra\\n<size=24>Jogue até 3x por dia! (recompensas de pontuação)</size>",
+        "text_russ": "Экстрабоевая арена\\n<size=24>Играйте до 3 раз в день! (Награды за счет)</size>",
+        "text_fran": "Arène de combat EX\\n<size=24>Joue jusqu'à 3x/jour ! (réc. score)</size>",
+        "text_den": "Kampfarena EX\\n<size=24>Spiel bis zu 3x am Tag! (Punktebelohnungen)</size>"
     },
     {
         "id": "MATERIAL_LACK_DIALOG_CELL_DESCRIPTION_CHARACTER_ENHANCE",
@@ -15241,7 +15252,7 @@
         "text_korean": "※<0>이/가 장비 가능한 무기만 표시됩니다.",
         "text_espa": "•Solo <0> puede equipar esta arma.",
         "text_port": "•Apenas <0> pode equipar esta arma.",
-        "text_russ": "• Оружие может использовать только <0>.",
+        "text_russ": "• Оружие может получить только <0>.",
         "text_fran": "• Cette arme est réservée à <0>.",
         "text_den": "• Nur <0> kann diese Waffe anlegen."
     },
@@ -15648,7 +15659,7 @@
         "text_korean": "<0> 제작을 하시겠습니까?",
         "text_espa": "¿Deseas fabricar <0>?",
         "text_port": "Deseja fabricar <0>?",
-        "text_russ": "Хотите создать предмет «<0>»?",
+        "text_russ": "Создать предмет\\n«<0>»?",
         "text_fran": "Veux-tu fabriquer : <0> ?",
         "text_den": "Möchtest du <0> herstellen?"
     },
@@ -16613,7 +16624,7 @@
         "id": "GREETING_DONE_NOTE_01",
         "text_japanese": "同じ人には１日１回まであいさつ可能です。",
         "text_english": "You can greet each friend once per day.",
-        "text_korean": "같은 친구에게 하루에 두 번 이상 인사할 수는 없습니다.",
+        "text_korean": "같은 친구에게 하루 두 번 이상 인사할 수는 없습니다.",
         "text_espa": "Puedes saludar a cada amigo 1 vez al día.",
         "text_port": "Cada amigo pode ser saudado 1x por dia.",
         "text_russ": "Приветствуйте каждого друга 1 р./день",
@@ -16749,7 +16760,7 @@
         "text_espa": "Confirmar saludo",
         "text_port": "Enviar",
         "text_russ": "Подтвердить приветствие",
-        "text_fran": "Confirmer la salutation",
+        "text_fran": "Confirmer",
         "text_den": "Grüße bestätigen"
     },
     {
@@ -16826,7 +16837,7 @@
         "text_espa": "No incluyas ninguna información personal.\\nTu cuenta podría ser suspendida si incluyes texto ofensivo.",
         "text_port": "Não inclua informações pessoais.\\nAlém disso, texto ofensivo pode levar à suspensão.",
         "text_russ": "Пожалуйста, не указывайте личной информации.\\nОскорбления могут привести к бану.",
-        "text_fran": "Merci de n'inclure aucune information personnelle.\\nUn texte offensant peut entraîner une suspension de compte.",
+        "text_fran": "Merci de n'inclure aucune information personnelle.\\nUn texte offensant peut entraîner une suspension.",
         "text_den": "Bitte gib keine persönlichen Daten an.\\nBeachte, dass anstößige Texte zu einer Kontosperrung führen können."
     },
     {
@@ -17551,7 +17562,7 @@
         "text_korean": "신청 취소",
         "text_espa": "Cancelar solicitud",
         "text_port": "Cancelar solicitação",
-        "text_russ": "Отменить запрос",
+        "text_russ": "Отменить",
         "text_fran": "Annuler la demande",
         "text_den": "Abbruch der Anfrage"
     },
@@ -17695,7 +17706,7 @@
         "text_espa": "Dejar de silenciar",
         "text_port": "Desfazer silenciamento",
         "text_russ": "Разблокировать",
-        "text_fran": "Réactiver le son",
+        "text_fran": "Annuler la sourdine",
         "text_den": "Stummschaltung deaktivieren"
     },
     {
@@ -17738,7 +17749,7 @@
         "text_korean": "신청",
         "text_espa": "Solicitud",
         "text_port": "Enviar",
-        "text_russ": "Запрос",
+        "text_russ": "Отправить",
         "text_fran": "Envoyer",
         "text_den": "Senden"
     },
@@ -17749,7 +17760,7 @@
         "text_korean": "등록을 신청",
         "text_espa": "enviada",
         "text_port": "enviada",
-        "text_russ": "отправлен",
+        "text_russ": "Отправлен",
         "text_fran": "envoyée",
         "text_den": "gesendet"
     },
@@ -17771,7 +17782,7 @@
         "text_korean": "등록을 삭제",
         "text_espa": "eliminada",
         "text_port": "removida",
-        "text_russ": "удален",
+        "text_russ": "Удален",
         "text_fran": "supprimée",
         "text_den": "entfernt"
     },
@@ -17826,7 +17837,7 @@
         "text_korean": "신청 취소",
         "text_espa": "Cancelar solicitud",
         "text_port": "Cancelar",
-        "text_russ": "Отменить запрос",
+        "text_russ": "Отменить",
         "text_fran": "Annuler la demande",
         "text_den": "Abbrechen"
     },
@@ -17892,7 +17903,7 @@
         "text_korean": "친구 <0>합니다.\\n실행하시겠습니까?",
         "text_espa": "La solicitud de amistad será <0>.\\n¿Confirmar?",
         "text_port": "A solicitação de amizade será <0>.\\nContinuar?",
-        "text_russ": "Запрос друга будет\\n<0>. Подтвердить?",
+        "text_russ": "Запрос на дружбу будет\\n<0>. Подтвердить?",
         "text_fran": "La demande d'ami sera <0>.\\nConfirmer ?",
         "text_den": "Die Freundschaftsanfrage wird <0>.\\nBestätigen?"
     },
@@ -18014,7 +18025,7 @@
         "text_espa": "Este amigo ya no está silenciado.",
         "text_port": "Esse amigo não está mais silenciado.",
         "text_russ": "Этот друг разблокирован.",
-        "text_fran": "Le son de cet ami a été rétabli.",
+        "text_fran": "Cet ami n'est plus en sourdine.",
         "text_den": "Die Stummschaltung dieses Freundes wurde deaktiviert."
     },
     {
@@ -18025,7 +18036,7 @@
         "text_espa": "¿Dejar de silenciar a <0>?",
         "text_port": "Desfazer silenciamento de <0>?",
         "text_russ": "Разблокировать друга <0>?",
-        "text_fran": "Réactiver le son de <0> ?",
+        "text_fran": "Ne plus mettre <0> en sourdine ?",
         "text_den": "Stummschaltung von <0> deaktivieren?"
     },
     {
@@ -18036,7 +18047,7 @@
         "text_espa": "Verás los mensajes ocultos de tu amigo cuando dejes de silenciarlo.",
         "text_port": "Ao desfazer o silenciamento, as mensagens ocultas anteriormente serão exibidas.",
         "text_russ": "Теперь вы сможете увидеть ранее скрытые сообщения от этого друга.",
-        "text_fran": "Réactiver le son d'un ami affichera ses anciens messages cachés.",
+        "text_fran": "Ne plus mettre un ami en sourdine affichera ses anciens messages cachés.",
         "text_den": "Durch die Deaktivierung der Stummschaltung werden dessen Nachrichten wieder angezeigt."
     },
     {
@@ -18047,7 +18058,7 @@
         "text_espa": "Dejar de silenciar",
         "text_port": "Desfazer Silenciamento",
         "text_russ": "Разблокировать друга",
-        "text_fran": "Réactiver le son",
+        "text_fran": "Annuler la sourdine",
         "text_den": "Stummschaltung von Freund deaktivieren"
     },
     {
@@ -18255,7 +18266,7 @@
         "text_korean": "멀티",
         "text_espa": "Multi",
         "text_port": "Multi",
-        "text_russ": "Мультиплеер",
+        "text_russ": "Мультипл.",
         "text_fran": "Multi",
         "text_den": "Multi"
     },
@@ -18310,7 +18321,7 @@
         "text_korean": "방에서 나가기",
         "text_espa": "Abandonar sala",
         "text_port": "Sair da Sala",
-        "text_russ": "Выйти из комн",
+        "text_russ": "Выйти",
         "text_fran": "Quitter le salon",
         "text_den": "Raum verlassen"
     },
@@ -18343,7 +18354,7 @@
         "text_korean": "친구 신청",
         "text_espa": "Agregar amigo",
         "text_port": "Adicionar Amigo",
-        "text_russ": "Добавить друга",
+        "text_russ": "Дружить",
         "text_fran": "Ajouter ami",
         "text_den": "Freund hinzufügen"
     },
@@ -18354,7 +18365,7 @@
         "text_korean": "신청 중",
         "text_espa": "Solicitud pendiente",
         "text_port": "Pendente",
-        "text_russ": "Заявка на рассмотрении",
+        "text_russ": "Ожидайте...",
         "text_fran": "Demande en attente",
         "text_den": "Anfrage ausstehend"
     },
@@ -18376,7 +18387,7 @@
         "text_korean": "부여한 총 피해",
         "text_espa": "Daño tot. infligido",
         "text_port": "Total de dano causado",
-        "text_russ": "Общий нанесенный урон",
+        "text_russ": "Общий нанесен. урон",
         "text_fran": "Dégâts totaux infligés",
         "text_den": "Insg. zugef. Schaden"
     },
@@ -18405,13 +18416,13 @@
     {
         "id": "MULTI_BATTLE_RETIRE_BATTLE_MARATHON_BOSS_USE",
         "text_japanese": "NPCとして戦闘を続けますが、\\nリタイアすると戦闘結果が見れません。\\n勝利をしても報酬は獲得できず、\\nボス挑戦券が<color=#e4006e>1</color>消費されます。\\nよろしいですか？",
-        "text_english": "You can continue as an NPC, but if you forfeit, you won't receive results or rewards. It will also cost you <color=#e4006e>1</color> Boss Ticket. Do you want to proceed?",
+        "text_english": "You can continue as an NPC, but if you\\nforfeit, you won't receive results or rewards.\\nIt will also cost you <color=#e4006e>1</color> Boss Ticket.\\nDo you want to proceed?",
         "text_korean": "NPC로 전투를 계속하지만,\\n포기하면 전투 결과를 확인할 수 없습니다.\\n승리하더라도 보상을 획득하지 못하며\\n보스전 티켓이 <color=#e4006e>1</color> 소비됩니다.\\n실행하시겠습니까?",
-        "text_espa": "Puedes continuar como PNJ, pero si abandonas, no recibirás resultados ni recompensas. Además, te costará <color=#e4006e>1</color> boleto de jefe. ¿Deseas continuar?",
-        "text_port": "Você pode continuar como um personagem não jogável, mas, se você desistir, não receberá resultados ou recompensas. Isso também custará <color=#e4006e>1</color> Cupom de Chefe. Quer continuar?",
-        "text_russ": "Вы можете продолжить игру за неигрового персонажа, но при отступлении награды и результаты не засчитаются и будет истрачен <color=#e4006e>1</color> билет босса. Продолжить?",
-        "text_fran": "Tu peux continuer en tant que PNJ, mais si tu renonces, tu ne recevras aucun résultat ou récompense. Cela te coûtera <color=#e4006e>1</color> ticket de boss. Continuer ?",
-        "text_den": "Du kannst als NSC weitermachen, aber wenn du aufgibst, erfährst du die Ergebnisse nicht und bekommst keine Belohnungen. Außerdem verlierst du <color=#e4006e>1</color> Bossticket. Fortfahren?"
+        "text_espa": "Puedes continuar como PNJ, pero si abandonas,\\nno recibirás resultados ni recompensas.\\nAdemás, te costará <color=#e4006e>1</color> boleto de jefe.\\n¿Deseas continuar?",
+        "text_port": "Você pode continuar como um personagem não jogável, mas,\\nse você desistir, não receberá resultados ou recompensas.\\nIsso também custará <color=#e4006e>1</color> Cupom de Chefe.\\nQuer continuar?",
+        "text_russ": "Можно продолжить как неигровой персонаж,\\nно при отступлении не засчитаются результаты\\nи вы потеряете награды и <color=#e4006e>1</color> билет босса.\\nПродолжить?",
+        "text_fran": "Tu peux continuer en tant que PNJ, mais si tu\\nrenonces, tu ne recevras aucun résultat ou\\nrécompense. Cela te coûtera <color=#e4006e>1</color> ticket de boss.\\nContinuer ?",
+        "text_den": "Du kannst als NSC weitermachen, aber wenn du aufgibst\\n, erfährst du die Ergebnisse nicht und bekommst keine Belohnungen.\\nAußerdem verlierst du <color=#e4006e>1</color> Bossticket.\\nFortfahren?"
     },
     {
         "id": "MULTI_BATTLE_RETIRE_BATTLE_MARATHON_BOSS_USE_DEATH",
@@ -18477,7 +18488,7 @@
         "text_port": "Digite um ID de Sala para procurar uma sala.",
         "text_russ": "Чтобы найти комнату, введите ее ID.",
         "text_fran": "Saisis un ID de salon pour chercher un salon.",
-        "text_den": "Bitte gib eine Raum-ID ein, um nach einem Raum zu suchen."
+        "text_den": "Bitte gib eine Raum-ID ein."
     },
     {
         "id": "MULTI_BATTLE_ROOM_NUMBER_INPUT_DIALOG_INPUT_FIELD_PLACEHOLDER",
@@ -18999,13 +19010,13 @@
     {
         "id": "LEFT_HEADER_EVENT_QUEST_STORY_TEXT",
         "text_japanese": "イベントストーリー",
-        "text_english": "Story",
+        "text_english": "Event Story",
         "text_korean": "이벤트 스토리",
-        "text_espa": "Historia",
-        "text_port": "História",
-        "text_russ": "История",
-        "text_fran": "Scénario",
-        "text_den": "Story"
+        "text_espa": "Historia de evento",
+        "text_port": "História de Evento",
+        "text_russ": "Сюжет события",
+        "text_fran": "Scénario d'événement",
+        "text_den": "Event-Story"
     },
     {
         "id": "LEFT_HEADER_STORY_TEXT",
@@ -19054,13 +19065,13 @@
     {
         "id": "LEFT_HEADER_STORY_EVENT_CHAPTER",
         "text_japanese": "イベントストーリー",
-        "text_english": "Story",
+        "text_english": "Event Story",
         "text_korean": "이벤트 스토리",
-        "text_espa": "Historia",
-        "text_port": "História",
-        "text_russ": "История",
-        "text_fran": "Scénario",
-        "text_den": "Story"
+        "text_espa": "Historia de evento",
+        "text_port": "História de Evento",
+        "text_russ": "Сюжет события",
+        "text_fran": "Scénario d'événement",
+        "text_den": "Event-Story"
     },
     {
         "id": "LEFT_HEADER_CHARA_TITLE_TEXT",
@@ -22069,7 +22080,7 @@
         "id": "MULTIBATTLE_ROOM_GUIDE_TEXT3",
         "text_japanese": "２人以上で挑戦できます。４人揃うと自動で挑戦します。「参加者を募集」後は４人揃うと挑戦できます。",
         "text_english": "Requires 2 or more players to start, and auto-starts once 4 are found. Also, 4 players will be required when using \"Recruit Members\".",
-        "text_korean": "두 명 이상 모이면 시작할 수 있습니다. 넷이 모이면 자동으로 시작되며, \"참가자 모집\"을 누른 경우 넷이 모여야 도전합니다.",
+        "text_korean": "두 명 이상 모이면 시작할 수 있습니다. 넷이 모이면 자동으로 시작되며, \"참가자 모집\"을 누른 경우 넷이 모여야 도전이 가능합니다.",
         "text_espa": "Necesitas 2 o más jugadores para iniciar. Iniciarás en automático al encontrar a 4. Necesitarás 4 jugadores al usar \"reclutar miembros\".",
         "text_port": "Requer 2 ou mais jogadores para começar, e começa automaticamente quando 4 forem encontrados. Além disso, serão necessários 4 jogadores se usar \"Recrutar membros\".",
         "text_russ": "Для начала нужно 2 или больше игрока. Как только наберется 4, задание начнется само. Для вербовки участников требуется 4 игрока.",
@@ -22160,7 +22171,7 @@
         "text_korean": "※선택 가능한 멤버가 없습니다.",
         "text_espa": "•No hay miembros del grupo para seleccionar.",
         "text_port": "•Não há membros do grupo para selecionar.",
-        "text_russ": "•No hay miembros del grupo para seleccionar.",
+        "text_russ": "• Нет доступных персонажей.",
         "text_fran": "•Aucun membre du groupe à sélectionner.",
         "text_den": "• Keine Gruppenmitglieder zum Auswählen."
     }

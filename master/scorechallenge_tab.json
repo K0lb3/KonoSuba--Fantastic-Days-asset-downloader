@@ -331,8 +331,22 @@
     {
         "id": "124",
         "scorechallenge_id": "12",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "125",
+        "scorechallenge_id": "12",
+        "tab_name": "10000",
+        "start_rank": "10000",
+        "end_rank": "10099"
+    },
+    {
+        "id": "126",
+        "scorechallenge_id": "12",
         "tab_name": "20000",
-        "start_rank": "19901",
+        "start_rank": "19951",
         "end_rank": "20000"
     },
     {
@@ -429,22 +443,36 @@
     {
         "id": "162",
         "scorechallenge_id": "16",
+        "tab_name": "100",
+        "start_rank": "100",
+        "end_rank": "199"
+    },
+    {
+        "id": "163",
+        "scorechallenge_id": "16",
         "tab_name": "1000",
         "start_rank": "1000",
         "end_rank": "1099"
     },
     {
-        "id": "163",
+        "id": "164",
+        "scorechallenge_id": "16",
+        "tab_name": "5000",
+        "start_rank": "5000",
+        "end_rank": "5099"
+    },
+    {
+        "id": "165",
         "scorechallenge_id": "16",
         "tab_name": "10000",
         "start_rank": "10000",
         "end_rank": "10099"
     },
     {
-        "id": "164",
+        "id": "166",
         "scorechallenge_id": "16",
         "tab_name": "20000",
-        "start_rank": "19901",
+        "start_rank": "19951",
         "end_rank": "20000"
     },
     {

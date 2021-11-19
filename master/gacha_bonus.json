@@ -68,5 +68,20 @@
         "id": "41002401",
         "bonus_type": "1",
         "bonus_type_id": "27001"
+    },
+    {
+        "id": "32011103",
+        "bonus_type": "1",
+        "bonus_type_id": "27003"
+    },
+    {
+        "id": "41002801",
+        "bonus_type": "1",
+        "bonus_type_id": "27000"
+    },
+    {
+        "id": "41003101",
+        "bonus_type": "1",
+        "bonus_type_id": "27002"
     }
 ]
