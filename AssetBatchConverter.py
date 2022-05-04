@@ -78,7 +78,7 @@ def extract_assets(src):
 
 
 def export_obj(obj, fp: str, append_name: bool = False) -> list:
-    if obj.type not in TYPES:
+    if obj.type.name not in TYPES:
         return []
 
     data = obj.read()
