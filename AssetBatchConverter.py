@@ -38,7 +38,7 @@ def extract_assets(src):
                 for obj in asset.get_objects()
                 if obj.type.name in TYPES
             ),
-            key=lambda x: 1 if x.type == "Texture2D" else 0
+            key=lambda x: 1 if x.type.name == "Texture2D" else 0
         )
         cobjs = sorted(
             (
@@ -46,7 +46,7 @@ def extract_assets(src):
                 for key, obj in asset.container.items()
                 if obj.type.name in TYPES
             ), 
-            key=lambda x: 1 if x[1].type == "Texture2D" else 0
+            key=lambda x: 1 if x[1].type.name == "Texture2D" else 0
         )
         # check which mode we will have to use
         num_cont = len(cobjs)
